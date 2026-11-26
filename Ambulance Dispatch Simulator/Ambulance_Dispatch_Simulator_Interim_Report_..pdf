@@ -1,0 +1,4797 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+/Title (Ambulance Dispatch Simulator \055 Project Interim Report)
+/Author (Ayush Raj)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 15
+/Kids [ 4 0 R 12 0 R 15 0 R 18 0 R 21 0 R 24 0 R 27 0 R 30 0 R 33 0 R 36 0 R 39 0 R 42 0 R 45 0 R 48 0 R 51 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/XObject <<
+/FormXob.62f638668ffed6f5bac8b90840e1be4b 6 0 R
+>>
+/Font <<
+/F1 7 0 R
+/F1-0 8 0 R
+/F2 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 3685
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+0 0 0 RG
+2.2 w
+n 36 803.8898 m 559.2756 803.8898 l S
+.8 w
+n 36 798.8898 m 559.2756 798.8898 l S
+2.2 w
+n 36 38 m 559.2756 38 l S
+.8 w
+n 36 43 m 559.2756 43 l S
+Q
+q
+1 0 0 1 56 763.8898 cm
+Q
+q
+1 0 0 1 56 749.5148 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.875 Tm /F1 11.5 Tf 14.375 TL 185.719 0 Td (Project Interim Report) Tj T* -185.719 0 Td ET
+Q
+Q
+q
+1 0 0 1 56 733.6398 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.375 Tm /F1 9.5 Tf 11.875 TL 235.3013 0 Td (On) Tj T* -235.3013 0 Td ET
+Q
+Q
+q
+1 0 0 1 56 694.3898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6.25 Tm /F1 25 Tf 31.25 TL 70.7503 0 Td (Ambulance Dispatch Simulator) Tj T* -70.7503 0 Td ET
+Q
+Q
+q
+1 0 0 1 56 674.0148 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.875 Tm /F1 11.5 Tf 14.375 TL 88.44055 0 Td (\(Using Java, Graph, Dijkstra's Algorithm and Priority Queue\)) Tj T* -88.44055 0 Td ET
+Q
+Q
+q
+1 0 0 1 56 646.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.625 Tm /F1 10.5 Tf 13.125 TL 217.7083 0 Td (PS No. 83) Tj T* -217.7083 0 Td ET
+Q
+Q
+q
+1 0 0 1 56 631.7648 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.625 Tm /F1 10.5 Tf 13.125 TL 152.9443 0 Td (Data Structures and Algorithms \(DSA\)) Tj T* -152.9443 0 Td ET
+Q
+Q
+q
+1 0 0 1 56 604.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.375 Tm /F1 13.5 Tf 16.875 TL 183.4798 0 Td (SESSION: 2026\26727) Tj T* -183.4798 0 Td ET
+Q
+Q
+q
+1 0 0 1 212.6378 556.3898 cm
+q
+170 0 0 34.5 0 0 cm
+/FormXob.62f638668ffed6f5bac8b90840e1be4b Do
+Q
+Q
+q
+1 0 0 1 56 516.3898 cm
+Q
+q
+1 0 0 1 56 499.5148 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.375 Tm /F1 13.5 Tf 16.875 TL 201.4955 0 Td (Submitted By) Tj T* -201.4955 0 Td ET
+Q
+Q
+q
+1 0 0 1 56 480.6398 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.375 Tm /F1 13.5 Tf 16.875 TL 210.878 0 Td (Ayush Raj) Tj T* -210.878 0 Td ET
+Q
+Q
+q
+1 0 0 1 56 461.7648 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.375 Tm /F1 13.5 Tf 16.875 TL 174.8668 0 Td (ERP ID: RU-25-10352) Tj T* -174.8668 0 Td ET
+Q
+Q
+q
+1 0 0 1 56 437.5148 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.45 Tm /F1 9.8 Tf 12.25 TL 116.09 0 Td (Bachelor of Technology in Computer Science with Google) Tj T* -116.09 0 Td ET
+Q
+Q
+q
+1 0 0 1 56 394.6398 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.375 Tm /F1 13.5 Tf 16.875 TL 173.726 0 Td (Under the Guidance of) Tj T* -173.726 0 Td ET
+Q
+Q
+q
+1 0 0 1 56 374.7648 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.375 Tm /F2 13.5 Tf 16.875 TL 195.1235 0 Td (Mr. Suryamani) Tj T* -195.1235 0 Td ET
+Q
+Q
+q
+1 0 0 1 56 359.6398 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.625 Tm /F2 10.5 Tf 13.125 TL 180.6643 0 Td (DSA EXPERT in TOP 1%) Tj T* -180.6643 0 Td ET
+Q
+Q
+q
+1 0 0 1 56 317.6398 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.2 Tm /F2 12.8 Tf 16 TL 72.7354 0 Td (SCHOOL OF COMPUTER SCIENCE AND ENGINEERING) Tj T* -72.7354 0 Td ET
+Q
+Q
+q
+1 0 0 1 56 287.6398 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.2 Tm /F2 12.8 Tf 16 TL 95.5002 0 Td (RUNGTA INTERNATIONAL SKILLS UNIVERSITY) Tj T* -95.5002 0 Td ET
+Q
+Q
+q
+1 0 0 1 56 257.6398 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.2 Tm /F2 12.8 Tf 16 TL 165.5546 0 Td (BHILAI, CHHATTISGARH) Tj T* -165.5546 0 Td ET
+Q
+Q
+q
+1 0 0 1 56 227.6398 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.2 Tm /F2 12.8 Tf 16 TL 190.0666 0 Td (\(November 2026\)) Tj T* -190.0666 0 Td ET
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+1 1 1 RG
+n
+30 791.8898 535.2756 20 re
+f*
+n
+30 29.8898 535.2756 20 re
+f*
+0.105882 0.164706 0.360784 RG
+2.4 w
+n
+36 37.8898 523 766 re
+S
+0.560784 0.639216 0.8 RG
+0.8 w
+n
+42 43.8898 511 754 re
+S
+0.105882 0.164706 0.360784 rg
+n
+31.5 799.3898 9 9 re
+f*
+1 1 1 rg
+n
+33.5 801.3898 5 5 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+554.5 799.3898 9 9 re
+f*
+1 1 1 rg
+n
+556.5 801.3898 5 5 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+31.5 33.3898 9 9 re
+f*
+1 1 1 rg
+n
+33.5 35.3898 5 5 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+554.5 33.3898 9 9 re
+f*
+1 1 1 rg
+n
+556.5 35.3898 5 5 re
+f*
+0.105882 0.164706 0.360784 rg
+Q
+
+endstream
+endobj
+6 0 obj
+<<
+/BitsPerComponent 8
+/ColorSpace /DeviceRGB
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Height 71
+/Subtype /Image
+/Type /XObject
+/Width 350
+/Length 48569
+>>
+stream
+Gb!93"^G#0)n,m#@(1$`8k_#t8;di'AZb?SX_W-m`p1/#m](%QJonma6&U;g(kdQo,2F8<pNt1K1W,UG)uG'@H[b.%]\L'lo^dS3cZ@CB'#]8:,bOaooW<W#9-mK#O)bs5D9c&M/`hfZ;CY3dOq1+&&rB./&J7pG]TiFkO@l@!s3TNHj7(nYT3nZ!:AkpXpir(\I8]lL#SN!TS[YD5L\LE9bZ]GWP>HhFII)$l^H./mX3;s^JI*h%huq$jpV#8W58p3W@T%`qA5mG[mh6%BrEpo-90XHYZ65F!N[l68=/.])V(*mTJbVM.:qQ`")5@$9SfTk=cAQTKdGN#,cB`iY//AUXT$Kob;rmGab5ZhIK?3Pe#QBqH55+F-,KW$NHqrgrcK$bd>5#U<VG"1_&ju$)"=<#P$UamuKCj"SGWX!C%lI30CT(3(./t%f:m?JaORIW`U6Y77XJc-p:Tl74PpmJA78a:hOGYc6G\;@#gQV>@Rc7]&I9>@&nldKW-,JF,<^(G1aM/u:T2R7oqYQogIB9]GaQf>O5*<tE2FP)nT75qOq0]:9cOV+EpLF#KPV]t-%0+eH5pk_r/Dl_:AYT7"Yh(r2G]+/^pP')VPU"kn+4U<')(SW,S[T"&'PI3-K^3]r-Y=^hHf_f?1o!7X7NeVB#['Wh0k9*d;(2a,Qjh+mqjF"JGl;+_99jbpa84bIA\D$+^I8.aindPiT9<"s,aX\dldJnM-d%^'Lkblq/*%G2+=Un45Tt+EQZE!'1e<m"?i1Bh&9:'*5>-@`Vi^C8J>$pALm1HOgY>/tN)$2)n6V[l?R2"f9?;BEH5lj/A5J)REqj/o+$bR)*gb'.pk'E8$iSC%Y?Vi\KgH-2oD_pjiDtH,g/:8:B0HP?hJ(gCVNA*BIt#!nG[L$(n1b(F?p:2e%;@ITI"4$N:Eou3@1&fHrq?sHJW_'0MEYeA^Sgbd;(RWY4RG"45#@#Y3a$0+',V3I,'#jSH[<8V_JTo;\FZ+lk0lU>#Zq,dJe[hVI=/iVo^qctGBZE3X!.Fts%9!7P`*G=_E$Ns'FI'[5Jo;HE+`f2/f3Ar$iK0L&uTCTIS@:Ln+W;N:4AGb`ReC$?-6Fr,(fq@5"@geO!DBY<Pl/\Pu6VDkfHUF,Wl146f%5Ci-l7;MZK.Gmje/U&(\c.<KIml(4(],1C1U>6p7IM3']"nDA`D'&(7r7i#S/WEpQ(@7YVHQhA_^cL?+nqhh`F/8)CtVOOMq;g="EtS=H*>NuhkDh9XAqq##EoldqsR*??i2s+Wi9iSKYggY:I5.k?O9Mk?3,:am)-KblCK^b]p1Bh:n<Rl>8#C2+Y*)AGI,NfY`nTfGhA9s7m:K$<iWnfZ\=Jc]3(ldr<`#C-1\2$?4DX/gm$iSFG0I/H$1^n$@?MUp?Z`N7'X(\2tLng-DNT8*g0&85QpF7\9a@&Q(J<`W7eS"#=WJ:OgH>KGl82#\Mq%ul1'C27T80/&*#K_@TYr&?2WlbS2YO?S'enB$kAc^m:PlJYJ<T_jD=6]d*2O$QgV5*/+&3;m7+s%(4r#C$FW&N]E&PRB)a`Z=n!pK:7?DI2:C(^=+H?nA=XWaI%Ln'VChP%<e^"]h^,OWYCRZ7h3!Y9#/F*I`MpLe3rfqZ_fIm0/W];*sDN'T7:AdF$e'"VVq(:Jam7YJ:(JET>'hX&lK.ZhgTmlZVaQo@p7.OcbdZg"Clp+9d!4rb]0b&-Oa-()F?.s8IWU&+1d^^4#l$h6U`)^A7BH5O[F?pX#U$E.-Z[!D)/flLrh:J).VS,;CqChS"7is'b'&@q%e7#uX[hgpqLgbSeK4qtBD=GOF7k@g?NS7@ZD].Q''u/*IKP()[+%&eYhM-G+HgJerXR"6=G#r;!6dT7S19b(;&\*ZbdpD;Dc<57`f@F,h5#!Yn7$:5458Xi<fB")(f;K$=5a`uhq7!!V>/+?b,I0TX6V&U;>S+dDm;ck_^#!#?EfP`ul\$rlf]dA*0iDarb8%rf4!gU9hG2F7>WrUq1P,DX/;d"(u%['V6C?f?]h'XEF1KPo\QAIIo2kWmpkE.Rlk\eitA3uO[s8E!@S^a$IV%.G%fJL@X-]aBo4`Q9J'gP@6C,q0uQM?"Bb/MIiWa$R5],!6FHUS%nn(RRW>c`Vb9B)Y"$&qg96^?8*fB)"-"J4(ZJ]qcVK+64"W#+6Dg,%SCpYoJ9XikHaep1!:@3$T"C+gVtR`@tUkQ7UG6eK$ARKUS?u$3W4dLmeFQ7Z87"A7Y>gGMh5hGn\[4bX7!#o7+A25ZJ*nK"5sc%N[`76URUj)5,?jIJ^%EWksJ$])'3n",@@,g:r,e9he?l*].QWJ,oc1@cYUmhgG$TV5<:D3HKZFjd2@%(]YFY)$PqQ['?kJ"DuS_8am't$i*-sD1W-2MZmPt%JaDf0J\0kJ1QWu2bo&8:^roseCN.!o^_+e!(mBN%+#q9?S3r`UIUBb[=uc@"[&c\V)<`"GV:^'5<hBZqhiU;5mk41'8A#=Y*b]J_cuU_]En?*l-fl0S1nBgRPej\2t1%]o+a_%;uhRfH2ms(q!mB/rqN7pZa66p*qU(%>b);MT7+c\%I$Li-j:ZBa6`3\J,%t-!8dMGG[P)J2BYA@#mMhT$NN+!',/Fl?A)![J=nDLaagu,%iN(l6%]SbJS#HRP_ri,FnjG%_;X+UCOgQMh6(PuU+VTA'lV5J?+T+Xj>:]*0K_'4#FGUNSq5<u>5ip-i1&>01+@PhlMlckUjjj:acuEM)(<-!@Zemq#:Y/W]7N01$>63"G\_qegg:FR#j&[\jJ<F1hHWGfUlsRt96b"];%/Ss]*i9.e6%4hmd9Dr[[<PQ%3@J7H5fW[eG6*oIGhCaH-rN#aJPN!h8tj.6"A%Er7>'k('L#]Hp3&"N#=<Fn0l2a.n1UY>QHsjn5":0j-^4="Q::ZE:B3$IVES5$ORgEE`5m=n9U3&9FQReTELsgqYL&M-"O)>JO(JFH%@)cbUj#"Lc5km&0G/a6Fbrr)NAq!_?K%X*??0fmd@6&(dEa$&M=(@-;U62qsV:PI=]odT"rLm!MC'YKu%0TreH#N"p2TuL(,(%WUQ)Y?P$Img'("JR^ZbF$@ka!oDrK!Y-;r^h2?'Ik[?_"W$.f[kQTmS!("ag([r(<LJ"D[>O(bZJrcCU;r"iYB3Zjf5;!H6^oqtoi@VPGIf^TUA$Lm_cJ26$GI4acGl.a:k)UE8;GgYW/N@fNS;Jf?fZA=15rSn^VGNkGrr\X=_ct4OG*Lo56rDT2FEO8/h2/9Xm;.PA,,!I,*O5t&SXlFX#n]91Bb*cTAF_@21.R#g@]4[TK7kKg+q\-5"`'jBW8PJj]ela\"q7/.^V993MM>@F@NRJX5,p)W=CDu],R5M#`:Z@Z&$Ub=+jZT7$Nrb@lJe39V2Q<M$M=!m?[W)=pPU]=!-LDOpi'&]G]&UA=rjs`<du5R!&@tk+a%obE[sfj<X)63-Bea1JZ)h2NfFV=;IHLH*\0!VAnJ2M[gn's=cP2"0f1]iIK^B(X&k\7+X&"Z$rB<&)-"Blj8d[8,T!O*!$'A/n!"*@=C5DG_?)_bree!8N^5$D?bZI.j2Zi$KSNXEhViLc^st`t^AdtE^hr2]0fr8e/s-#T6\YSS@(@VX($1JYL+gUNkR^i9;,L1U6?$(8#6Eca7Kds,Vpd(/MB3Yn)K6,)#R1[3%A#Hp-/_S/&,[*4JJS>h['d=#h2)dm_Y(Qeo-,A&+D6C2Wk\aB.!093:@@P@]-t7:+T@b:.?=P51JHF"l5HEfNg_b>p?gVD@8\O&g&I:&+nHXD#pH6n64+>7inm$-gPP?!U9f^?Ca>Hb`7:]TV9dnREgiV42a#0_^6N#rP$F->>a^`VBmETSAP-^^Xc0.$qlSQ)S[gbti^0C+'iA73[+#]T%7F82dF1bp>7"0-<7EO_FH@FeKMjQTl6%lCUuJu>C/0/Xj0U7&LCEIGV?0l$g/g]P8LFjQ9(\AnK0g<)(rA[hp?W[eDfH!Jmo&9V$LNI'*DA&P644S^"=k,OFR3E9'-9"*r;#rdXfX=q#8A>t!RY(q$e4:t`=)KhDI[0>2O']"RK10SD$%=GE!@kn0Oqp+#%[K3B)l6@,m'-U8*<4d+MZO3?a$W8<]hHA)<p,=!Hh4H!q%]&'I3iA3S;MhBk_f%.i/O.!=0f%*0=;SAI>7EfEfn48>YNhd#V$!^q`2W+!6S(&:"h1r!GngJ:]Lc`]u[m?!Y;/qYpB\_&e/$^`EWXKUW/M#2&Xc,)0lhq)K9F^:q<h2M1#LKp\C#*'c+>bgWIcK7S46gpt2@!.VkA5R"BcJaic=0IY;6c'pYa3cteN&s0Res83Pe4`THag^+>rHiErR_U"mf>_UEQ5i"5Gr+U(bVq#,fBIfYtI8p(:dt#9aJ/%_d9\4`nC76(>WHo8G+[?,!17%KAqcDtDs5bA1Q&mM95R((%dFC^n2A0RIm8"g(V$LDJ8!S`2j^#Xri6RU2NZYfS?si2Z*P@@N3GX+raBuEJpX;1kg7JN62C37pR_!A!mCiD'NrG45q]@Jp>^7&$:`^9IacC5KS^RN$DGS)IUAQ=b;G.;M&FrB':l-H=^oJ=5Um.8[1!u+Aes:pmC2*BCLTX)K61R;Y#\6=g"MfQ&cjW70(UQ2)VKmH4`.,"7#tc?q0bKL5R30R"U7*"Q/7?O$XXtb"G5LIck@\=9_!D-?PLOn^QjI/:JI=B*FlL@0(GCZ-c^#](Afj*XN6Pr:J=pMr!u(cN$OdTfo7NK#_&5M&5j0n..2t5hi)d'd_5mqr#CnZ4aFFR$B$U0sGSgN!IM]d#5]>2Q<?)JR1qmEROW\K_It)s0AZQHJ_2_@r6ksHWkKY):%A?-A?G$RB!/b+9pd/^p>ofqRDJoI6O$<\W!ltF)lgET@!-B@A^fZb_P2I[C-bqgrqp6'C'nDQt8I"*#A&jU`'#?]@J,_^Z)nZjm":Te^dQ0-Kje9PANT\W[#AXedOeS[s-im2=6XY`/8Jh_XZ%<B,nrOAmM_1oPI#hBk!AU7mo=gbWri<4gn3KiYp4ZdY,=de52I\XhAUkPK#iu);!$r!^%;fot<1q)-`.A0$pE:`-^UmFmd*VHkUuamC@rbcPq+LGm*9&PS'g6V5KX6$0h3:/\bF?Kef+!\AZLolWR$S\LbB2;M3pS7_ru.)LRDum1AR)%s?Xt$Z0f6EqaXYA\Ep2"e$!oENjt=0MCfT&PmCA"%H$/pT;g^pP]mF$F3PprGde\9#M3.&EaJFHR-%lo9YcG,/IcfIO/!c/64'EZ%QqAG_(>/Qk3go%;C40%m@`,\X*JN1)nbGCP_$"<Pf#5e#1DSIDQ6r!O:kYaE-iAjms+Gb_%U[$D##,5a)8VVr)Wo%!LTt>Zn)(mhYjaZ]-9qrkBRk-Qd*Mp-#YcRBS&:F4%R<HjU4.?kaRJE@U\3s).iSbB837VC!OMl<^jZLO"H[M_2)dHQ9JA/Z?o1^R:1+57f2-a+GYCeiJoqX#^D&X0?k,*R'e1&,K]bYFZa-n+</7W7O,o&9TVHII'QaVP#?[?VHT'eO@::=`-ChVUU_I#L!6kMuTu:g&[K-X6=KPi=&h\]<XBiG]l-cEDdf<0/r861On]kI'i8EOm;l=(l7c@m.'`&8p#LjWpA1:1;3s,:SL6*/b'S*;UUJSAJ2+TBe%*nqiR//ASktWR;VD<&uq5_(61+T"-TWlkne$6gLdn?tG012qD:qe^d['m3&BW_U>?R\Oi4T0WFZ;jsg]J%u5]kCkpSo/LINtJ&0#b=MIf@<Z+Qq$Dh@d)#qVLC(K'hr1+;J8p,H7Y<n:LhCA=L!1rBK]Cl*\2iZ$E(0r.*OpsH77;dP\,0(DWJhr$a?3BmQDf_LLo^sp-/EQcdsm+m>nQ0Z>u\5M.d.*dY43`iZ:E9Wi`7VMiIH&F9dU+X0',T?iesD5`*=;:d^TM&UBJfe]*[MlGmI/P>[S6T(_ooiPW:,hs)&!]Ke+U"9O`BBTS*KVJEE]"hG)*T@Bms?!SJ4p@NHLGB\YCK-Gs$$VVB^"'1bMK#7BHS$.km3E-FL'kq93@KI/Mec[TlOZtr:`\/G:B\lOd>(V'+[r*37Ac.i\)oA+U17=I]>lqRVEun45bWWU$6'oEofJs&,ME7j]o'^"R+M:?nm#_Pa*^%fpcGn3!>&!4oOE?)]->qVK!OYpPJ<d5CB_'%G=^iQF=-pWP!<_+BT+1&u1MY\On.s(iJ8/n:/4_Ut(g\h]Lc`5\g,hCM3ndfl>!';V+`1t.DJa<ERrI0``3I#tQp:c5"SI:BOJ;[p?/<R(+<iOC/77gCUguuHRW`dp"O;Mu9#:JAY_'^9cHaG1]'jk3#A456[mWVP=BJ[a(c#&X<=R2B($#Vg9-Pj)-g7D_]6ER7eAd.BIYGfr6ic-e4aOK2UdTL/ako_U58E&0eqgN*4lh.tWME&:+X24<E?!;1esMm'q#'UYNB`-oqYF>u?.V"DA4&0Z@^1PgX9a5t4Nii40ML!Hk>%\I_?E<!b@JRJ(bp+n`&Ke@JP,*&k^75nZ8Nq%f-")>J?R4VT?)u?@Du,Id<^a2D*%S$0h.KEc85e]2SF!CHJQk)d+'^kanL"'mE\"DW?O+3q/3(:oHhma96<"I]%`[B)F2raCt[r7h2V!5p6W\;$m.HROJWdejSi=$K80pT5()Qq@n4'j:&X2+U"f>11q0qCYD1+W;olYCaGV8=d,&Z.Did6*+;>*EB$?e$:L+?]!$W8A=FNOmbfib@*^)%cn1nmZVPPZr^6=k3.lee/jNg&??bUn:K0]V8!b2lsWkt8+gN2l2+nHJnk6^qVN=C+J\$^@K4F,Z%a96Na5r5G]`'26B;.6`^HhQg,WiEn)No(jOE[<+q)j"LqaH=AK;?Db#79'Lulg$@QT0HC[=YAGl/es.rLH2tn$j;10(\9.WdO+99EpOVF,PL1Ip3K\D%8HME)J[?pl.`,NVV7]ZrQWRqNug<Kr@"_SV5^l5,p4=<dNg>;blLXLKfoJ`!ZM*GG'3M2qrCA8,X"/%_7+L"*]I+/oiE6[IRl(VGQqjSf@/86HfgBTk!h`E8RGABG?7.)F(/n,NPM#r0:[fBmc"C@c^b"C/hUGAHHlHo`%0HB?GCgRlK'OF=0>lAEn13Doc)N]Gk%;*-)KVhT&)mjEdnN:DQsWMK7[u%3[2k"S^sTbLTF<;#2foXR<J\^AZdUrTom's-r8D0S`=L&Db7R+3e-,$&L3$]]L-<te5Xu^YG+3W@t9WPGAKZ@`N/R2]+8NNbSiQPN*7;?;5CeQ<;L>$6bX$a@=Z@*ZLjH^,&[NH[eZnT#QN>I]Oq4@<jjdb&7,X0cm<M-XibqY,iGl%SNks"RXWN0/D/;tR][a198hDq`7*qT9NitTkQ)?9J5=Wid:K0<0N0FEA."MjTlR)r3%?5?7Y(sB1JsL1Wlmr`Au874,Yhn@F]\s]lkg'cR_],M_:-k/dUo?@Yg]QU4=VjJNuCWc"Ys`l/H%hDZOiTT@8<E!F-c;sXhT)X=A`a><I.89r\IE"9j:>7DUu_$\:h19:2O8-e!q:3I6?;u]f]p&GlP!eiPq.`cC[-Li5E?W;:O%Fg`mDpa"N^d9tYNqluS<J>7qhMiUodL(.(phdA'4#RMn7K3I#k\]"0msSS%%AI>[u6COJ,>lga!>%b(RM6lJZt774Drf"_;"ZmPo+6q0[H<`e6h@@jm9GQ.U=T8&*?E^,26S=HNUWV!;s\!NF_.TPm'-"E&S"Eq\;F\i_tQadr:XstR3V+VU))<Btm-.1,fDXO*KLQ@%AoMnbT5u?H&A&aN$p@^UsqW+>;#An:Y7ZJ=["`iK2Bu#9%e-?NLcdo"t=hU==*t(cXh_0N%eCW3s6HcHN%i]JIDoR:3HI]=5G;:j-KEh`VT/pPfQDU*c?SDJB(JYDfNJa$&s2gJlio=N1451(P2lU$6;cm;3D9$gTWDeaLN:dY4L;l\6[Q`&Y"!d"K,=isrS!o_6S"#h5:,9:42)[0E0JkL>rdMt5]EE+B>J"q=?t:CdQQ_!FdkotkfRJhrLbU[[q"Q6^_hY`baoO^,Z!5iaQJe?_]63cn$lGYjY:kJ2%5=gYVud%)l2&F2+"PViJnM.A<1Q1#`l>lAd"&qd+=]XFqPmt=Vld'1QI3Bmp[C(W=YU2s`R<U+Ku?36$qgC*h`BIb&0q:?T_67s<hfNbMZf'ucp@]bhH0(r0Bb30d&8[lpN:1!HAlqa;kQYBdqLo[^]K-]Vf=0X6jb/ub"C3]6VPq%n9$0b4bO+I(+?O8*?+d>Art(fi#7t.R$pO6R,-8)#I="ig$D8,@1:C'Sna?P0o2Uh@s\@R#1t.TFSuK&rlp;$!/aX8Z1TtqX2p\b'3DBJIIQEoi1TrDpKEI^=t7_P]IM3SE$pY^)\j#-(DW>T':YP[rZ^rJ>tKa[XW&>b,M,Fs]=>h)L_VutjEiaJeG$Ytd+-YKa=q\T\*Ep&S=qTmr;BS\4nn?Id8.*`3`n7l#56Zs7-jnOc2MH[&4lfU(O5oq?[Q9i@,UG>]k>Z_eC7G?U81d^OP;^imB%D,IQPed)>%"^m&-inP6^6P\s`h.d&DtPHhLNBf&.I?B`g'gp@8/Q=V!Hm><d#L=Jub7<_3+MX;+V[ST3c>jm'u<r&dZ`W/*u?(QVE\7q+'INoi-r]Y7a4*V\Tg-$RgU]e1qOo%.54c7\"5)`L:se6="kXq3HiqrgfMHJ\!kB7Kp`B"iuPUgX@\!`N#dOFS$!OFcq/N*Ea_#;DoleSYNb:NLOZ4@BS"#Wql,bD"_m13n`ZYU2U;ZEk-Om;-X_\sGG+gLp0J&OQd5)QX)dV`mA@5=?XZa?is*Kf`K:2),`;4@t;a6nmetXLa.4#pGRNPEVmO%sDo"cu_dU+bN$H<QX2u-[jRG,DV?Lp%GqG02p@FP\nj4]XLV%FGEL[BGHGOb0"#oq"rau>-#_9)Y,JAgW%$$>.AMpp1Jts";Xg";;qA2)mja1E.q.=pI2FAlsn(rQ'[iPDb;G)l+aXJs20C=jSePP&BIAkNqB3I];m&-ci6JeZBZ6(9g?s9q_MC6/:B.o!6@Fr7(r4!PWKRKZAr6HQ'Ot=$Q*t<Q'st3n>V?\.P"5KE=80C!$E[:;.upC3^gePMElq$e0<;Y/Ce1OD'.*YoB4n44?%Q5\$<9P,@+TMVE7:/9FI8!'4bhiDIsJmBH0^@L[%_J39W,lZl*it!tNL2:lfTphr'6g`=;\n@<:RM2f6c"J$tT6d#e8qdTfL;3sfU[g1UL$W/"XRm$,ZH.3ssmPH`Df2FcUX6t'Uk?%>6$DioUs:K/H(?Y#sIO:g0GK*De[k*rQpNZC8rYU1b,FU](YkC(DXUPc:L&!2/CK<][k@^%@m@U`ZVGgU<?asUM"9DcgEVt?Bn5_cuu>JPmmA;NXHrVZ9Gb0'"@*mk49Q'6mml-lQreu]lIArOSgML>Y9m''SClt=,9lKRPi#R^l)Ct+OY0MU'u)9<*CqUOf7h_/)R00KDFVkLaIeF1D)h\k/.^?A?N#YQ=SI#oRGMb.e=mWpo.d"?iW=:_En>KjhZ@dMMb^V?7`:IK):MbW-RReuL!OWtPa9OaiU`W.T=,K&EbSuHG&(WppJ_&*Mdj;71:Z>GJYSV<2_+bO@M@U#7h>FSc_)]DqLQq]=oec';G5R`5\q)T3nUfQqsBPIU'7V-Frr/?\9OXcG9-n*0ad1NGddXd&+/!r,C/-BMbh+b$q^2$HU2(-J/]O9'+\XZ(rk6"9Xr'rFe?P*BD87U$@*S@"Wki'_5P5M&kimO!qb)4Y\rj80STJ^s*mK(9R/h#GqaXJu#ZE(%lS[BiaY4$km3@Rgq@o?(LB29cq;k:dgU'H1=$2A]#3?u^4[RE0H*N_hie(.1AUSdA)DsPbf:Scdnek=WB:"@]cV,EK@;uqs_r.,AD6(t.>1"195BmOki9IJjPW]gCjT>=8Z[n(L^HMGCpnftd$""n[A7TXOq$A5KF](F%6PK*fQG"/W:(,T[t9fH-<>AJ]rZVXTL:mQR/*\D102<]r)nT7eWN?1ceq,?OEC%V"56bfVL,3CP+prh(=pfO9[3Die-3"NP$-mk!nO\Y2u6enKR-Ar#S9@Y_"I]VksaFNt?bk.Gp8cb%:IPSc9Nq,RYm6sY`/m\IONLfb#TsC?sZ%e)-g5&TNkKWl^-9AHHY"#+GHGB8CR_rODs)n%JM307VF0tb:+#$W9`(^'.Ho#cZ`m("D$_I+HJ.cj_81;?Q83hl#7CP)A/cO`+JO>3#8WejgR]9P@%20-@X#KsVlg$f2Yq7%4'C@R2H0!=\O?:fs7Jq2MfH6H-G:3>)/uGMG3^,G3=SfOIA,9o<+OZoL1+$\LLAH^gU\h%b=6Zb\hGPMb3EjT*lDlS(040&&mN!jP"YYbBmFnO4UWV3j\]TsBX&3@rc^6RG3AmY,W=^RpkR=/`WNJE02(dathj"Qc+o5KTHM-9o$YRdO]QWQ1Do[n8H?tPh0iE`7Gh4Hk@:WsWa8jJ4#8n66!:aYti)Ia2!sT5^M3XObN)CZSI&*+<0;'0o(o`HNoH#/Tet`:TnE[F9SDAPdkiun-YE?C7*c;V0qe-K'cdZSYrbg-?rHf[Tg;!O#Ob43p=Ri/_S^jsl_bk@Fl`9OF65Vk3oQT2@Q^*j/cGmqT*YW)(W)Uk@0C<U0oN\l$o%!]^IpJU*j/erR5D@@U)[kkG0H:5,PS?8q#*f4*+[_:lY`PQVRnh@*UJTBPe.`*3M8A-!l!QIrkqQ(47"c^`(WA3dVG*fU-;riGB]2oo!/h_0Dg?QkJt`qUgX6akdQF8+RV8`FlDo`@2q!;j[_!D7;%WtEI_WL1/+86>i>ulF%M%H`2So6Ei=&a,PF93EjQIQ$10>,FAfr+rMI*cr:0=aaal-_e0sO,d1""]+l>GoWCn#76o&`Oi(<S#@AKC;$B&#Jh!;[:\!b<&nq1'W@Vn4pD7n5^fp@r65TVo8Sk$Td..U#1D+Cn=9K*?hF@Vjo.iF1;cI-s@iUOl<uKd&44")co$['1IA3=qu[79p#F3.M*9$l_'ERe(Vcru7V;41i*)'6(l!Bk_92H1ga[;^\[ogAqd,\EYI5*;2[5]T9Cs4"0OJmS5K^Frl_g+sqX4o]a8K%RU_IZoBPi.lM;#\0Xe6A7T6/<^SHCgY95chO:(fNn=(r78jA$gJ>!K<>"rHCb)kM9*=Y^!b>E<@bL^]#7B'KBR&1Rfs?DA)1ikO!sT0qHU?55j=FND/0lL:\@B&Z\[eK1".rV3Bk`,_4$,O_U4E`4NK&XGKibE^EH?1gNWT##']'J+hI"1Da#b^r)5t/&V*^[=jTYl^F?g$8N""c6!=?E[!=R!,iId5cP=,U8WlVnJoZe',b3H"5J"<pR[2h5'9>5*CO[I>'aTcJi+$OefO?mgdRUY@A&HEV7L(,1X8.1K:R_#M.!>fZ*f@JM:Gjo*48W!!Z.bP7/-c&(u1U6&e7YsH5P+K_jMT:9,Y0WS]cIC(1VB8<:PC>hJ+p2ok(_1pC<C"qHkisGYBEMH==@gu;VG_(V1jUpE'f7t47cR>`&2AY7;Zbt]+N&%7.tbi6U$F'[Qm#G/5Dp:p1F^Ju,B_W3QP!Xokt@bO*Gq;N(>$r"1c>r2<MC9u_WNpr%rR`QK]cT"S%`NJeGT-Y2E%657U^CN%%YM81D:Z&@%i+]&^<-@2)=p8ZB(Bdi:`:Cq%7&c:U;>69d4")hI)==]AQfnLp-/`;1O;c]/1T?h47i!/oS2e$nu_P0QU8l_b8USqja4J'6mc(._5Hd9QE'&GBCo!]cX\:0khW#eXoU3CtcDu<dJLbCU9POoWgt@1N2*\[:ms^n`.Zb'gMrm-<USP='&JT?[k-L(Dh/U:.B-h1\.VjcJ?+ADtmVm]mHZj_dm0A+=:d,Q;l,u+u&]sg(X3%4HQ&)VdP>].3W,n:/98m%7AmEqPpPD%\o$^@beWl$^4N;6qW2HI;A0Ia,d[sg'0#;WWAN?W`@Zt`2j9IGH.Bn]FCZdj/XiRX^&+^li$tpHEuRLQ`kYF\r@Ud>XML#qG7iUUefmarO!ag4+-+")dAsQ-VjXZ&f."/OnQFA^\D@PNWhktn(k_t',Q)ria;"1Y-YOF))5kcC79k]'FN1el'P=XV`IM`I.9g?Gnmm4+WjO[&mZW2/hdiV#.1-EX_[Z0-*<"fUbr1gEqf!-m.?AhaJQ<\&C>%m73^(j@:<T9St<`%qQ"DiSP,CirGfHVe2<=\6ldbT%d?6\!Iu%krAEOgpeu0Q%6:RkJC*tCLitcM;q9=GYd(IEG4!H<f;86^%9fcnQi#)pK9WaY&W;rIA4%u3&I)*ZIJNhGiTo*d[C-Rl2i?+YnT<uo'IF)F+p/5lLI$W]^necRJ5/\1:k;'2kYdScL`DRW)P>#CT[LA-"qTB'#V2(:aN4G57&g_SH(nW>2O-e+-SY2Qo\#@C"$\$J9+Fmq<imqZ%Mla*M-rWDo^O=QGqMJ:.BY2i.=9J5psGSpW1:b\;\gnm[BYcH1',RM#MJB?e#9?9$B)eUnu&]EY`,b[EsZ*Y=Km9nDXboj-Vl!Qh8O'`!Im56pENOu?E,+oPSD@)+p2<4lK#6.4sT+QliNK"6X;jRrlXeh)qY$Ngt]r/)@[>acQ(/S0fZ7:^@^:<g[/i0Gg!SUO<C@lp%<c_IPC)B%NUGP9<)d#%<\H_&L%p"a>TDHAb*<OAhF&AqsP=Q>VpBegfZG2g=t"sFasH?p/g08GVK-uA/6e&R$*U6RTE>nF9MpUhI/%k5"`Np@Ec6d$Pk?!AAE65/XG>:db<@XqYJ^@he(0(q:/PRU$VY#+08NC!HRWTEm#\rgo'Uo0>:Q#I/1\(q_G>qfs_^"b6"hQ?T`NrMaAB0:Lf3l-5[n0IFU1OW58^'`2HNXN(aYX3DK17iP"=L`QM=8>J"dtW\l;V=Shud\[*<S:GX^]rat0bJV-N@7RH5;Ffdt.#;Yr8$bosYE6Z/+U8Fj%>;jVjq3Qb&]rDVn'65nUEU'nS!sZWPBL#XuBrI/k#XF]:QhUG?GD4j9]ac%XEBaj^0Y#!FXsX`%X^/JpWhVXDF+?=BdNI6H5R2;QYS"l+p/Lq2dj@.A$IR/A)F+fcVGE`el!umQW=DkN9MEKd)2m*[eBu.=b^2-Tps?QmkA[sOnh^f$3eJt*/B<5S)8tS`;ono(Ed`Ie&;mO2P#)+(I_+!NA$[S<!M@L7Ta"VL#\"iNUW,*'YtS=@MZsu&3_:UhOAmRk:`p,;d#J9'(j[Ed#2kT%_1BHg%L69OW\-%ci-DIX,>sSFK5'E0i#'.:Ffdno1c-H(lB+deO]4g/A?-'n>sq>D./W7uS&#s][`#\%L9Z`uW/OqS_dmUV)H].EG,PoL-B7--1;:U`%CC6`p%6A[J#GIbP'BhlZo:A'ABX)XPs)&sCg)CD/s5k?o:c'U(Q1?/41Lf6RGL,2C?dJj2#Hq4%o<d8U/0Z4CAlqc3lQeB1mD'M#=m%>2aLODI%9$4%37/gV;D7f<>jt#mA$N2O.nRQjiZ\aWQFPpX_;:9ggD9%EeRHoXQ/=%9-,,q'Q'DWrVD0)?m3Bu5mkRs*3-.r;JX&Rc2L*,W=A(GVa$S6e.!2sPBPH;@:f^5CR;6;PFC?5>>NCtr#;+lEG.V1Zi/t4K*Pj-6%9W2CWILk)&CP*OID\kT+oJH,e=P>`E<rt(qat\G9G^</'U9V#5?Tp7(o9LTT:SP@:107810?9]lD$6m*#^?774^1+r"%D=56B^[=@@WG:2P[?[O_1CER4!cpj#/WZWMt2,mQ[p=C-9AFPru_oIcW!U6Ok6O.?!a1jqD;[/g2TV2iTWBF[aKDjl%gNR2(heHn><#4a06kN>s&N9b3D<sb'(kQ^`"=4M_DoW>+2T+&i46)p.]rUl8LHmQ*aWgl6r,*+o,qR/`IcA.OCI;%A@B^*md5%Z(.ZgQZIJ]!C1!7VSn^sOB_Lo]l!eLLVJjP&UDd<%W(]JjaO?s?c$orCkgpaWQ5h"4_!8LO2<;WWR]oi7mF`f&!g:9B46)NYW4!@s;q8\)7m9V?+j!TEQ6Utobp4K;dCG/Gg%+R;rdIk'(\f;_r0HVu.E2ceHS]5*dj&gCo',Y+[+CbG6!FhcU*@.1O@6mS_0Q?*:2?fre!"Lcj6AL,Y2,bjM;C40o\r9agJY/Y+--'^1s#Ah5<.HknMkiM3F0HVMH8<H,KOu$Z$iF%+e\Fu+3HR)!^k'<;;"YuE!/FOB5)7"2VQll[#2sl%J=R7O_,UTD`:'%X>e\X+5>t`a8I2rLO%PT9d7YOVUk&OdV+:ARAE`=BjMc1PH?sA,_G'/T:fU3tBLACU(a#X03CJRS2-8<XQr!,8E_qlPfg(Ukl.<DJ_E%pLQoJOPil):8A#!73RM9,$5d"L8)S@UQiG^b@X]fRYAheba=<Q?c2:/TS-r^l%OXpRl!%)C#k;ENt&VGgc4_C4\M:qf0F+4/^\#_[c\m!hKT@)m$+C@N5ORm"pZ%E9qOFRF9O]\M:Id@klHtFYq"ba`%pXZVjdFQ[/Ods#YVtKZg3Z=q=e4I?WU4n]&mpK/V4Ok<*%Zhk"?=pBl/C1#bXhD+:79EA?W*RcDF?RdV;5:BjTr"W@HAQHo]"CHW#pE/C<>?R*FHD6s=//8A.!hQ_[r1"?*ZbeL(#G8P.=5;L)t\*aRgtX`LB6]GTiP#\j%/1I.':>"0(+d=B7fn'^<nNYleBMA]7Be[Q``APgV^qu(;)g2HD$<+_?X'uTEf-/3*T]i+mKXIKo4.*nrF4#X4G`E.^,e.N/Y-Q[Mh1,Sc$l76\#\d#;]oK!)7MjP@M?IGu[bB,e?m\G4SK5$0(,G&U(h/pL6aNRd-o?QiQ$3rl4(C<WY;iO<L3i#>-*14)"G#?*mm'5\%Z,3$qLjEb?UA8Ipr/J;#6oU^SOJ,V];_!*I#K],cDaV!69FBeqNO)7OaU5U9eUPj</Ae!&Fh>?@0Ii_!EiTEBjfT5a6j.f%GInb>"#2lEJ.g9<cfbT_eY'MP<5kV-pRf`3m7$Bn97#==TPb7s.p_^82IfHsHjDKiSXW9<Z+8cT+g3CMR#?D5/(A7VAs?6;N=]Y)nJdL+("khC$j)DUg+@Dfhu#o[[5kV9uqNYsQ`lj.M_O/T"5Rd*MPr#s"2.!bKcjML_6Y--%`^A3*A(bj<lNuKtSMpWal*AM)tp;F/dY$#a+,8JE0jHGgaH@!.:.+-`$?<6bL1c0IS[Oo5-hJ@W&fWh3lN#juojRD-G"q;S.@.5;`+bR1W%j!E6pu!gGN#_lj3'\E4<R9IUFO?fdkKfdDb.:qe?`WBSr2hP)?nk<2M2q4KSPK.GlZ'gsHoYZgf:tfo*AM[&nDPo*A^ui+Au)<^:S_JRJ\kcp3/N`hT7>qK@7uMM5_+V#)ZhL<jNo&Pd>o,$Lp!MZHMNU4*b5Vs4dZWMLq;PKGn8l'2m563\-!!0c'gN-b%d*%+a`5#?[Y'I\eB%%#fP-.LVYi9\A6^'N#kF8T'0QtZ[2GQj2[0lAnKWDeLHUoLsIFs"8;"JLPL/#\ps>5(LTh.g(#25bQN5,EaHCl_39XWBY+=\]9qC+J/Ts8MPcV_qBR#76Z:t;@=nbNQ+e4oHJF;gctVN0%\r<&Y?SL(re#uHVm6q8OW-4d2eJ+=>#82.Hg=]G-N/k]6X_SJH,KRk3GX]UHHG0#Bdp$+,5ni0)=UlIP93,R]3A->JKU8E]Y&:8hpEn$`&pL*;10#:"9t&WTr$u"djH=kO*33TQml!816%7R?:PtI8l1qK]-3I,B97ZH63H;JT[GND8>\*Q39W%=:I'Zh1_tj)1!E2_U(o2!`I`^*J=`d-aK?gWErPq'(Z/CbLd`FCHhB/om%4l]mSRe1j:]jP6B(ktRQs;WUDt9]e/Y\:NP^_)AH_6Q67qSgITW"Zp3cgkqa;B*()$2u0QN:AK-hecr?u;DGgb.@r97/[MjLlU>JGOFL0^9,Ctu7<e!BZ2[r6kCna_D3K"TCs%]O9N*HGlpR$ErONfK)[FQDVERss)*H,H6@>7U#VEHqL)\Ce#tjf)U:ah42$dF.s<J%C3GIGNH&g!nGP?!ETg4?#GIm`Mr\-VjZPCX:;65HS2(B).=L5;$=5_obtPf<&DnF4]!8&+)H.nLl:@qoPTl'kR&tFmY`:]cZ:"MA4\'8%Ks+\W<q"r9NjD?+W%6gpM9g/8j-]jPYTFOPmF-QZ)+].3XIE.CgRQM9UsOTUYiQn(k^+l]*"?G4+/"D;,i9fXc4sTqD'J7"t]I^%F[!"N_:5m'GQ3Y-*fIk/N.1]&M_dUa,tOFoJSNJ"6H(d/JIJ2fDm7B(alC.f]TN/R,epm@'SM[i@VQq!,g+Z&oXm12acV/?#VOmc`lM*bN'Dp^'XXF[-S&B@!/S]QenOSm@gom'^baFN`5EgU;#]E,^lQ^L'FK)[/4Eooa].6R$pJU'R?Ap28ZqIbWGu>;gET\7$DrX]m\'4aQnsh)fja"M4gK;Mf]aFp_o5Q2nn0O!+VIH2dTd`RC^pDVoVVkOtGcfC.CuC&bX/4#_*7[q!I4ZY,k@5=X!Fq7r,Ps#r2/AB9;dM:_Sm4d)Ok]\cLlZaG_@2i=4u:"#^AFD12$ArIeb]1=],)?tsR4gb5L<<3JJ8jGjfk6&djV=N#7-t"/s[!4m1noaR;[IkY0i")edh#r/+^G-sJhMdVjlU4kf+mtSN]4=jFpV3VhbtLeVO:^#E]En(dS3JOB`$ANI_:*!CdL;nMlmS/sN1jqoK2%reT^jF-ppr9_eUYh"NA.XJS*kEGn,>q.K!;=EgfBL9Rgb.\L\tm5m\AW[<UX-*d!OTNX`\2n?9ER<?;U,H0;ka&pN]V25qu!h<4qM_DM-&lAPhWcVn'4/o_"-Tr26C;oA10F0?q[cQ(RrN\?I5C\#cO$US1H4fd?S)%VSif\0=L?2^V6Cnf'M._TnUilLLB&-#[*Rc$toNr)leOPG^Fo:S'^qP4S0G??Y:c][F+FWg`LI]#qIAAu3iCMM,HCTmH2c^48;,[WaR[='*%`;,C/XpS'@Npj$aKdIYfGJlaT4CFe:aGI<QG8ao#jOg6>;,%uI>?+7&=Y+bR^S!)S)VhN+c&><S/"Z[,%Mt1Ut.lrc=7jRHc:sKDNqiW"sj!mADX/3A@XgPF6ZFoOHBlR"doDICVgh6G.3<db#$4HF`%`F\eMTXhhDQ'c+l>6Li=%7br+E``=7VV<M_0R>D78%F6S+>!o-&%%A\]$5m+VkdS5l.d^TY09L:t,eM!gj`%5ac($d9&qm*?B"dbk$FVK#6<;@X'UD=pc_6H1h#&>AJ:UG:/2&=UfC4agP^nMNjp/,\%S_&0:/g08j3!jh-&6=.5H`o)U1<EILYS5sb=IdalF8hPKW6r]c,:G*"*fm!<VFJZfdL4o>2eX&`8p?leI:1+<"sDlD&EoGBW`ja[to&';C<AAAr`8JQP[+dks?Sjmr)8%bl',6M<TQV-5bWB:BU9..PAQ]e:?3ZennU#.]RO.,<3idX[#;M^E#.d*<U1.!a]OOBk*BG:c0lLMfBbFs!)!Y#S`ZiPF\\8:b%VVtO'K.q'khNTIuD&lL_9Y^]23saM-1]oA\0SEjKiT.j_]t,U;TJc0MqGn$P%H<D!5ec@I_oRA.JA-,\^3<.jFeX;KBRY+<iXVrdPE9mMAt"hRmY]AaP8jQT`8)I/Hmnj!]9?Kim3^QA&6jc\KX+ZipX.TqaH'nin2GI:(0oN/ENqbPkRbn2ls!RY<4\k1+8q9.]*OP31AF0c4.qJj4$UQ0@5kcP[nto%ru@]0X7n2NMPsbYUAX%uMH&6Y>GC[=)!+S8a:&Zt$0@c\';7bO:W4?!%%]b7.Xf')/='QiXqc/6j8q:*5V^[BK-E2Y6,SR+IhP7]F&3,8T^Rlu#]i6CAR@$Qf0o?&0mT#u]n'A=h:o3?E=p;^&@GAa/aSdHG>!;(3?uL6:UUu3J-a1:14O<_TT:/daI/Usi86bEU.Qom'o!ThbY9bXmO<FQJ*CdRMdr\D1>!]4)Q&I+7-h*e=@R9eAiu5lg$o;8'''7KJ0p1G1q6=Q6b=/5J.`u`^`Q*3,^p@L"$0u/5Tmie,Is\nKZKuDUDO47`o`E@c@6ECf^nY;F<*AC#am227MsL>FV.Lh&*n!!aa`mF`/u2*Bu"dLHL*VK6+FYn<HF'00@/Bg<]j^#lJ\g)C"@H(Iib0&V_WKX<6f`ZaKN"hWN:&S>OE$Z4Ze.jjk1lQXb!#0Eebos!?WGY1)H)V-D[H4Xf\I(f[S8H="CAQ(=uTECTE<3HD7BqBP9X9`Z(DDFca$E9eFf)#"`Yp;;Xo$U=`aW/V.Q'S)Idi@j>4dlg)/uCSf;#h=^G(%1T&/-=LCo:K+$m\OG0'9XM0bl^Picn4JVGYt7nbB%>[o9#5d><Y43kSnTI"C2-$`6r]-MBl-#/k[A]>I_mO5$u1L!;)M/[/M0d:EIC!QS"b5mAg:9\%\a*of;#37WhE:L6sYGLWWqS6eq%$q2I@MpR`)VAZJ(HjW_?\c:JIsq[LP5dgt4#iJ8U%al_+P+8fD5;g=W,>7<OUYga&=lTlZk5W-,UIcs>_)igMoad-Z^HMoJO"/#ssRF\jA5<20Jo%@mS;ogE(;\l2[k=p.X<^qjNB1HD+iM7C-_I&gRQ<J10U;H!r8?9tgs2'4]d!=r3U$l7Ng/^UspHO!/I>G]TCeWQe!85[FYf"s:<UlO0oY.D3iH87D0G;hC;3][iK8S)PNn6u$?'H)REgI],oVRs19Yit4,cFg\r?m&-NhB(!6rIu1_AVW'DYm^hl:.l]=!ONmk?cqGn2M*\>+BSV!5\'@VO\[0,NXF'^BEOe0;6eFJXbTg<*#^nlVLQk;,(/71dYR+if5Cpmq=Q-uKNNRFA<:on42<&_/#m'QGi+!p`P=04Nu:=4%qD)9\$-26G$b0Y1Eo+O_po,j^Aj4'0a[-kf4P+"-0XWf,n`6P$4Wb,D\sG4c(Fn2aouMLF&H46&L2SUG`XD#3+Q;@Q*f.BeNS7`aPiA&H)7$a=7L:l#mlk:?4AQmROb=mk>oXpC1;HgZ%@j8IT8MFNgJP::TdEBT6P96ge+.<?7AP*<[9#Wnb=atS5M!.9k)Od5//?dThHRW:J*+uEm"TB26#iJa_>l!LaeU@7!Q4FOOTA^>g#dAN(mt"Ud1MO*1e?T-h(ma''g0.RKU)<q<:^n4[0+h`70O;[-$FRE2PiZUP5%4+2_sX-9#t/)A6!6"NaIdW-Nf#8lYr-/1)G;X@Z*?k1&sc+MpP^+2nT$TKId4OcWPe9s0Eg<5rlm\,rTr>s,kF+VEuA'r[#Mf(/Tt&+i6&+M!NV!NKEHa0";H<Q=RecRM,n.T'$Yj]3]R5[31*=7I9O]J^'rTUH74P2:/&YN*0T6Ab2@/Ka6[2+`?)V,ot*:TYpQ-1hC;!6qV,-<5,Ml?K9;JlLq=BMf5*=.@"+k6U@_cn.hs>^.Tl3fa4e1;5)A!4=D>Ne_6iQH.!E-ZH(FnMM;(*LC+Pa+IH$e0(mV-:9S)aEk],gjrfUc^Irg1q"$O)d:MF<Q9(u;/bs(\=?_'b-QiKY>7`h8OPG8:J.W[9S<\h#M5%qUo%3@-,U^I`T=bpF7Hb-$I\umQL];S;j(JC^!lKA-(#X/rE=,D[f:2`:q6?jGijY7eO;=He0jdrh_,GfT>]>98CoT=TGrGU`NiX>E'_^i,tR*b7*\@e.b`!0Y!q>@ncU6/&CEB`.^Cr$f#L`QWdmD:;^-cZiLrCIBLO.KS!KdCJ]Q<kNR?,Xr40["9O5'/+nZU;C!qLc/X=KQCh(bI8LO=<6YgI(b(EF#K?\4!.',+.7^0Vc'jHGt]+2K0k5]0,AZr-:r"=E@,P2kY1^Xd/LhKEc:_tH'Oi[a-MkEuNN7^uk?MT*M7MP"f-12JA;`&1VS4!RNUn:"BIeQm%O\49Z<q.k"ot\E%)7.5/B81d1KR.ruG^'EfpBl,6)=$?!lg5?Mh4<lm*bjdUlg,SXk*+^ZMsKXC1X.5cF%1tdB9\0aKUZb5S(gXr[fA@J+AZp*2ck+giZ.%IG'!NP88ms9GE59RcY,8@GRpFFl(0W$5!cnhrnagWmZ%mNc?p^P^5#4Yn#QY9n*oRZ+\jXeY20c9ScK<riR>JL*.@W($f]rRUN>amZ_P3GLUm:OHHh>:0djeM:;V,!gKnqV>\><A\-P3E+oaOj)<!49dEZ&)*](^3\V3b#j`o++U1<#li`nV[4FCUD4JH-:,@0,X*M(+']E2ANgi2lkF)m=_pP<j2&^9lAE:JTt3Nh5D/tUHcXrL6@#S5682to:5T4k19QT+g[iT^FQiO\p+\@BQ(nr/spS1rDDf#9A[d=pcC($Y,um-GANk+:cmKB)7?opQo\ic\hc1jCt!"%me!qp'f;@pQab*S_:_B8=(nL,f(K]$B;\c].YlJc+P5]`_Y_j'86Q^?)lMjE\t"l:!cr-G$\mS6Q[Hh0:QdSEViiVU(3@nr.[4NH=iK(.C6q7(PF73)5HVGE)-7M=YnKF*!=bFlg/ZEnn<:S=tpK*:K:l[pW:h88lf[:Nqhc#N+>fHAZ4f1frmj(ekjK+@i?fC"!3VSfDsq`&5ba$I@OnkD9B],0IsF/^D7nlf5tWn:8Q(T&/uYhU0%nJDUR@3!Hk)"FGG!\[dL,\jsAZ`jiPZHb\P"&\<-Sk)F.>($4MB5Il7>k<'2OKr[\O0,f84V6d/maeO4[%RrOi`\T.Yoo'$"bW%X@N^X1<86"<>O@Uul.PN$2,!uQTT-P%7%NQ][MB7A'><:7j?)l,p5Y!m]P::0Jo9M;pQ4EaK=[t,2=#ZYcn2Ii#g:a[7qm!N9(#(bPgATRN,O@\-OiWS_b<Atadb:(SnSmBjGgH3bFOTP:oEZu%jMad7Y2AGfp]OIL*g*8&nB%Y:,9?/=B\G1?>qR.7`eYkS(P.YKSaW3s1KdRSC8e+GlqH;LBE&MXjcNafn=aGS1.W-,V$);-8)2frSX,SHG(&!ggF-"D80bH;'=/f[M]`\&8=O=%(049JPN%Np\7QM]k'!G1[PnUgK+*a7fnN?TUBkq1#b*8O<]2lg-3[OUL"k:9:7`*X0I:,tPabUL"\tHu5%R?R[:T9sajHF*OVZL[P9re%3Q0W4L>(;;FKkM3C_^>p(1_;&An2`k@1bZE.b;lgb/OJQN3\iY1":MAW4@>D^1EO[9pEWX8DC+P%ZWjKPAa4%^1h='CgbDlYi-I($;<!L/8Y.%jr?ap#_kVZgGg*F3?u^llY5.Rma62Q@?^%rZ;&6i`_d0CGd]mXgF1?`'$&QE.NE7honKU/:"sBEP8uV]m%Z,V+tZL*oF2HbmGi#[`7m=<LP-N^q&:1Q,muZ<%_&[%T&L=MjN*hU&o0Kfg;H%6aUYa5\7n8?2e)8'RIRBF@P-uaCaY!A>"9Es6o0dr)(%)82PE%[+gtFV<gL#1k`[,d1_s%ScJ0bdC3#],h0!e>@-bohB(g5A[\7NT840.s,>52-ICQ7^N9/Q6A".!:]/V%1-p":P.[n.(A%o[&1u/4Z-H+7TeD)h-g+LBR1=+&sI]@gp-&eK_KS<!VQ$N9QF5WJa8N'BbFA'-+H&/^c9X&1l]*K6/;mRkcP8H(`c6Sk^9A;.1Mjm25JS#ZOTOAV"32Vo!%1H_Ug!M>hhoLahAef#q%ilC#@[1>/cI"RC2Du3c(ag/f6lMPL>$-JSR2.PhC=j6t:cmun8X'&\NC-g&0ITMI7N;MRLq-+<Cu<H$:*]YI>A8$F5J0H/S,D>m5I@I^gdtJ0]t>5M0Q1raWGNX*0L5rKDQY$LH05fB!B;Eg('J>>@)@F<#)@FAqLTC7\cA6$D.#Wk"qPR?6kLh;Oq([X!+Z)V8CH'(kYf9s1k=BZF6@jUQ\n3pdb[-E@[SSKH"ji%1A#[25.^dPaC.;Gca*gVk=mM2:2rta]"'X[KID7;[!.ZPUa43on(cX2-,e@[SGl56<LZX13ejhr4rGNu>_*;*FFZ3&_=h@X"a\KC^?.qu/gWP?#`8+r?&7@69Y<lsZ+2#4.<FaR#e!kE=pd!?1UFaUjdWSgIDMdtl/'-op@]pV0"J$Lk3q.%@,%Qs,n!'[-3kJ/7o-Eao9tfV@9`Gc]s15E#CV`C?pW(mNOc[p4?R^Bo>iQqNulV1E[5Shk+%\e'0UbQgq<kaf4=80o^_517pC1%hQct"f'SN!X\JGY*G"IYQn]t8o@E(0%d!.CS@dfhrmh0sgCIn7hTMDc?)5C1^e**s5/,_)[q-Z<GC.qRcGI*m2V.jA(>mp0J_/,Y+.'[n]]%h4KcEb/=JeA(bojj@3muk>Figq@,:<hYT"MOEPJCgSXG%DA>]Fk3RZ5jm3HOaMY0Yt6lbT8^ffpR,HMH]fICl*<f^RgS7=5WT8>k_HQERg-Bg]o*<O#J.DWmPmf[rZ=H/Df6o$O<d7>DD>*;[5D^ld51%Mim7Q*KP"d$TCHAft,GDI.ORYC3X'pT70EULu.c1Nj&%RE$9$-+S9W=gRJ2VH#(Z?<iC[8ISMubrESe1i2HA4'R/[FEHE8,Q$qHh#r*PLi!pH160sF8MITtn=6&WApqtem;S1u22,s2M8qABAE]rT)l=KUE*/t\/CPI5kp_OVjR1n#I,COn"1sI%mE++rq;Jn"K"3\?Ql:Z\>MYi-kN/0*q*1t=9Q:@qZ4+"B:Re\hGgjsi)gC)0\M2^Q/TIffXgs@12JjnqZ8:3O7Zb;>GNR\^%@`r*gm%0b)e39Da>W5/N&^["r2F"jlaAq3H19[\V(%_5>TK"BM@#Va#SVsY4X4J(:X=Lh-26p!]EA%g%d\JPFj'1JMtsfA#n3"CD$ECqR2e/Ha1n2G2+Mb4s3mhJU"Ej(>GIHUAY4\m&a`;p%l/(jh@&[,gqYIl@ZX>B!8?>B>li,4Xk1I@^d/8En,pHD^n=5_I?jo,"!,_mXW:38,g_Wt-L"?)FjP^-,TT&96lhj/21fBV^L7&1fLU"Wm!u=g_,kYa[&=?]m>d48]U["iO,(uOEQZ)XUk)\4[gR'o4BR`_(Y?;CIH)TEFG[hE:0tCjd"3:64YDK[%@<fQ%-:769*Q&a>V8=?4J;<QH7;P7;^U*)/U0L]WeuZ[C8q8fcoRr],S%BU0#[r$GXGt6>B9;0'l,eKPP?\-%`9]4P&8%H9giMKOh_,lO*5Zk=SZ64^]boDXo10Hc1R"m+282NC_u%erSdTI6o7DsSrr^3$3&r'pV'j:\nbBlfsC)D`6S5j47?]<7RgAt5PfElqP5"ch"_?KcX)dkIn\XG:itYghXQfUp)JIe@B3f8ic+?hcOV*DmbB!-5%k@cIX^j(cI(NbXp5Pje:nonpK+O!p<-gSZnjUtaE]2X8h[mWf<'1r_sJG<Xf"?e]0RE]PMjEn3;.F#SS^440M7\RZ^dPnH<kT2)"BGLa=@gBGQe<_oA/1(l-r70mCRObKo6b\g:dC.jbk\l/s6*/Hn2>Smm>uqrQeNG8-/$jm^KCGrRo&G.CjIb0Q07-p#M?K98e;s[6EM\>=`GF`H0SESS8#qGMsit,!M\`2!!cW6NCB=;dBB2X8N-Wa4\=g].a/pS@3*Rn0Fpa.A$:#Xf`2G0&]=`Dr/FAR?GFk8n-Pn41a8%n5E%d8C-=<ip".bKUD\TLZ7.&+q78Al%U1!qu"t`3hsQJA0+!XdU_NCVD4FW(,-1qoSq<c>4kU8[Sn6M=B0S,&s4MS$4e]$ph0EQF7k!KWm@9Z=Ks^4aXP6[X`Vlq,!;UulEu<6^Q4gHn'U:bS_%`lTeXF5(E^p#1#Bc%fkj4KnRFtM5SP$\?b%M2`nZ@(G.0t3M)fQOenjL%3:SCd!icjiCs(e7)nKLh6q1e1rf_&VF-:VrdWLM4=D!V+Ip7!^%nTs13;lT@E(#E;eU#!R'kbkRDV:0?4u:U%.RV87NXe.=AWl3<"63,j^EE#qCT,landblOE#+@g\(%/=@"P2DBW-4u)AN#-%fo^S&JY1c4i<58/0OuFJrh40baf%1hRbZhhp3F<0sOT:O%Z-A]280FF?L+$%j/al0YqBMdZE(4)EUeT>)+/9@t/.KT#Se],i.jn'5ft=SQI)C0\hMn8.3&AZ?)Z9FsbGbo9,Nh+3#XY5-plQrMq[ET!Y=hMS;k6OaXFJ7oUuM#Z`UnC!?5LH=SRL!^[)3]sNWBaLS!3,s@mM<!FjMRu2B&lPP:P9gc"[4kRJMP^/='CI33'==V;J+NDJFs&rr#I7&&7K/K]=/BiZZLXXp2;d9Y?*@(,qM,u!K^Rb_&pMJ@XX`\h$#]U=$=\69IJ)g"D=hX+s[r^#Zr'D+2,g+sXqcuklDIK:*ZudCNbdFL?"TkF0>+D4OGNhHZU,f]rS-4jq\!MPF)]M;S[1TSL+5OGKn&V2]9q.?5Y6^a\,@H7EdA8WeaYTZskY4C&i8B0RXkSd4D\.VJ`05sFa,bquRMESL4`UKFdFq!qe9:">Cu@`pCtTFXC[RacO,ED_-1Z(_>eV':lkX;G&]6NAj#aaG\f[(+Uac1i9C<If.(:cllLEHuYn"4I1tir`o6^10dlk@MGOB;-`=n6]P3gC?`ssKCT6G(V1M>.sKEV`e3RL6/D?W6cor#4Q78)o4",P!c?-.pLB?i\I^+=Wfr9UuOj_ip]_[.WHZAABL3QHW0nF=cWZF0"A3r7`'C<IpL*ki-RO'TI\AG22Ym0D?#;MeI.C/1?pELna9S1_&<i%8,='+mNp54:,L&`l6>4F,GH^_*YO*F`n(bg;EWR9[+G2j'X3h,8@U&9#-a,h"05Wm>7^JMr%=j4!XaVbG:g^59@d7_C0b'?"J^EBN:>DP1"5:)nbfAo4c)A#,UWbMQ&+&+>@IB&<(Xl`T.@)F:GM/J5cDDr[-oGMae^gS>^.8oJ#]b+96VpYpC5$=9spd?-fU7i=^4k*(4?U"fd*IM1++?p3W9`pJpZpPJIhf,(WfchT2IAXTRAi\6d]QHX3,p*X2.&-[@@naX)K*.E517/lH"=^-(qHHqI^>GUL%gnu&<0o]+:4e<]V/hJ]/aY3YC2oknZa?Zo!9,+`6DoBF].0sX3A)<DRVg]*Fp'kCJ-VRoZ9On6B^t_!`f`cI+"mA$"A5l#&bV"-\A4Vk.".-/,:Y,bhi%ld#-^CJ@O;g]V)Q$"2T^'SDS=P0$H;EWQ[#p@34ki8QGiJ<.SII1(&"ijlB:/"dCF1AE%/#694eM^s;Y9T!g(ck*)g@J2d&:554`:HchV(u'VP[c8a2cSL0J]G>,H_*<!GE"LCM<>S4\"-.7e/M7>Wq*i\gb\KpVj[aP1MA/]f0u$:*eRt-%kQ]qW_&ZSb9$.Xj(>aoL%m>@?[7Sr-XGO/0N*YmN4N>EV?K$rB&.D,khR[b=\?`ADHV6,ut3QAtK##BkS>\;*e/]jBoMMR,]-%`:RP9DGHa-&faSE<n6$P9\@&MU8^G_^0[0],A#i(2pkJj9/FslQ5tG7nYtE;lp#IdVfe]>BD]sCH$]H(;,\mGJ+8C<b<,PVs2a0i\1$mrX9Mu^d-R6.^ANsPM.]7bqZpQDXM:CTE\"+9,UD]bPPHB\*BC[dq0BN;YCsNt"7qRsE6d4CQcQfec?mFCIYmB?Z2%NL;=M(Bn4NQOMh'*l:12"Ul\A>s\MNE]\pT@5.Bc;VnCOfP['YbA23"E#`I,:j3KYgAbq2Hl:Yi>Lme6$9?8bYb<Yc]uF7FI(0pssK[-P<)^FZKrJ(`ZU4G0SYhA@1Os24RAp[7FibTIfS4*)H/So#ph\u<]OP@nt8Jt&BE'4n@RrcTp6Gtt<+F.Dj7glpoWf<6I=Kstsr-3&+j.Q*J>/h@==&aMM'aF$n8Pj-L)*0fSM,\gZJTD1:deN;F!4Gn"^L.3rQoH(mqNGctHZ;+]2+SX2\FhIL<fSG]@l];$-Fm$hsbe<njB$\.K`AP_`p@E?<LtkKgCIQG4>[\M/l&1^Ds6.ut?EglKDIa>qBZZf&4$WKA;>Glio.9mfc@A?A*h>8C/:9^qaM,!1Q_1BsN0.P=5!.K8m_QKZ_P^O)6Ud]`?d/F:n]"U$qF7`Em)5<0O&#,Di.netc)=9/bkJa?m/385^Du@=>9E;iP@J0r68J[c/79A&>hgD"E`?$5S.Kk#rcr#s\*;!*a0%r>(-a(!ijS^8)2YismgF2W%F[$CBH&3lAE%H$8`XK<s3ohO5Xfg<IH-0tCXg;@k=MC%IH\@g`J.L1hDL-!l!Q0l`1Fma]:t,RhKrl`$IX8;<']\%IHH"UgbUaL4R`/rli"#Ps2qg:B,tSiB'qhV[/E)$IELCXnXd`7-4NC(16Ai)#T:uY-93iWOhUs1!,tJ:.O?m8dqI61.P6?@9;!JEo1rL=r`2[4c^]Db>X365AU?ZWX!_R>c7$06XXPJ<'1PGq`rN!NYDQAZXY$n,5JI2D`"S%mCla^A7VO-b2[+Jpa%f#@=TBU2l`G79BG6e5":OF8(_^beLdc@pls-!*L6?:,9d>>.%b/m%rSbB^U_lq0a944n&5*`r*8laK^@&Y`4HDiAjp#g/)A-`L;-#3Jc<ha[lA=+5Kg/pjkhqhMmUZ@hCne*h5<L@Nj(/,-Rm_WB;,U#.[%fq"X/l)Z:U6a*W2<%WMH]K^gXdS\6t]S>ISn8Pe%UQ_i>O0hC+<q%2Re<^e(66hD^tC-=Esi.kFO&"p)\IeH>S2ML@RQH831KR>n'0s\Z`mq,b.3\eZ7Zam*%8`,$(cP0X]&F5#/bl,APso@Zp:7r02Qn'JD@6Pab$^FJ.FnX_kHV*lT_?O"duepH1I)P!sKc#]$J$I_MclmrT>B':fS#F`I#D>H)Br7C.r:Pk>\m`]<@o]Y42mGglI@-S*g!42tf6)T++'blUB+Jb1d5HXgP`>h6/9R3'EDKm?(5j4iY%,d65lB'(5HU&#NjX4F0HHF^4AQY7l;#k3i-[C>)4R=U<=&Feh4i'd%/V&(eE`l8<kP_e'tM:"NHI94OoJ,$/#l>OE`n(?<%%YknfkEhIKnF8*?IIDSb2UU&M1fY9^3u)S@3lko5abb*:iZb,/U]/Pk\1PLCD$&5sUXT^8=F(sE:**+g<Q@(Ee_6BrhktalbWL%9`NM4h_EnCPnL?'C!s?ES3u#3fLQZup\7MMTgK32aMMU84U:TlC9GH[FkodT\O*+.o2,+]BDlF7s64C76c/g\C:ASe^>4C!0DUif"F%-)iT-#^l(1^kgW3$_AAGssLQk]%lpMEol^]3_-%s8>527<D5eH7Bt6[!B>4R#jjm?`E?^ZFAN[3mthW%Jm!VH'6K*P5irU:PNNQ>X@(<rC+*7@,Y7)s[d75_O!5r&q9W5R*X'H9!`gm00FJ(Fdd[;9u;oaACf/ca8Y*(chs;[8[JpNN/^,ecZ[2R7]nG:Efn4LW%8aX@>"mTIePFaBsKJOHG^KU8HCRJ.)a[:Po\uo`s23Z%n?=KnN(p]$W\LWSEH1KUcHf)'#WXX9nQ\nT=;(]#:5?*Qch$=4>:D[Ca=@JEZ9ad3!H]N]`%F7[niMSbH,qq,a`;>MI+neOY>dkbT0X8h3.B^d94a0Nf-]1fn._/7Kl&=CDnu5FWCpgc"K`:SUXlBT&XIS6HQJ2SI;B\.83+jJM%K*=+OMNDnGb@]CbXYH0hY,>h>I4hU's`=N9pr);JMoQ[+(]#NoQN5M6O2*5Q5S`<1-,@hW4+R0n\DZ#X.H@;$h:8F=:-mQFO_MR"/d>U35n^F1$-;eLrTkp!qNE^bHU5:fl6usR]3fVa/ZsL7Gm,Anh@;E`GSIN@3!k`j;AR=Jh3uOV;hgd=a;8l=&/c5(YjQ4RJChuc":D-)r`:KG#]7*<jG6'kJFun+h&Van#hn:87CTFZ=QF>M]B^:["^HeUT<*$C2#FF5U;0_JC;kU=iQik5POce5UI3qC4H2Jl"7#G<eRLKA.D\J*>_oYK(LL&pKXHP(=0etZSji8\Z2-'%;TrIo!q^o--]m:-d^*JWc)\DT6fBY$/O*2L-f6?gM(Y&'>SGn>Ke3eun=04,9H:F!b6'R\Egq;s^@SOYd'qen6d#%%&d.XftD9jk@n_^Q.q4MeYBGf,r:R%-Q5C$:PrFYFM[pD5hn'0#u\lqV!6?<Vu,rfeC3-@NWT1?Q_iC1^C?FX&(jB]9@&'&j!VP\)$,)puMDSDej'VXX4:Yg5ChVN`[Hg>j7h\/T7F/$@Y5<^^Iffa</mY]bCM2Fp^bMpJ3(\>;b^\R7/OdJH\-M77_.rY%I(pi>'S$pp3^5Z+&o&B9tB7i/1/H,)OdMggXhM6cMSiTg8Ehm+?cFc$(X'LdCZN,#QNGpZ=meu\(_ZRVKZ<a'9hQcFGpT$OXkk05plH[<$gV<>Xieb5r+t'GQ_M.'IbMuaj.87,d[X-`7AORCgM&Y^dO[/hg:,9o,@>lQn`Pt-q('9RS(k5'ONRd^9:D.i#n#L">8l\MqC8Who;CJPJ1pq.g8t*&%;\P5t*7JH\Rok1^jP_QafPO@`+K6p%9c6AL-%SC>AMSlU.SnU&r9`*Hr:X?EF/)^Q`CrjH4@1:p,!D/t;"si/8NV)Yd+A"h;iOc(%&>REoo0<L>t;5B#sP@AY&*\FRWns_&4o,3it$>lQh`a9?FqMRWh)Ie,q1&`QH9hE3eN^;@OKN9.4T!m(28+&`C'n\L;aL$ANeOD%m.#)0eSV+*^X!Q]l.;*51lG/1!ngMR@8?p@(<q"4@:?MVNG>$<dioAaMS78&+5eO5EN*Yg%-;/^]46>chC#ed?BuaG-NMdC"=f7>[1Su]\aYKp&8*%RE)R+l]lI+h$C$,]&fs3j$.P^6Jq]aO0e^K[$G,7<@(sG2flsLRWFh*d0[[C`1@2tn#lW7rT.)Wag5]AS($^Db+)_n4FQ#[n4o[`BCN47a]nJO\b^[Q]n`_&:RA.iSRQ#t[qGI)h+,DYi7DjZnuY4BeqgW?a?6uAq8n85d?-T<Ss=VJUoppNh6XNPrk6%-d&--DAa\BHZ$'WC]d%11mb3lF#+t\s"9#flTB01X8u(Ysdku3505L9)K6"[(op;E?gZ.quP8VHm2eVs?T(<bD^/&N?SBb?I/j[Z;d:Qt[G6_;)>jf:LYP6EdI1L3*h7bgqp[PkBO.(R4<j^oa(t5<I3i7Tm^[JaZGJNAj#SC6_AS]8R=Ccoj^[:_8IU$uEd'NWp:5KoK]l8!1\:%!e*)LkA*,#/_r67=02f).C\ukVsEF-`8Tgs=M4P`mU2KF9!hgYU6+?i73'[laQX`p,7[^pauYZmToY+J!Wb@PAJlfdNb/8=hK#-]#YGPCL\Rr(sh]FFRK]mmBdm&?qKp@3;9-17A<O*hj`hMBt$42T-(GQ#hLdhdc-4Ws/VCif;D?+N(2ofBU..*-nrM/W+e,9\s\o=oA2nTi9<M&CU$s6eJ*cHDQS&%fJV^TD7s_)K.//r5GH7Yc-`gk/5"oC0nHgmYWkIEAY\?_9GFo';jo>PA>?rZUoZb^8R.Id3gtL[F?;k1N^n9I4j+>pFLVWg^!'M(38e^aD?,nTT]u-cd!+T(&mjE^;qn@k]Xa4^.@gn2#+6%R5(<[)C288nMh9e$Y@$`HXj)99l%.Q\,C[!QD<ZP!rc%JKb'tK9jViA2'+M\2YBaS?;XL_=TH:9ltN[:JDVp7`5Ep"(*;d8GRXBFBHoHg6[rlr64uhAS].?d1fM=RiS9@%]3/LND6)A7^@&j_*QuaUUVEJ\ZpC"=1tiQ]-TY0F3lp>f-lZ^MO$m!CkN<!?VGX;&d;`*6Nur:!a(7k,,[G`9\NEfPlSk4-26kag=stP&N]&$Y9"",56F:A1Xjb_+*ses(r=RZAa)TrBZF7Yk&0"@^LLp!;VNlgSJZ.+9S_/DgU=$4Y"mD!8RUaMYVecV%)O#*164D+IeQ4r$N"LBdjUN"Y`_JSWaXoXFh'TJce,lden.@X\pg`<G-m]EKV!IBSO;u)n"74<(*,I6o"0Nch]IMQ`7_;L26fbY[Q7jKcDYSa,-4lBWZ1eLS&DF6PI56trq7o]92&iS[DQjJUi+g_i39i/efdiH4FsX.Lp$[.6n`YWA'D)=.6D]C/RK*#W0+Z'C&GD6M7`M8X]k+mAJiG8"-s3*)J3ZGZH4hFhi?Lbl]R7PdP^ZIi^OjO-J7#6mFm]-Bg[ii$"uJAC2C7G<l_FPNC3EZXbk5&-#4F>;q3*1lB+.(dC(Q8*S4pEhG`Y&<9i^NGec=N_i@h<]/X)S(cB2:9uCWPS)b$JF*I#r>jW*%@i3L!LT+tlRom\5hjD-):Y)+#d486ef\"-rgZ@hURD*f:K[$f!/Rs#Z=NfX%VKRc\A_LaOr&qZTeu]7f?4su"A_bRJ5`LYkNYEQp>e'6LcK<C9(,cKag.?,*A<oiNMCL$)#to,U[V[HVFJ.:^@$\tH8I'Hn3nX6F)$K7BKkVLF/6S:DD0s_)D';Q=KkVAmBUD1k/^)k\]km0:JdkosXd6q0/WF,L5%Eo=goYp4D!XO]QR48+aP!g_n%]O\+f>Ah-[:!pp0Ch0CJo"M,d(LHou#W1=/Q[T\!M"#3BQs\fW9tWZ\UQJc*?0q@`R>g]g($Ei)IGZ@.o=\;&63a<K+e[[?;<)-8/DZUhdt$=]oqD=&Ds\>/$=OM#Q9IjN"8!KFB'Xp0SDW0G'cfif=M6Pa((:'5##,?ea5"Tc'i0T;82'YDaGuV3?\.n?h8D-sOZP,6Q@X;TT4P^lTh<`@2L4cor)le3\8!mcs!=3'(#&H8*du.R>Qm+GAg,PbEP7<TU93T_.[`LD\bK/Q.F3b_i/NA!s]+'jA*S/Qc:1A':0u!.Ua//I:\S#n@#'IK0bZZg`bIMt9Rp>mRdA%]1r?(,JnQW_(@Sc>=n=7Z!;:QjVo0Zt6.u6rsD.5`Tt(Zp6P@M5>L_nY87?Atfr7,.q_@+NY%t!S,fZSs^YeiHj7qdRW%K:trqG_"aUhefuc!B=]G:]0c/^K8^9;N"#j4XTK$7@eHi9%4n9]%=Qd6n*(\bQs'5%)*QR$%5onu1:@\A[g:>9I]@2EX)Id_!,[2m2`-@J0FQDen^B:CA8D<>qElLfVoC&ZNJr8p%A&q*p_rE$C$Gn9lTHpYG\Ch3AnVcf?l?%Ym&R8OX03UQC(tKY)ergRbehNCd*b_E4@7@D:>[m3cQL0Ii0fGl;^4q"A"-ldV>bcf:\D)I/<0R$NLuVBTT/'E-4,F8)90j`NL%MPfg$.$XA$M_NMF`,PKZ^qN=DKulTHs]oJ&)o2`1mterMQ99<^7'cUd+#^sGlt.%&fiPG2t.USAp,V=d7&i/*;IYF2)V\`knK94%em!$/C"*O?T"UF:!X0EVE,I6Be^irB`KAG]G((TfH^kkXM34OuB>W+5bLfHS\`4NPahf@9_TKr(E0Q+rGMR"6Q^n0+[[!@I<:Bpc/>Lota-Oa3mn-/<[ufEgJH,I7AKX$AJA&6"JmIH)_]K,A+I=C\+NI=hY)_]TE5&8b]dV>p^H+(MuS-@/H^TQ1I7QK!!\J<<#Q0S24R1H(*<0o==8$.^mA1,]Lp0b6#pL'['N\<1L8JQ\e2<M[>T<,\_<AWWM&;gm-8VIi"-(6?]lrCkGQoM*43TEk`tN:d&?FWo""L;lE3VZ(o(5aK9/9VJV:N=?sKlA$6]6FHT%Qp+D,$.(Ggf!e4+Zq2sW$8Z$%Z#P-4m0A5t<c"a9r&5O@q[[3[`gdL"i+)@Vg%GWTOEgec?X?V"g[ENoG2:\'5t;mD$tG[YM9,E2\IsI1_3)HDcrM?,`!MZSP!<K=a#;DFaHAmpK9_.g0%m=&2X>q*]$I\DGo&)lQFoJ;@ATcV2[Pi7l[GIkrpn33d&%o628UeW^f#1i)C\X3,(l&W6B,SSr08'')]E8!\o];IU;K0jd3lY;L(K[Y1B4eb1Whq)s.6-)ohZrV3Wfp9Keur#Tg[/!+hNsVb03fl4,JjE$35iL-6jLl5u0.ChqmL[,W&^R'&l7uI/+oq.<hSg\hsHWrKs?d$&@;6&%^nLHY9q$Af^E_F7LkAlrrW4SEK=1mcKbnigT7X[)hWZZ)^s*]2tEPd6b;UE*KKO;pO>hfnZ-W3m5W$gY"C?`BE+tR0/)4X7LC6pUh`Rl%bcp'2Ngqb&hdgG^AG\\Y_G18om.cmd6P+mSnGl8;Xs*SsMs-LKgI9gP`s%Kh#B-c:;n[O(>j_A\0!7n8ckJ5*kGV1u$!=j5LM^^@^tE3pKl+jdGT(?0$D"`K=ZVS\9nCh'&gfmN)P7*X-H%SpQtWF['*pI]g]^Co,`tNe]]lQKs"0^s/k"q$?%8cc[j5f[1\BU\Ps;`NChI:A]+'^Z2gE/9Z"dG&iAtk<""lSLa=&6EbHSj1'GV4M@=.4'H[q`62Y'?[/(jEB-naG.c>\j+Y*dY(orYQOCjO[D:=p^r\U_q/E4orlekKhP5A!`us,*DF^>2HKVndUq:uL\pL6bH0)OX/Ta4Kmr:JAqaB;gj$b$Gc]>RP+*)uj99,TqD_f"ejr?OMms0NFIOr[q1Y:.j[&kMgZs6LJbe)NF^"hG=`p7;lRn(R42lJR+E9U,QF.Jk[h)q^-]doU8$P0j]+$'IgT5jW3'WU/Kf5kR8NjDs8OX&4l\Sf\h%oD6(TJ%:,/NMfjm!K4NM%e$H[\mc,QUfWS@l`s`74oY.7R]g1$9_[G7H>OSP4%Col0_^4H/^,<pS10KSs`+)1;$mQc7\ohHUk_/DC5fsO68NMjW&G=5NILG\T5)$+\DI?kC[p2^D.^e',_LrHDGRS9(3uNpBcoO,aDB[pE,.XrViM`EZY`5p:>6[m8Ts+)I4(\H(lKV8>OEQBmp(+")5G723"VjOTF-lA[2rJe0HoZ!&aFrL.7h+]Lb[AOSLadn.VP"7oEF9*:tf4`@5il$?T<p&Mo]PQGqECHR(#h<$jD\c%r8H`A"6aC+=e3k(u=hY7'j_[58H-+d%kEO0M@!1U:\EkDsRt?<#am&[BJ25ZK=jNdTo]>o",XRZ^Q,PruR]R$"Pi8lnLRX72E#(,J:2oh7k;Gk7fdkQkY]4n>74DN3e@RKU0'+VsSQ8%Vr[Rq`)V[A)COrlW[*l3]h*PGFm@>[8SUXlM?=$oXFE2-+eQgEc0'a9$O5Q)(+.W,If!f+U$l6uB?9VN+a4^oqYg27B0#NS8-AZ:nG-0!2/heMdbK)Yc1tiqciQ\WQ)hQaF6k>3\W4)gEA4,>ApNg'T:)g"m-K(Y7(A.k3tfeWRpu@;DF,V%usZ"F9\5_t=J6ND7(*3]+D'<Y%t4l71c+6s[.+Z@SsU6X+5=l\O+n6rP&PqM&[1,HQA@W,!cL3f)o.U9-f<g^#PWRMr"[[?@ONEG^W,Y#X9T>2%V(e2@q><J%6;:c+oT79n\7e9CJ!>=NDe]lbPoFe_ZR_M2Z%-S8%\HOJ6L5r?4ulJ%08Aq"eq?dm34<tth@WWgWV'$*OJPI.#l\@J?CZ(0QF%hB:)X[H)D;;WLtXbNW@gDWAo'XY:T)Oo]?U#lRS##u-q>Mhp"[0u8(L?]\NaMR(?aI]?57F9O2C?^g:ZjZ3SL>1I<g0/_1:%0c$75\cHP+$]26^,$Z=jYgBYA4j'1_A236q+efU(4=L"/nMd)T7p6d)r-628$L=W(''O*P]<\>#Rf<22J8IKm!'eq3kNDHB_EYCBM>X=jZ"VC2Og=5rpluF]G1oPor@\FY1)*D?L[`WjJ1-DO.XfF'h:Nj>U$DCWhES[<uYqg:G\cC@k4n-+C"&Un^f6hhqtRbO%*I8,N<]E;0h=a;+kgo+.Wu)KI>B[O+$j4AoH^(DN+rI6;Jf\u-GN_0!pMMJ=mK=cl.-TP67L_D6[)*0J14P=q2KA5L1a/c\85(GCeL;$Dq@HL$mj^]62m5<=T/\$e-f-76I:piG)b%D[5+e[6%RWYood//[KJk_pd4J.#(`!k'@.BMf1-+H>Kd@h>t`Hh!*]?+HrO2pDJLQoodMG75T+8`"[*j.mE[4;M[AqhW?$Ag17URL\O=WQIhh4=E!A(6bmZQ'#@^"?J?/c$lOd)77eb4<d<Qci_@>Nn0D,4>A3,lO>kg+s\DS0fMlN5HU!I98F9:Jh&!6q%A6D,*lqY5_fK[k[mX.LB\(A.)?^U"C`gO<'h6:>]ae?5Dne`Lrm20d&nL>p^->U(Q0U/!*;dSr.XdeMp8Yl8,+BLVdsn*`ubp"8'kJeA1TKD6CNrK8;*c9d6>)Q$.8r):C%g`\,s%1,:)YuLh'"i4rilU8sG,gN^98^'p:65au5Uu>S0">/ES.^#N$'84G$-MQu38Y#o%3Q"^<QD2Ef0N6eWEBMT[;8TS2NoEef6EdcLW,NKBY_&tkJNaU#U__O&NlPE(<@"IbDrX'Hu0&k^`N=CrHLK1d]bRSTrR:kQi_ZcoqB(nIiR*INs087]8";qXJd+-cio5o7%6L"M+^)6s,CdbHde/;F]VM4b/C_GR"[/&l0^YTX9$3Pn+"F-2.cOdNLb+XYH.80k!N#H32N69ITg`up@a+CbMk;Xo9.e1VLF_](ufM;4\u_?BSi$O^uc^jps:rK,KPneF4]'Ek^V_Aa&q2YJCCe6KYPZ$BuXSp;/I21_`e82uU.n8'&a5R3W018H^f9uo/[3fNqYFNAV4P9!#c8#WE-04/%4m4qO=:(6jeHb0Mh(:X-)bB%\7ZX3>6F?gR@&H#W[Bq,ra\3M)c3##CG1."V=n;1+FMLu:JG!&,:>Y@#s`[]O+5XWnn_;]j:X,@f`LS/0nT?ntCG.``kc?=17ZEaba:le"+ZtVcf+JSKWbj<=8m)>um8ueOb`6qdSTM9*8KP]I@&KS_U^@:pY1'sr<iGO9"+A2HW_$FtD0889.'hCf=,,&J>#6Y'R1/Cr),)#QdcNm"&rF)9#aTQ>@;h1`kM,Ahk2p0)T:*fa7/pDsri/^09\M[IDo9%sf`E^,b'`LLJPd!\>$5+[0='#u3+@@]T@cV&%:go#IE-^)O-ZmC;i@nW['Ce=95r;$c;.O*3J6-&f]aeag&gS(k73@&O/qdL#"],aeAdM%]gSbAX6R)]M6.%)'$k+81O\l-i*hS)Fo7f\!3-bQKG>ookBL3LaNMIQb!2cD)-!Z:?==P:W(3K=6M22jA!DgcO$AS@$J8E<jNC8A"c>`_Ta]tRRBV\Hl?,:S++__a(F;X7m6\EgL@30>$H+N15q>n\N.I?&O`)oTqm?eLV\bo;gT?H9bYUq3$g_-/S//T+Bq0X@H#7?&*>);aej,OP-$kGo4r?=NLT/VA9-U"&X77%TQb9'2&!0EonL,P2e;->&l+@pmJ@37>a8-t\k1'-6D-o6YfpI"-'%Z1E7UeM\oXHFt6GfZ*JD922gkIg=/-L-0a1doK0;b4lbeP(!]Si9!KC(oZIRX`)C\a0,PlfFgT3`0^Q=GCQASH5H':N?XZ8Rq=a6)^[0e8\0UX%"L760][H/P8-1d%:::GPoJ7[e/)9$g3%,"R$bYcrH9/2)<\25T`R-d*VJ3'dcg&P\GDB(5JjrJ.k;F7apTND"UK%HHIF4ZkC9K9(OjeMqkg+s6T!1aQScW>1&gGBGAkp%ZEA7`1-IT-U,ZLIgE<f$"0fg!Td]ej&kLb#O"J;4SWAdL6?9Y"V=6O:dscFSkdZ#m?R5#Jq7fu%&E,S&f/QrdGF;og:BmOIWf=L(+1W9+="M`7G6ESmq#!@,iT?M/gZ8LL?bgTi9&hMm(=<5:3q(PdIT;6D:#s=YsEr>Y.6,C00^s31H.*7-Ta,NP?2!igA\Ys\g]Z#aXt<g`4:Kf[Z9np-2Dfi3B;B\q1UJZ?IkCn%<qIWB[@F+m<r&;hic<2OdhnKPZptGQ;s5Pf\Q'9A>='RTWGlmH#XG/V'%ko7K2nKr1](GQ<jS_Pe<8Q2BX=5E8mGhdb<ROVPL^a(CH7fSsPq7QcZ5,W.!:P_j,2uNqARcQGO/dfnBT``OQ/+q2hKUcL^th_S#5egml5D:&u_,0/L'[SPrfpqlYF)A0Us.pK_np91nd_3>if3Al2EC.E&mckLo?C<^'J_hXeU#8>itrV"f4.>m$<p1;l[f8Glob4PjoV&FlX4VnT=6njQu$?;=?e$7@PO1GLLB,sFITQ'7O0,,_*FXK&u,ePP]W+Z#$%X4)WN^=q<+Jc\\RIP-D>S!f[N=IA"!d15s,gYYrc=IWZ&#d)"dc-O_Ya\U7*bK/UPBBA5@ff7*!=m8?Y=jN!]d?@^P"8nCSQ,+ojWMul^Ci!l<Y:hFTaaoo%.=`%BEcOf&97,N;TMp3)M94Qm!&<^)H='lW=-Qhn'nqgnb_->)W@76$mT!X#8Mrnc+#<aQ6+11tV][:AZ.&i:(79&^;eL=hkP1ItF^'K@blX0\@]6<JSih^XSR9Fd)"C:#1.rpQ$1b-cYuh0H18J^^d9(iEVTFV.muIo(hR!nQ(!UsjV>mdW:L>J?Pn?b]#A2FukZi9HKpp%kA^Jf4."I*fL>7q;Rh<tY7*oU%FB/HC-'=pb9N+SnBL^G"r$\SZlM=p>f5ZhBIMEJZ<*I0)C_i%Q&Y]<EGh_!17)n>u+7hG!nY*8k(sGN/1R^ajU+1_7JTaI[=@l3Z8;<S*Ra+&(X%7HDf/X_e@#p7&@/$F*Cf=&5<a,(CKsRg]fWMVfC;7]!]q(_cTu3#O&TSsq@[UjHdK357o,#H-HECCe^W,,JodW'#Pq*>l[kApN&A"K%,&(n2s7thN>;pJ'Zc[1YMNo]/Q`XD-s8B\#r-Y+peCTkZ)C6SiX]J)?3]l@H,7j4s[r/UerQ8-#CY.t1^>m_Jj$fJc$$d)`kXFIlMjN#KX^5q\HL8k?p.K65mbSWDk;V&jrr'IsCKE0-h71:=q(bJ;[;/jtD;Vqbr:utB8m[,#,EaK>&o;1kR6<redtjTuGB[u_gUVa!h9&`um8gAs[q>$-2:jHe/U:4Ke'jSGQ[S4fpNl]oG0<pg[9pClm5k#jPCqo8p$:22[W>QW(4Li@(Md'Q5'u9_!N0m]G^*b4\;6>mbh[^E`m'V!R[*RVp5WohY'$sU^M8InrJK-%$1$3HGB@r^]Qpj4Tu3dhT6Tqr;*f)+B3RGo.VK=I-Ug/sE;r0t9hfkWpk?%e%d`!ZD.-pdB!/%MW3'oGChR6h^=:",$L;lRq2aENUaN'*$DYK`fFB^aK8Q"l^Ke;V3J@66]kdl%gV-t*iEZP6rH36?B7E%QD9$g52>D<rh5Z`5Q9b%-\a3?_;_>Jb>A7`b)M4M#C=^ocQ:"obEquSlN^'*s'CaMtn*uTY>IHk$TUDHaTar-qs*\Qg!&Pm'RRbr-L%o&9E-*KO.a$MrI>buI458lDE%>dlDVr+kg80_XjV9O*,`hBkrsfG:QN2:4cA!;X@8hDVh;%"VNV@jAO*HC^Y6\%XMa.d?OV^%)0B/BLd8WTr,"hbW8gZtQO04U>f8QE&#AE?KD;SCoa7YSUkb6)U6>qoM1[A[I[5_/e,(l%P72r.e$XI<N`,'J;,)1ds(+gS^GW%FN7"uQ*242U4)Lqnt#'s*J;CLh8McIVCC4Rq<BDSJ+G4s==%clKVdZPS-<;VjBH%TpYFhHk7AJ?.Lj1iP+Z)/;b/6(:7FQF?#"gK'`4->4l*Bn%K5?PHWqj6W]l:QXmLlpYKYA+@u3]`_"S-Z7sfo2nO-B<j@Hg4R9*NcAD0(nnO;\2eGJ`9-gKOH6);l<<@3,RqkV/O*InaqZmRVM%!A]5r7f/nBQq%qL,9qF@f)NM/%cS..1]^kYi'e`o"p`h1-:c(_8ltoIVn3(X9U01El^jB]fRe6DgF-^!47YHNu`Ka'7O>k4fX!)C;VbEUE#ruSD;Gm8SbaJ1E`f\!LgV<]!XK+F,`f+&!VEp_8FZP^Y4*U*tn]MOjDGn-d9^^:n9(]iEn,)m:WNjRXcfWNE3GZpAfs>;7UaoBH?G+ce=9#l1Q+ucd.l27fo;lZTB2"^SB?!Wdr4L^(^6h!#_7]SNJ$ncQ$bh:Ds8D%\&-9p?!WiURJ\2C<`5KNF$bodD"c!AE6R#m_ru@X,@fGP_c^R.KmQA"0f>1*ERls8eZ')AcOin@"`;##R[p9%V,#g^2h%=)S418tUdEnCJk;-@iDuoG(B&UM_!oi!<ZQVXVTT[QZ9d#.kX=WF.<XLkq5;b/%E+An>=`^LdJ5<*TqI4"h2ts2(7\Dfs[r5WdGjuTBcWg1`k?i`3jhDRYZ!cGDg!cinSN(&tPf_B%:Vmq>kKJ[QODXg>kJPOP^6ns!GC.4oK4CW#GAPq@%mjcS0kV!'`E2Zn/[M^2lLX4^k:;7K'JXMO.4Sf5_qKSnQk+C-RnfG0&RMhZRI/fl[pT@7@$PhmO3<#@OR!t?#s2&]KRBMt8(?8FQ'V@=`c!:2p4q?S&(WUo;Upe?BuVkbP1Z5f/<*>XH5:H(M@,=2Ta]IFqpjeG8")*%00=/1Fn;IA6dlU8AfO5S.")H5HT@X=Wf-R);p`;$FICrU5_D$36ot$l6V_YGcT'!:'TFpr8QSW^W@$!AJNO(_e=NqQSn]4!=PK]hgRd`r?N%q5YG8sjMIN<ZZ9KT(q(Fs&n(?W4C)itE*QhuJ1[1#q7Y7'u!_YCg0f)GN-u@MLk3*YV[g,^4OUC'&H4U>b+FS%VXI_6Y3C]G9kpM\7IB'!<Id-$RIIDMI3#I`=\IK,Z1H.1\4E2!S?2*TnM%dm+PS]rRHb-Ag)IN[b"],L:3ojC__Sf5AVqUW#H-ugi%5i>gQaG9';:(lq]r7d$rhjgM^\RFnkW`"dO.Z3h-dY_mc-;t,_Z>JLT%)9N/K<9eRPl%/kpH!k=&qA'ico*?.j:1B'GU[Z!GK?a(WW;kB@tkh4F[5'rVQ>H#00K$?t9N,fY)@X^V3l2A^Y,U47B3R?gc[T2a<?*"7DZ(f00]e)<g<0[n7;\_QPbncVRfPGe*4I]t=$SD0pHnhS++O^>?8-kES],TtE_+TYIrh/0r_AhdFI2kr;g:+2Gq<^^t6jdtWi9e2j[8&*_H?1k5b>!NH=`"8j&X)>1/E#<DcS86iE93Fm'^Pc9aqWKX5F#1QUOiM@T5mQ`[2/mn/9fAB8o$@"Z:ie#LkcrAWL[VZt6_dNKE+@Amn-LdFkPG_1RjO;5C+qIi+D\jMinqQe1FLQ2GhS4R?Y+=>Am+r&c%cm_Qs8(U\Tlg@r-VYQkXU-spAnntqlfR[0m=F"7mb>ANdA$q(eWjEY?RNk5^sN,+_QQ5WZ/[E$o$*1)csCYJF97U9%JCV!AH&fG-UW1,N6)a19Ge:R"8;e.Gkg3'@m_8q#c.J4ErPt)2D"mC$t?Kcm+M\]="4=S7#6RC")e?;2/a.<9.jRDftB>eG#c&D8H;[PS?A0.L2th/7BFGHXCO3U$rb@4Rl3If]d%UYL/:gT!4H&V6TpR3SjYW\:8(K_.-M<`O\;H*d2FEsJ\>NTG+q/;OA$f,6mNpXTOAoXWD)@sL\-\)#&6dT>pGf<&Pc>e@d/X5(l)3GM;#Nin''/`hqPid&L0jZmD!#km+mk=D%j*_&BRfZ8)A476E$t>.Q_Y7Woo_OnLCTe@Y'1cQ.[M`YksC&k9ZrMY'4,0Fio@dj,m]B=js85l0)HgH4;:d=P"bt$bT=hLk(bE-$2oK";W2P7KI%u-ng9O^9lt_"p[ZbMAd]AHp[QsT/3@lW63I+US8r=]kRYckDg#SB=Ms[Re#';:QkTkRQ#TE&ke/PYRpREg'NkWd:(;laV-!DDb$Eb2e,`7ViMpP#Gj`fGA&Zm3!f:5FuVR77%o;B(EPbf3&<@SOScX888r6[Cq=rg$Bra8=Mo@e_tUI5[NLsQ-(oc/mB<,V4>nuM`P4_O5l,T1FT;HhbX6g[#?:=X%U;BFb/eCtWs<X!C&tjIjU6#-O9)nWS2^g!77l1U_\9c1ai]@9Z88iH@U`c%=(SE4F22ZViT>i$IWb5VM>Gr;c;u"smbOcj;_YkGm_6^Dg"<rW;eU,@fum8a,U=f5R.jIuoaUs]&-41%*&qnf_r1U`60k<m,m2]<N[`'gRm:8\jQ>G/M$#bSCi$2OW$oa5K32*?T:;$eiVY^oLB%_75O!jkT;noq5[02.Mh)gd/1GkldXl;Y"7cuspOW/@;"3p,(LZE)nG1V$?NAfq,@+Sn@":6%iC[2JFpdKF%W;&^52m=On(m5QeV5M$p3Sm0FoD\5qIb_lA#@g&j9-tDXg%H3*\Js\NsL/RnP\ql+!Odf7U#mBWc8`\%%:389f#pH2q>]#CPcnuM.s?*I]Su]$sb/k0eIQ'ko`b.D,!\i%X+hmc6R+32M'/<X`WK2S"rhsj;*r:XML^[d#<XpXq]`5R7Un_<Cg]."IZ-_"u0+\*Io>mXqIP1*b:ocZ#".:^>07]:3HPX^=C]=G2(<jAbI*\dq#=6BL=s7eGq,#CerB$l']J:EfZEKo[H,Y,%CR$&@q_d`8lTZldm9Zk+A<tK^PkCWWq0?6ADbo]-PQ$3O6*#)N,"h:bQ.f#e^_DYH"U7bEd!dkK_,njX3<fj!RTj1hd"rOoB)]Cc?6RI.lnUoFjE,'S_(`4b5C_))i'&G6?,u@ppE!'nOnpN/Y-gRl18H5h@%N.IrSAAha:A>$IG7r`bh[0E1UMNg;R3`%l<O5Mk&FptE,krVc]9\LP^&qtg0Kio8Ok>6dMU^("I991/=#M3G,MU\RTnVlQlAa2c6AaCldeL%37=qt0.%9he@Ngpp?i?=$oC%A+bGn6&t"gYCQmZA(k4i$Y4lU%%!!))IBGD6gC7R[Oa/5(*+mSQI:ld2](gT?Hj#HNq%ie/lm;!%+W]LCYGP?<@?Iqt,^uMnto@CDM(b&)$aEZd1o1Dr&!iS=Ehf=phG;H3!C@#RC\C$477QL?mLEfZ*&#-n1e7:Pap9Ze?I91t[)YdPp&)3U?m*';QmGA:&]7*jpTO!j&LUVb`olD+VGRWm:+MK6uG1Da1?#9@74Gia6B/VnS5Df\:tOJR'<a"Q"Ced"2)gn,@A+Wh,M'^cNYCOGZ%SVH[2lhnF4H2n)cSj?U0'p36AMrndpZ_CQusGf;'"9IX[h8KpFc\,o">,C"i/pZp4aZL5YaZ>8&j^Y9i>DB#Zc(s1?eAnoA"(aKueKrJjC0\'X2C5EY4UrCE1764Y,>_ui8;AhHgCDsK595[hN]-GZ2+grkgVp'g]8R^P:fbk3!3eN,^D#c>%1Y=_O<4-H^>m"OG9f&!5Sk;;TUG9p8#\?I:Q0$%o"mbHM/6c/bAo3sl\k:^7V<5sb23!#aF<6lS-G$g2,fC=$4_T89>`?ZMek+a!,4&?%,S?ndVE&O9Qo"ubiDUT[n3@;M!=7t_ZjG/<4:Hh-jqcSc2NAIYjiWi=%1Ncn1X!oj!#aqFrrQR/1^S\dC"$[Ao?AH`K<\h#!pJnlCU7["['I!IEqs2/bMoD1g?Y(Y/R#Xq[#)nsIL=/Hqbgrm(^Lbe'f6q=[W?',`*V&h'=+"te#,sjf@:uf!7[7RLZ/.-IG]Us@jV`FX095=Nh)AtK,Yg65;tM;L]lc>KFsE9`SW9Lm/R?4Ju#ds=`<33]mKLV[^J*82.RFIA_OM*1`C5KL(.Hq?H8*K5=#KL:JYnIDh&2q6_&UDD_FY[TqNVP"5jJr@.NC#n0$L%',(IY!sHB;TJ//bj34LO^rLs?5TW2NJ-Zhj3([t0%F>XD,bT?H>lcoM$<*jSJi/#&S2iVk3ic;`!cDuFgc7WhKS5$<io6DqRZ<C</se)RDq>!j:/+IaA/J)d4>81>TR?f;JYE`s@DnaQYfHo7S!k6kSilNVH-k*l"p)cc0_S9;=HC7kZ_Q@>d=_,XepKAg(;Mda$=LW3dNWp:6UM<26aDElkKgPAC'/9<5.;[+L]k,F4bEXg>9NsTJb8dpen2eO./uns/NaCHmJueVm9j@/ea5H_:+kM+f)$=e4OH%qco$8=f*DEV5h/X.<]+G3/W6Wt`_qe$]Ej&gPob_S5I6I%(VKB3RX3!NVT=sjoLp_tS"pMGa%`#H'b6_gR*ClKUSBT.PYk,MY`]m(.;V^h)AL[:RVE1.,?7/WL;jX+9SoKqSt_Ch:e=O99/WpZ26u^UYr^b=BME;"BrC^C=u/VPXAG"JD+$]65:%n,mJ:tc-B&0r#p\<6.FWFIor_T2hY4`kAp7Eb=7C-%<32)0P3GnXN;jTVAJk3^.4ZnNB7Q!L_Gst#\7<R^H#jd0&'pFd:Aat\"nqY*5t:5.mD&YsC[ASQ!hE)A07bKXqY;>!8lKioH*cZ6-OC:m_p2RE1,@2r#]bXt$0h$['*a)4$BUsqQB9EFp@S"PqYFAu=b0+1qClZ:>dN,M;l<C,:N/[*>8pBE!s=0OjT-'@GRN^FfZ>@(M?+.a:S'\bS,qIMJdDth([q_B!WN5&_<9%11I6&J/mTA9*=YsNj:RIs+sI)M@J9'@aNZl9#C$Sdgt^]?`l]3A(3lCYVA:ig!*(.FTMU09TV84m)@,1)G@VD&(n_`<'R+bF80%-mb:gV`"Q>>=VG*D.e>Z4D0#%,?$WU2,\7*F<*De/_T:YfG6kV4R`UNA9;F2QMK*(uo0)F^7=(`>nM\I!paE;kp5<m44PR(>/"K3UH+'``ODLiKPFAIHQJA6a?J]V"u>=8)uW%rh]"@utlU^?PIl-lL0rWC5lMLftSaLkp\fcM<HK_3RrJ#:8l1EBBhSfcDIP&0$Qh"-V0`$InMM)V!bQS75d6s!X(T"*Z,aPILLn52-%;DCe<lbtGBbTW+F&]J.s17:uRC+P()`+5dO<:LQZ<&P\6[n`6[njYF!=YrS`-kmA=-:NXDdS(^TVD8d_a=9(<<JPDCP(t/nTT?<Cr0*L]WtiQp\d"V%Up/51#mNJW_MG(o!uPi]*IZh1X4#:bI@%u?N`8F-ED<$\ODUXXVapqgU"n4g#WNlos*&R<mPf%]`,UV2:XRS<]mfX@Tn-Y3cO^H)&02WuARR`E12%?:hBrAf-n-VDr:A6"YbBb9l5DQtg+m`hBB.$,`]g#-c'i_Ci8NkFT?#!m_l17^d3@f2+?T'RJ/"Xu9<;tGI^*;'KS][:!"Lf_c`f)Z%grd*nT^/YeC7IE5,M&D!f6Cr!j5=t<9</\O#AoI'Cr:6ID3"m'(Q#/Jd>j-%RVh(%m1>m*5iW4I4Vg/`#(<lkRj*A'p&LJG2]1%Zh)"c#9_qA)6e5/SNBn?6Y"6$-+:7jO<EJBNK)2gA]oTa'GM730Z(-u!s?@+F`his/)W]EbFf5nFO-R@%giJB"IK1RB(jGOb);P9X]^#=bh8A^kgnm^dGY\]c&gd*&:ag[<`TtN'm9-1c(ddimb5&Vh@"T/>b*fl*n25V%aY@IqY&Z^6#Sf0qG_ShJn90b/LAs(DDe"m"Zcm\QnuC#o*-Fl6H8Psm,Q-I6!XQ1;ZN8XSfUitGB^NjHLXoUQ?^INms=Zlec#C>!D"A8n/qefn`)<L""[PVR,,E#UT(4YqS=K8TB$L_#CH%?VZaZcL3+J,&;kn;A%Y@U%pI$Z=g[cq^A22nk^"anXFHS-dhip,Gk#P>Ico&mNhOJ$U"ZAp9HAV;7_"=f3#+#2K#"83<)SsC.uI"-$QXnrOH-[3a?si+7CI5fOWg3gMX3iqaFI!o+mWtr<[s:ZZTH3(\E-0V)`*^XPGkJ]6j[U3OURLO-"[Eg`D8qiR>")R&,XKjh!$=@-3j<WS#aU![LX>(nE)a</QZ&makPn73+pfTjPg/u*Kumb[^Z"9g=gi]nN7k]14k8IlPm?TkFS9:!Dm'L-[@N>lLer#olYfbPuT[ONZ2WWR6PTejREn\J0<..p\CDohmI[@HIr$X/L0*%h+^=,"U5n/8&2f(9L&uQ46JC^^d2T;VJU3c()[tr\d?#+/M1i<qR)uHOBqSod!+,Y-BJ6.,!sQmd(7-985W73hS"8%Nr\EsU`^])(V]e74!,Od='&H?B0fM%aMY4i8-nK@]L#9r>V3/:^:F!r^4DE?N'9rQ5AeD^-C]/Oa)bBDfm3B5Li<C"kf*/Ao!8"<]hi5VKqW0'@A-jcg,!Bf6F.i-IKC$4q!-$K[S)11BkhAa?B$03PT&Tg5j"+lrhulu"4Y2tKX1]u!E]=NDJj<jWN.VO.#0bDjQ5NEntKW(IfJHji?M+oL'BGGblep&ERpZ5H3X4)DZ1,;!=d,qc<e,+/YIk#!s(QTSImVB/P/OCg.9F6@Q\fuHL,-Q@m+DWe5+-iJ-;S@pE)T_lKQ<=n<\4EA&hS%T*P2)I.`AWSh;iGeEsbc11UBmio7qL.P&]I!eQ'sYJ]oq9UclO$rZZG+V/MMr!PK3!',a'4<-pJc5RpQh@>jcI%-X0s3S79_UUb]YIKQRr@O@#ehmlf1PjE)Nb#,E;qNfslpQ_'#$iI?WL9V/o:?7CQ,4d_0@3*512!`-8lK?;QbY3dBJ^\BWQ8a8gk2`WOZp"2Vi5.4G-\DW1fZ,\Y3O>2J&9e/f.dW?=dHF92s8DaQLH#7D$;ZD8%N/oPupZ"gHbVu6R?DX78R&_jmD@4c+h!s!\eoB1r+mWF6>2^]'S"M43sN8\$i`S[Cq1Ed*NI?'=W,Mp+O0c#_2n""J054['oN9$ij$1$!5a.D;2dGro[Ws_Os/KNn9h"AAGo$\iRp?M2;Otko_W]MXajM7Ks]9btLeu6:12>*Xqn*NpD88@q7jB4bIqKjN3.2L9WPhE"0BD5X5;XmXR*Ti.Q+1@@.8KK(0ic>Spm8B?/)DLW/u\G+=/S'1i3B*r7uS2DkM%N5/lWV]^3Qn'bourIY2=FA>(\4?A(;H\t72JLAeep@e5L`C(X`)blqb",e#;)O4'Md6&s(*-)EL6pYEm\C]-U3ICHNn0if6`L?eQcqn_%0d+Js(XAX7s5TMgB@$U"!RLi)oPJdgA,t=,0feK[e)A9g8s?,G`pa/"r,UatJ6fZE=]nl-HDk;p8Q67$cq6PdH2I:ehG<g2pt5<I+9Q-nkl?no6F'FF#EKqcf)/=crQF5KT`DC-C!1)gA=5b=If,-Be$a/MS=5m/4?SEI.hpe!T8j<mEZ0MaDGHcaP`1c<%g<:fOCRGq0WQ==%HMb?jrp#F$&Xbnn;*ZRDG=tdDI.[7AEh?C3@@TLm+N??\3>;>D6SkBR'(G=L0c-(/"E=HV5s_`&Z_uG7o>8DW[6(mPNZcBAkNp1D,#?"8tjD?80f]a't.SmXdEe>2CL"_'O$;J4bBdRWFZWYA/W*l<Rf%Ul#,?2I_G842K$%c3RQ<0(+>;6H8NAZP*7"k\YO]Y#LK(=]AH&2KWSHqs4M&VTQ=N%#9%De@<(ep_/neb?,(h/<*C,b<j#^'br=NFYCl?Nq>f`W5QFQO4q1d9a?T1EQS6OjCtU^bhWL[KU9t<;hS+DN@q-`!6g4Ob'brZFgjjBciPL:&\fp09NXoe2_9A=_DZL`[e0HCh4#j=211elnEgdBU>Ys:.A(T>aA&9?q)+We8o;:j:T.fHnkQ8D)S,lqZB@^nCm4g@]+$O`+#Z)#ZI5?><S9u+[JKE^^HP_nJ9WbR+:T)Z-E<(D4/hRWI7W``o9M>k.7W;4,=9rCkA>??3%nI2G*RJgXOt_Ul-p;nKW2ls,Z3h<Pi.0?+4L(lhYOCT7p%%4fYmVQ@(9!OKrTdf]#FRf+_1Dj[p5L"MhRR\TOUT$TG3mi^^LApNe3M]<(]F@1n*hNQS<a2h8MPT[JG+#'EIiN:QV3!n+ClFt$QQO][6[:_lCt63^IZ[Q=Fg1PXE;e&]td>2C(=59r:tEigg"T/WYG&as(,+.a<2Y>Yt2sT#ROiZ5H#=8(iU=E%.Y'g@dIH)/@W-H-7V;1*Z?.^?AU2Uq_OCBLBa(%pbh6QZ'>1l'=R:aZ$2"1\dE^fdPhQ`1($k0oiKNM?tfcu2$<&WTa]Ij"rh"SSW#Bp,_[+)Tgr$`E"PQJKMWP;9XI\8TV^bJX5di1)R=*Hgm2gALRb!/^YJT@BW.k_k^J;1HLo5\DTEp)5U,?KV#p!tpJ6L+'+*@Q%nSL&3o>Sn"E*)/Q,-u5fu@MPKILG^!>i=.FF1YG#<a'@q=hZ(D.[C'm+ASkdSf;c"KCjVPa$(<Y\EgtcTp;'LK;pF_=dNhgHdm?p5T(NIZQ5HjIeRZRJh4I?ino;+`Yl"_ns9pj8rsr]@MGJ";sqQ;jSW,e^`20.GWlN+ph#YW9Ar9ZO;uB^l,5^$02-QrpU5j=LW/gaE;E>0-83Sm_K"q\UF?5&.C+3=SmVHdqCQ?!s:,,/W^m4BXg?6>ogr`_hSbT,_F#FE!O@5T.nX.ZZ)V6UkBJ+GQfdkRl>7PFTGFX@L0@Kde(Ef59qO$iRLqY<WEJW$[<'W":0j,&4gd1il/]S5_R\;e,V3GI8ItW$/c`9EH?3=gE>HDOICfS"(hpc7M1g#aIiMuO[u:81jJ`\R?a$PUc(L[!5SXfTROsc(&]MON!0G/;<=&XgNW&c1rGtV0(ht&FQbu(Bo-:h'/=YXl9@-sATlQKMPI>3W,Mnj*IB_GbN26:aXDKOmB7k39Hb(5Nm;pF"LjF/I8BKZ&T;$5lYHB=F':rKCE>Ut>e$#FqHSceGN/ThOk]U7YM8\cjk?V*<sDbZ#r8t"1p[NG[1"t!#Ve.F1UIED1kX*cA'5DkS+,MiUGm'arbcY?RnLaMn!r8fQ3KP<b"`U/e02$9>V9a.:!NdDX_p-F:b5Oo^cJcG+%e#4DId,d2!F8?rW70UqVe/;MdSZ!^'F!@qD/DuB:jSV]b+cmj8tS!1M>!`L^ah(i]W9o;0'2ljlPTsg;C8d+=Pb/+L#"1+:numpl=-P.R;9;M;dE%%L6\`n1I6Lh?&K9Nr\+jg"F4*aWgm9c9$7<KT6:%6%0pYcujj9n].)e)Vd__Z:WsBW&/lc>$'OcC%J';^;YG^E<I!YEXoqidL)bU@ZDJn^LR<Vkih5Tq!aub[5DLoo?TW+fpkP:\;%X^-6WJ1%7<$Y_o:okX+Q"U+>o6*i&77:^]4i$6RIAP5X%KG!Kk=rI/Wn!BF4_L\1CH_8.D`rmbO@uQ3Lj+'HKd+6QZ1'r.#K4>/Y$Z+WWg(\.`0UT3mZ\Z3N#a!.gSi%+j%Z@X%EQTa6_\n.o(>j<*ZZ`F=+>HZuj3qQKrO%o<Ro6f<O*Yj`hb(VJAOf,)aur^@1nnca-7&ah&4oV"X-<*8L4T?W)"nB8!8`utC^<E3O+je'j:jN&H.(A8gWcX4DJb4e-ANojjC!>6!Tn4Dm];HZn2Iht0'/0N9W$=UT5$@)bu":aJ]h[s/Md^D'.\OBCpb:bIcbf]=58SenIC\<,,FQ\,%+*SWP^X_i>9o+eDhJE2QB$7B-[,8IhlH[:K%j&Ip#jFuQ6oO5/.Z'H<;-1B&s,D95%o%80[c3"^N3#F#boFgNnLKJA6O#k$48^Tjju.r:8Rs>,0Ef%7o=F^.8U,J>&6."$TSYsk!;[/QmHWt_iku.""@>IC5t?Yn9Fc4I"h6h*i&s:))K><<j2YR24Fd>mUt4G\4*F&^OA?esWt,UI]Pug2.-#820G'?Ba,_;m-ip9mTNQf^!]bfQmc!-pl`\(?8.EJD@^oJJqmcCn^3^qD)gD,;V3AqqG^Fa^H$CD%4pi*V63%D/?N.RN!Vq:D)\`YW,5?ic6<W6_ZY.TN`o%NEJUd4H#"T3u&j#A1&2Z7%JaNMlL%!tdGREY)?!SIS&KkKeddQPh"=/PFE&qqKO<:Ds5ehl$!Or.`a+/'UdaA2.o_8*8<e0p2[D99_%0<)_32?PlH:ge%=]lVu0OF:6,4cNn-lkDRpHWjej[3W4?bQpK4u+sr5_cO1$:kZZJkH4I>2e>OHVb#naV_qXru`OQ0kt\NGSbl+)(PI3M3I,J5iL"?g4e-A5:#h"6BI5HKX%!argRVa&&YLP:G[etQOjeKi&aDpQi%ZaUZDq>BetE!WI]9tT,8Ol]&+0lDi"*^U8`i[BLW2O)B&eP%K(qb6";^cZ!#T)->IfPD!R1)FqO3>L`nB+9;5Ni`O8:VA6pb;Ns'KM9n^ab[R;C1(m-5JC1Dm7!_&*)!*R6<bV:A0&ENQYf#G^Ui.NC&04)@DY,EbLWiCSf>$IKR^$Fe]2,_(k.Rl4^BKf>tSb#S=l_]EVlH6-\lC+`1b(dM(c;u$26R.18`%GT=&ipF,,E/Y<-iaSS-/]H>6/T_G!hBZ0!,_dk:ec\eb0%`D7d+tsia`KD7g>BB%^?/PTs_G-Z+^80:fC@'H%:IR\[`S2hC2W/8=GeTA&C&7.:aJF#_lE*"@!&=^aCCZYMfO1#bQ?+1Ye&V9e6>8KEn4/n3,P5(Mtb+n>hY3l<(;+'A*I&&;gPnJXV:D(&eBT^cY5tIS(4QGjo!_&!R.1['I=G.MFuhI7X9Y7jkq]h^K4anl*?aGJ/80pHs5bI^jot+WUt3nieL&r&[##eDAoV-ko)EGA(CR_`a1_#oTNanUOes,/Y@hlKTO`[^J(B-E_"GR.-0/Js;&*^qtS^%'g%>]IG'=aGpl@A`,7cr5JD%-1VM2@R;POrVTU2;Ng1cD!tc4(YI:M\HPPU<sKGl,5kI64tQ^^oH.42OB`1S'.,J/5tZqJ;l3HL@Pq1SY/lD5Hb7?%`DVhGnjJ(R84qrU/YNer4Xe%\4(`&2.X'.$?!<@jh#0cmV8*YiTBl2HFZoGc_d@jm9Gmcj5m8fe0K2$^;Im3sA9f<%!%M<._-PH&i?"C<r:q>#,3!\-pj7*G7`>:Pc^7*7gu^7Y(n20BY<^9XUqB?>;iL*)&h-#-.Jm+B_ibQ+++*TdC&gJm\E?4^jS/\N+TI'.s62UMU+riMP]:Mbs'J(sir;pSrs82k"K?d:pV3`,s8B"',nl.%H>GqJq>!89s1ckdmReRok0J8NB9F@Sa7(g2$m3C-n1f;!+2c.g0mjBO_oM7$Hjh+7a7(g2$m3C-n1f;!+2c.g0mjBO_oM7$r-o+S#@cI@YQ~>
+endstream
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/Contents 13 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 7 0 R
+/F1-0 14 0 R
+/F2 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+13 0 obj
+<<
+/Length 8642
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7.8 Tf 9.36 TL ET
+.180392 .360784 .541176 rg
+BT 1 0 0 1 60 801.8898 Tm (Ambulance Dispatch Simulator | DSA Project Interim Report) Tj T* ET
+.615686 .717647 .835294 RG
+.6 w
+n 60 795.8898 m 535.2756 795.8898 l S
+n 60 40 m 535.2756 40 l S
+.372549 .419608 .478431 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 60 28 Tm (Java | Data Structures and Algorithms) Tj T* ET
+BT 1 0 0 1 510.5574 28 Tm (Page 2) Tj T* ET
+Q
+q
+1 0 0 1 66 753.8898 cm
+q
+.121569 .219608 .392157 rg
+BT 1 0 0 1 0 3.5 Tm /F2 16.5 Tf 20 TL (Abstract) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 708.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29 Tm /F1 9.4 Tf 12.8 TL 1.516753 Tw (The Ambulance Dispatch Simulator is a console-based Java program that dispatches the nearest available) Tj T* 0 Tw -0.128483 Tw (ambulance to an emergency. Each emergency has a severity from 1 \(critical\) to 3 \(minor\). When all ambulances) Tj T* 0 Tw (are busy, requests wait in a queue and the most severe request is served first.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 651.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 41.8 Tm /F1 9.4 Tf 12.8 TL 1.578987 Tw (The city map is stored as a weighted graph whose edges are distances in kilometres. Dijkstra's algorithm,) Tj T* 0 Tw .207152 Tw (implemented with a PriorityQueue, is run from every free ambulance to find the shortest path to the emergency) Tj T* 0 Tw -0.079814 Tw (location, and the ambulance with the smallest distance is dispatched. A second PriorityQueue keeps the waiting) Tj T* 0 Tw (requests ordered by severity, with first-come-first-served order for equal severity.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 594.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 41.8 Tm /F1 9.4 Tf 12.8 TL 1.668928 Tw (The program keeps the status \(Available/Busy\) and the current location of every ambulance, and provides) Tj T* 0 Tw 2.641861 Tw (dispatch, complete-trip and show-status features as methods. It is a beginner-level Data Structures and) Tj T* 0 Tw .16061 Tw (Algorithms \(DSA\) project \(PS No. 83\) written in a single Java file. The program was compiled and run with JDK) Tj T* 0 Tw (21 and produces the expected result for all four given test cases.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 562.0898 cm
+q
+.121569 .219608 .392157 rg
+BT 1 0 0 1 0 3.5 Tm /F2 16.5 Tf 20 TL (Introduction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 516.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29 Tm /F1 9.4 Tf 12.8 TL .153712 Tw (In an emergency, two decisions matter most: which ambulance can reach the patient fastest, and which patient) Tj T* 0 Tw -0.037801 Tw (must be helped first when help is limited. Graph algorithms answer the first question and priority queues answer) Tj T* 0 Tw (the second, which makes this scenario a good way to learn how data structures solve real problems.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 459.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 41.8 Tm /F1 9.4 Tf 12.8 TL .020699 Tw (The user enters an emergency location and a severity. The program checks that the location exists on the map,) Tj T* 0 Tw .154388 Tw (finds the free ambulance with the shortest route using Dijkstra's algorithm, marks it busy and prints its path and) Tj T* 0 Tw 1.005047 Tw (distance. If no ambulance is free, the request is queued. When an ambulance completes its trip, it becomes) Tj T* 0 Tw (available at the emergency location and immediately serves the most severe waiting request, if any.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 440.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.4 Tm /F1 9.4 Tf 12.8 TL (The application is organized into the following parts:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 421.8898 cm
+q
+BT 1 0 0 1 3 3.4 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 14 3.4 Tm 12.8 TL /F2 9.4 Tf 0 0 0 rg (Graph) Tj /F1 9.4 Tf ( \226 stores the map as an adjacency list and runs Dijkstra's algorithm) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 405.8898 cm
+q
+BT 1 0 0 1 3 3.4 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 14 3.4 Tm 12.8 TL /F2 9.4 Tf 0 0 0 rg (Ambulance) Tj /F1 9.4 Tf ( \226 stores the ID, current location and status of one ambulance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 389.8898 cm
+q
+BT 1 0 0 1 3 3.4 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 14 3.4 Tm 12.8 TL /F2 9.4 Tf 0 0 0 rg (Emergency) Tj /F1 9.4 Tf ( \226 stores the location, severity and arrival number of one request) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 373.8898 cm
+q
+BT 1 0 0 1 3 3.4 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 14 3.4 Tm 12.8 TL /F2 9.4 Tf 0 0 0 rg (AmbulanceDispatchSimulator) Tj /F1 9.4 Tf ( \226 main class with the dispatch, complete-trip and show-status methods) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 341.8898 cm
+q
+.121569 .219608 .392157 rg
+BT 1 0 0 1 0 3.5 Tm /F2 16.5 Tf 20 TL (Problem Statement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 186.0898 cm
+q
+.956863 .964706 .984314 rg
+n 0 129.6 475.2756 -19.2 re f*
+.956863 .964706 .984314 rg
+n 0 68.8 475.2756 -19.2 re f*
+.956863 .964706 .984314 rg
+n 0 30.4 475.2756 -30.4 re f*
+.811765 .866667 .94902 rg
+n 0 148.8 110 -148.8 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 133.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F2 8.6 Tf 11.2 TL (PS No.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 116 133.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (83) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 114.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F2 8.6 Tf 11.2 TL (Project Title) Tj T* ET
+Q
+Q
+q
+1 0 0 1 116 114.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Ambulance Dispatch Simulator) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 84 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F2 8.6 Tf 11.2 TL (Problem Statement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 116 72.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 25 Tm /F1 8.6 Tf 11.2 TL (Develop a console simulator that dispatches the nearest available ambulance to an) Tj T* (emergency. Each emergency has a severity \(1 = critical to 3 = minor\). When all ambulances) Tj T* (are busy, requests wait and the most severe request is served first.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 53.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F2 8.6 Tf 11.2 TL (Language / Concepts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 116 53.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Java; Graph, Dijkstra, Priority Queue) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 34.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F2 8.6 Tf 11.2 TL (Map \(km\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 116 34.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Hospital-Sector1 4, Sector1-Sector2 3, Sector2-Sector3 5, Hospital-Sector3 10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 9.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F2 8.6 Tf 11.2 TL (Initial ambulances) Tj T* ET
+Q
+Q
+q
+1 0 0 1 116 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.8 Tm /F1 8.6 Tf 11.2 TL (AMB1 is at Hospital and AMB2 is at Sector3, both available. After a trip, the ambulance is at) Tj T* (the emergency location.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.556863 .607843 .690196 RG
+.5 w
+n 0 148.8 m 475.2756 148.8 l S
+n 0 0 m 475.2756 0 l S
+n 0 0 m 0 148.8 l S
+n 475.2756 0 m 475.2756 148.8 l S
+n 0 129.6 m 475.2756 129.6 l S
+n 0 110.4 m 475.2756 110.4 l S
+n 0 68.8 m 475.2756 68.8 l S
+n 0 49.6 m 475.2756 49.6 l S
+n 0 30.4 m 475.2756 30.4 l S
+n 110 0 m 110 148.8 l S
+Q
+Q
+Q
+q
+1 0 0 1 66 154.0898 cm
+q
+.121569 .219608 .392157 rg
+BT 1 0 0 1 0 3.5 Tm /F2 16.5 Tf 20 TL (Objectives) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 134.2898 cm
+q
+BT 1 0 0 1 3 3.4 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 14 3.4 Tm /F1 9.4 Tf 12.8 TL (Represent the city map as a weighted graph.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 118.2898 cm
+q
+BT 1 0 0 1 3 3.4 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 14 3.4 Tm /F1 9.4 Tf 12.8 TL (Implement Dijkstra's algorithm using a PriorityQueue.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 102.2898 cm
+q
+BT 1 0 0 1 3 3.4 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 14 3.4 Tm /F1 9.4 Tf 12.8 TL (Dispatch the nearest free ambulance \(shortest distance\) to an emergency.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 86.28976 cm
+q
+BT 1 0 0 1 3 3.4 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 14 3.4 Tm /F1 9.4 Tf 12.8 TL (Keep waiting requests in a priority queue ordered by severity \(first come, first served for equal severity\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 70.28976 cm
+q
+BT 1 0 0 1 3 3.4 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 14 3.4 Tm /F1 9.4 Tf 12.8 TL (Keep the status and current location of every ambulance.) Tj T* ET
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.105882 0.164706 0.360784 RG
+1.6 w
+n
+42 12.8898 511 809 re
+S
+0.560784 0.639216 0.8 RG
+0.5 w
+n
+46 16.8898 503 801 re
+S
+0.105882 0.164706 0.360784 rg
+n
+38.5 818.3898 7 7 re
+f*
+1 1 1 rg
+n
+40.5 820.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+549.5 818.3898 7 7 re
+f*
+1 1 1 rg
+n
+551.5 820.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+38.5 9.3898 7 7 re
+f*
+1 1 1 rg
+n
+40.5 11.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+549.5 9.3898 7 7 re
+f*
+1 1 1 rg
+n
+551.5 11.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+Q
+
+endstream
+endobj
+14 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+15 0 obj
+<<
+/Contents 16 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 7 0 R
+/F1-0 17 0 R
+/F2 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 8830
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7.8 Tf 9.36 TL ET
+.180392 .360784 .541176 rg
+BT 1 0 0 1 60 801.8898 Tm (Ambulance Dispatch Simulator | DSA Project Interim Report) Tj T* ET
+.615686 .717647 .835294 RG
+.6 w
+n 60 795.8898 m 535.2756 795.8898 l S
+n 60 40 m 535.2756 40 l S
+.372549 .419608 .478431 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 60 28 Tm (Java | Data Structures and Algorithms) Tj T* ET
+BT 1 0 0 1 510.5574 28 Tm (Page 3) Tj T* ET
+Q
+q
+1 0 0 1 66 761.0898 cm
+q
+BT 1 0 0 1 3 3.4 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 14 3.4 Tm /F1 9.4 Tf 12.8 TL (Provide dispatch, complete-trip and show-status features using methods.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 745.0898 cm
+q
+BT 1 0 0 1 3 3.4 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 14 3.4 Tm /F1 9.4 Tf 12.8 TL (Handle an invalid location and the no-ambulance-available case correctly.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 729.0898 cm
+q
+BT 1 0 0 1 3 3.4 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 14 3.4 Tm /F1 9.4 Tf 12.8 TL (Pass the four given test cases.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 697.0898 cm
+q
+.121569 .219608 .392157 rg
+BT 1 0 0 1 0 3.5 Tm /F2 16.5 Tf 20 TL (Scope) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 677.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.4 Tm /F1 9.4 Tf 12.8 TL (The first version of the project is limited to the following:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 658.4898 cm
+q
+BT 1 0 0 1 3 3.4 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 14 3.4 Tm /F1 9.4 Tf 12.8 TL (A fixed map of four locations: Hospital, Sector1, Sector2 and Sector3.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 642.4898 cm
+q
+BT 1 0 0 1 3 3.4 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 14 3.4 Tm /F1 9.4 Tf 12.8 TL (Two ambulances: AMB1 \(at Hospital\) and AMB2 \(at Sector3\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 626.4898 cm
+q
+BT 1 0 0 1 3 3.4 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 14 3.4 Tm /F1 9.4 Tf 12.8 TL (Shortest-path search with Dijkstra's algorithm from every free ambulance.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 610.4898 cm
+q
+BT 1 0 0 1 3 3.4 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 14 3.4 Tm /F1 9.4 Tf 12.8 TL (A waiting queue ordered by severity 1 to 3.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 594.4898 cm
+q
+BT 1 0 0 1 3 3.4 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 14 3.4 Tm /F1 9.4 Tf 12.8 TL (One Java file run from the console.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 578.4898 cm
+q
+BT 1 0 0 1 3 3.4 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 14 3.4 Tm /F1 9.4 Tf 12.8 TL (Distances are whole numbers of kilometres.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 549.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.2 Tm /F1 9.4 Tf 12.8 TL .851329 Tw (GPS, live traffic, a database, a graphical interface and connection to real emergency services are not part of) Tj T* 0 Tw (this project. It is an educational prototype and must not be used for actual ambulance dispatch.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 517.6898 cm
+q
+.121569 .219608 .392157 rg
+BT 1 0 0 1 0 3.5 Tm /F2 16.5 Tf 20 TL (System Requirements) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 376.2898 cm
+q
+.811765 .866667 .94902 rg
+n 0 134.4 475.2756 -19.2 re f*
+.956863 .964706 .984314 rg
+n 0 96 475.2756 -19.2 re f*
+.956863 .964706 .984314 rg
+n 0 57.6 475.2756 -19.2 re f*
+.956863 .964706 .984314 rg
+n 0 19.2 475.2756 -19.2 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 119.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F2 8.8 Tf 11.2 TL (Category) Tj T* ET
+Q
+Q
+q
+1 0 0 1 136 119.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F2 8.8 Tf 11.2 TL (Requirement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 100 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Hardware) Tj T* ET
+Q
+Q
+q
+1 0 0 1 136 100 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Computer/laptop; 4 GB RAM or above recommended) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 80.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Operating System) Tj T* ET
+Q
+Q
+q
+1 0 0 1 136 80.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Windows, Linux or macOS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 61.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Software) Tj T* ET
+Q
+Q
+q
+1 0 0 1 136 61.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (JDK 21 \(recommended\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 42.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Editor / IDE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 136 42.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (IntelliJ IDEA, Eclipse, VS Code or any text editor) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 23.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Execution) Tj T* ET
+Q
+Q
+q
+1 0 0 1 136 23.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Command Prompt / Terminal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Version control) Tj T* ET
+Q
+Q
+q
+1 0 0 1 136 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Git and GitHub for uploading the code and report) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.556863 .607843 .690196 RG
+.5 w
+n 0 134.4 m 475.2756 134.4 l S
+n 0 0 m 475.2756 0 l S
+n 0 0 m 0 134.4 l S
+n 475.2756 0 m 475.2756 134.4 l S
+n 0 115.2 m 475.2756 115.2 l S
+n 0 96 m 475.2756 96 l S
+n 0 76.8 m 475.2756 76.8 l S
+n 0 57.6 m 475.2756 57.6 l S
+n 0 38.4 m 475.2756 38.4 l S
+n 0 19.2 m 475.2756 19.2 l S
+n 130 0 m 130 134.4 l S
+Q
+Q
+Q
+q
+1 0 0 1 66 344.2898 cm
+q
+.121569 .219608 .392157 rg
+BT 1 0 0 1 0 3.5 Tm /F2 16.5 Tf 20 TL (Methodology) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 324.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.4 Tm /F1 9.4 Tf 12.8 TL (The system works step-by-step as follows:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 292.8898 cm
+q
+BT 1 0 0 1 2 16.2 Tm /F1 10 Tf 12 TL 0 0 0 rg (1.) Tj ET
+0 0 0 rg
+BT 1 0 0 1 18 16.2 Tm /F1 9.4 Tf 12.8 TL (The map is loaded into a weighted graph \(adjacency list\). Each road is added in both directions with its) Tj T* (distance in km.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 276.8898 cm
+q
+BT 1 0 0 1 2 3.4 Tm /F1 10 Tf 12 TL 0 0 0 rg (2.) Tj ET
+0 0 0 rg
+BT 1 0 0 1 18 3.4 Tm /F1 9.4 Tf 12.8 TL (Two ambulances are created: AMB1 at Hospital and AMB2 at Sector3, both Available.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 248.0898 cm
+q
+BT 1 0 0 1 2 16.2 Tm /F1 10 Tf 12 TL 0 0 0 rg (3.) Tj ET
+0 0 0 rg
+BT 1 0 0 1 18 16.2 Tm /F1 9.4 Tf 12.8 TL (An empty PriorityQueue of waiting requests is created. It orders requests by severity and then by arrival) Tj T* (number.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 219.2898 cm
+q
+BT 1 0 0 1 2 16.2 Tm /F1 10 Tf 12 TL 0 0 0 rg (4.) Tj ET
+BT 1 0 0 1 18 16.2 Tm 12.8 TL /F1 9.4 Tf 0 0 0 rg (For a new emergency, the location and severity are read. If the location is not in the graph, the message) Tj T* ("Location <) Tj (name) Tj (> not found." is shown.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 190.4898 cm
+q
+BT 1 0 0 1 2 16.2 Tm /F1 10 Tf 12 TL 0 0 0 rg (5.) Tj ET
+0 0 0 rg
+BT 1 0 0 1 18 16.2 Tm /F1 9.4 Tf 12.8 TL (If at least one ambulance is Available, Dijkstra's algorithm is run from the location of every free ambulance) Tj T* (to the emergency location.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 161.6898 cm
+q
+BT 1 0 0 1 2 16.2 Tm /F1 10 Tf 12 TL 0 0 0 rg (6.) Tj ET
+0 0 0 rg
+BT 1 0 0 1 18 16.2 Tm /F1 9.4 Tf 12.8 TL (The ambulance with the smallest distance is selected \(the first one in case of a tie\). It is marked Busy and) Tj T* (its location is set to the emergency location.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 132.8898 cm
+q
+BT 1 0 0 1 2 16.2 Tm /F1 10 Tf 12 TL 0 0 0 rg (7.) Tj ET
+0 0 0 rg
+BT 1 0 0 1 18 16.2 Tm /F1 9.4 Tf 12.8 TL (The path and distance are printed. If no ambulance is free, the request is added to the waiting queue and) Tj T* ("No ambulance available. Request queued." is shown.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 104.0898 cm
+q
+BT 1 0 0 1 2 16.2 Tm /F1 10 Tf 12 TL 0 0 0 rg (8.) Tj ET
+0 0 0 rg
+BT 1 0 0 1 18 16.2 Tm /F1 9.4 Tf 12.8 TL (When a trip is completed, the ambulance becomes Available at the emergency location. If the waiting) Tj T* (queue is not empty, the most severe request is removed and dispatched to the nearest free ambulance.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 88.08976 cm
+q
+BT 1 0 0 1 2 3.4 Tm /F1 10 Tf 12 TL 0 0 0 rg (9.) Tj ET
+0 0 0 rg
+BT 1 0 0 1 18 3.4 Tm /F1 9.4 Tf 12.8 TL (The show-status method prints the status and current location of every ambulance.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 72.08976 cm
+q
+BT 1 0 0 1 2 3.4 Tm /F1 10 Tf 12 TL 0 0 0 rg (10.) Tj ET
+0 0 0 rg
+BT 1 0 0 1 18 3.4 Tm /F1 9.4 Tf 12.8 TL 3.9 0 Td (The menu repeats until the user chooses Exit.) Tj T* -3.9 0 Td ET
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.105882 0.164706 0.360784 RG
+1.6 w
+n
+42 12.8898 511 809 re
+S
+0.560784 0.639216 0.8 RG
+0.5 w
+n
+46 16.8898 503 801 re
+S
+0.105882 0.164706 0.360784 rg
+n
+38.5 818.3898 7 7 re
+f*
+1 1 1 rg
+n
+40.5 820.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+549.5 818.3898 7 7 re
+f*
+1 1 1 rg
+n
+551.5 820.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+38.5 9.3898 7 7 re
+f*
+1 1 1 rg
+n
+40.5 11.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+549.5 9.3898 7 7 re
+f*
+1 1 1 rg
+n
+551.5 11.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+Q
+
+endstream
+endobj
+17 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+18 0 obj
+<<
+/Contents 19 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 7 0 R
+/F1-0 20 0 R
+/F2 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+19 0 obj
+<<
+/Length 7906
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7.8 Tf 9.36 TL ET
+.180392 .360784 .541176 rg
+BT 1 0 0 1 60 801.8898 Tm (Ambulance Dispatch Simulator | DSA Project Interim Report) Tj T* ET
+.615686 .717647 .835294 RG
+.6 w
+n 60 795.8898 m 535.2756 795.8898 l S
+n 60 40 m 535.2756 40 l S
+.372549 .419608 .478431 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 60 28 Tm (Java | Data Structures and Algorithms) Tj T* ET
+BT 1 0 0 1 510.5574 28 Tm (Page 4) Tj T* ET
+Q
+q
+1 0 0 1 66 753.8898 cm
+q
+.121569 .219608 .392157 rg
+BT 1 0 0 1 0 3.5 Tm /F2 16.5 Tf 20 TL (Program Flowchart) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 708.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29 Tm /F1 9.4 Tf 12.8 TL .606376 Tw (The first flowchart shows the complete working of the program: the map and ambulances are created once at) Tj T* 0 Tw 1.100174 Tw (start-up, and then the menu repeats for every choice. The second flowchart \(next page\) shows the dispatch) Tj T* 0 Tw (process in detail, including the invalid-location and no-ambulance-available cases.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 696.4898 cm
+Q
+q
+1 0 0 1 60 226.4898 cm
+.772549 .854902 .941176 rg
+.184314 .294118 .486275 RG
+.9 w
+n
+186 435 m
+284 435 l
+287.3168 435 290 437.6832 290 441 c
+290 455 l
+290 458.3168 287.3168 461 284 461 c
+186 461 l
+182.6832 461 180 458.3168 180 455 c
+180 441 l
+180 437.6832 182.6832 435 186 435 c
+h
+B*
+0 0 0 rg
+BT /F2 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 220.8347 445.195 Tm (START) Tj T* ET
+.184314 .294118 .486275 RG
+.9 w
+n 235 435 m 235 414 l
+S
+.184314 .294118 .486275 rg
+n 235 414 m 231 422 l 239 422 l h
+f*
+.862745 .901961 .960784 rg
+.184314 .294118 .486275 RG
+.9 w
+n
+67.5 370 m
+402.5 370 l
+403.882 370 405 371.118 405 372.5 c
+405 411.5 l
+405 412.882 403.882 414 402.5 414 c
+67.5 414 l
+66.118 414 65 412.882 65 411.5 c
+65 372.5 l
+65 371.118 66.118 370 67.5 370 c
+h
+B*
+0 0 0 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 142.524 399.36 Tm (Build weighted graph \(map\); create AMB1 \(Hospital\)) Tj T* ET
+BT 1 0 0 1 174.976 389.36 Tm (and AMB2 \(Sector3\) as Available;) Tj T* ET
+BT 1 0 0 1 172.756 379.36 Tm (create empty waiting PriorityQueue) Tj T* ET
+.184314 .294118 .486275 RG
+.9 w
+n 235 370 m 235 349 l
+S
+.184314 .294118 .486275 rg
+n 235 349 m 231 357 l 239 357 l h
+f*
+.862745 .901961 .960784 rg
+.184314 .294118 .486275 RG
+.9 w
+n
+127.5 321 m
+342.5 321 l
+343.882 321 345 322.118 345 323.5 c
+345 346.5 l
+345 347.882 343.882 349 342.5 349 c
+127.5 349 l
+126.118 349 125 347.882 125 346.5 c
+125 323.5 l
+125 322.118 126.118 321 127.5 321 c
+h
+B*
+0 0 0 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 181.2 332.36 Tm (Display menu and read choice) Tj T* ET
+.184314 .294118 .486275 RG
+.9 w
+n 235 321 m 235 300 l
+S
+.184314 .294118 .486275 rg
+n 235 300 m 231 308 l 239 308 l h
+f*
+.909804 .933333 .972549 rg
+.184314 .294118 .486275 RG
+.9 w
+n 160 276 m 235 300 l 310 276 l 235 252 l h
+B*
+0 0 0 rg
+BT /F1 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 208.5437 273.195 Tm (Menu choice?) Tj T* ET
+.184314 .294118 .486275 RG
+.9 w
+n 235 252 m 235 228 l
+S
+.184314 .294118 .486275 RG
+.9 w
+n 90 228 m 420 228 l
+S
+.184314 .294118 .486275 RG
+.9 w
+n 90 228 m 90 214 l
+S
+.184314 .294118 .486275 rg
+n 90 214 m 86 222 l 94 222 l h
+f*
+.180392 .360784 .541176 rg
+BT /F2 7.5 Tf 9 TL ET
+BT 1 0 0 1 94 219 Tm (1) Tj T* ET
+.184314 .294118 .486275 RG
+.9 w
+n 200 228 m 200 214 l
+S
+.184314 .294118 .486275 rg
+n 200 214 m 196 222 l 204 222 l h
+f*
+.180392 .360784 .541176 rg
+BT /F2 7.5 Tf 9 TL ET
+BT 1 0 0 1 204 219 Tm (2) Tj T* ET
+.184314 .294118 .486275 RG
+.9 w
+n 310 228 m 310 214 l
+S
+.184314 .294118 .486275 rg
+n 310 214 m 306 222 l 314 222 l h
+f*
+.180392 .360784 .541176 rg
+BT /F2 7.5 Tf 9 TL ET
+BT 1 0 0 1 314 219 Tm (3) Tj T* ET
+.184314 .294118 .486275 RG
+.9 w
+n 420 228 m 420 214 l
+S
+.184314 .294118 .486275 rg
+n 420 214 m 416 222 l 424 222 l h
+f*
+.180392 .360784 .541176 rg
+BT /F2 7.5 Tf 9 TL ET
+BT 1 0 0 1 424 219 Tm (4) Tj T* ET
+.862745 .901961 .960784 rg
+.184314 .294118 .486275 RG
+.9 w
+n
+42.5 154 m
+137.5 154 l
+138.882 154 140 155.118 140 156.5 c
+140 211.5 l
+140 212.882 138.882 214 137.5 214 c
+42.5 214 l
+41.118 214 40 212.882 40 211.5 c
+40 156.5 l
+40 155.118 41.118 154 42.5 154 c
+h
+B*
+0 0 0 rg
+BT /F1 7.4 Tf 8.88 TL ET
+BT 1 0 0 1 71.4926 200.358 Tm (1: Dispatch) Tj T* ET
+BT 1 0 0 1 71.2891 190.958 Tm (Emergency) Tj T* ET
+BT 1 0 0 1 62.0317 181.558 Tm (Find nearest free) Tj T* ET
+BT 1 0 0 1 56.0784 172.158 Tm (ambulance \(Dijkstra\)) Tj T* ET
+BT 1 0 0 1 55.8564 162.758 Tm (or queue the request) Tj T* ET
+.862745 .901961 .960784 rg
+.184314 .294118 .486275 RG
+.9 w
+n
+152.5 154 m
+247.5 154 l
+248.882 154 250 155.118 250 156.5 c
+250 211.5 l
+250 212.882 248.882 214 247.5 214 c
+152.5 214 l
+151.118 214 150 212.882 150 211.5 c
+150 156.5 l
+150 155.118 151.118 154 152.5 154 c
+h
+B*
+0 0 0 rg
+BT /F1 7.4 Tf 8.88 TL ET
+BT 1 0 0 1 172.6533 200.358 Tm (2: Complete Trip) Tj T* ET
+BT 1 0 0 1 165.4531 190.958 Tm (Ambulance becomes) Tj T* ET
+BT 1 0 0 1 170.1817 181.558 Tm (free at emergency) Tj T* ET
+BT 1 0 0 1 167.0996 172.158 Tm (location; serve most) Tj T* ET
+BT 1 0 0 1 162.1564 162.758 Tm (severe queued request) Tj T* ET
+.862745 .901961 .960784 rg
+.184314 .294118 .486275 RG
+.9 w
+n
+262.5 154 m
+357.5 154 l
+358.882 154 360 155.118 360 156.5 c
+360 211.5 l
+360 212.882 358.882 214 357.5 214 c
+262.5 214 l
+261.118 214 260 212.882 260 211.5 c
+260 156.5 l
+260 155.118 261.118 154 262.5 154 c
+h
+B*
+0 0 0 rg
+BT /F1 7.4 Tf 8.88 TL ET
+BT 1 0 0 1 285.1138 195.658 Tm (3: Show Status) Tj T* ET
+BT 1 0 0 1 284.2924 186.258 Tm (Print status and) Tj T* ET
+BT 1 0 0 1 280.5924 176.858 Tm (current location of) Tj T* ET
+BT 1 0 0 1 281.8282 167.458 Tm (every ambulance) Tj T* ET
+.862745 .901961 .960784 rg
+.184314 .294118 .486275 RG
+.9 w
+n
+384.5 154 m
+455.5 154 l
+456.882 154 458 155.118 458 156.5 c
+458 211.5 l
+458 212.882 456.882 214 455.5 214 c
+384.5 214 l
+383.118 214 382 212.882 382 211.5 c
+382 156.5 l
+382 155.118 383.118 154 384.5 154 c
+h
+B*
+0 0 0 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 407.996 181.36 Tm (4: Exit) Tj T* ET
+.184314 .294118 .486275 RG
+.9 w
+n 90 154 m 90 132 l
+S
+.184314 .294118 .486275 RG
+.9 w
+n 200 154 m 200 132 l
+S
+.184314 .294118 .486275 RG
+.9 w
+n 310 154 m 310 132 l
+S
+.184314 .294118 .486275 RG
+.9 w
+n 90 132 m 310 132 l
+S
+.184314 .294118 .486275 RG
+.9 w
+n 200 132 m 200 112 l
+S
+.184314 .294118 .486275 rg
+n 200 112 m 196 120 l 204 120 l h
+f*
+.862745 .901961 .960784 rg
+.184314 .294118 .486275 RG
+.9 w
+n
+77.5 84 m
+322.5 84 l
+323.882 84 325 85.118 325 86.5 c
+325 109.5 l
+325 110.882 323.882 112 322.5 112 c
+77.5 112 l
+76.118 112 75 110.882 75 109.5 c
+75 86.5 l
+75 85.118 76.118 84 77.5 84 c
+h
+B*
+0 0 0 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 146.42 95.36 Tm (Display result / updated status) Tj T* ET
+.184314 .294118 .486275 RG
+.9 w
+n 75 98 m 14 98 l 14 335 l
+S
+.184314 .294118 .486275 RG
+.9 w
+n 14 335 m 125 335 l
+S
+.184314 .294118 .486275 rg
+n 125 335 m 117 331 l 117 339 l h
+f*
+q
+0 1 -1 0 10 150 cm
+.180392 .360784 .541176 rg
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 0 0 Tm (Next choice) Tj T* ET
+Q
+.184314 .294118 .486275 RG
+.9 w
+n 420 154 m 420 112 l
+S
+.184314 .294118 .486275 rg
+n 420 112 m 416 120 l 424 120 l h
+f*
+.772549 .854902 .941176 rg
+.184314 .294118 .486275 RG
+.9 w
+n
+388 85 m
+452 85 l
+455.3168 85 458 87.6832 458 91 c
+458 105 l
+458 108.3168 455.3168 111 452 111 c
+388 111 l
+384.6832 111 382 108.3168 382 105 c
+382 91 l
+382 87.6832 384.6832 85 388 85 c
+h
+B*
+0 0 0 rg
+BT /F2 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 411.0283 95.195 Tm (END) Tj T* ET
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.105882 0.164706 0.360784 RG
+1.6 w
+n
+42 12.8898 511 809 re
+S
+0.560784 0.639216 0.8 RG
+0.5 w
+n
+46 16.8898 503 801 re
+S
+0.105882 0.164706 0.360784 rg
+n
+38.5 818.3898 7 7 re
+f*
+1 1 1 rg
+n
+40.5 820.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+549.5 818.3898 7 7 re
+f*
+1 1 1 rg
+n
+551.5 820.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+38.5 9.3898 7 7 re
+f*
+1 1 1 rg
+n
+40.5 11.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+549.5 9.3898 7 7 re
+f*
+1 1 1 rg
+n
+551.5 11.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+Q
+
+endstream
+endobj
+20 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+21 0 obj
+<<
+/Contents 22 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 7 0 R
+/F1-0 23 0 R
+/F2 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+22 0 obj
+<<
+/Length 7054
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7.8 Tf 9.36 TL ET
+.180392 .360784 .541176 rg
+BT 1 0 0 1 60 801.8898 Tm (Ambulance Dispatch Simulator | DSA Project Interim Report) Tj T* ET
+.615686 .717647 .835294 RG
+.6 w
+n 60 795.8898 m 535.2756 795.8898 l S
+n 60 40 m 535.2756 40 l S
+.372549 .419608 .478431 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 60 28 Tm (Java | Data Structures and Algorithms) Tj T* ET
+BT 1 0 0 1 510.5574 28 Tm (Page 5) Tj T* ET
+Q
+q
+1 0 0 1 66 753.8898 cm
+q
+.121569 .219608 .392157 rg
+BT 1 0 0 1 0 3.5 Tm /F2 16.5 Tf 20 TL (Dispatch Flowchart) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 734.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.4 Tm /F1 9.4 Tf 12.8 TL (Dispatch flow for an emergency at a given location with a severity.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 722.0898 cm
+Q
+q
+1 0 0 1 60 192.0898 cm
+.772549 .854902 .941176 rg
+.184314 .294118 .486275 RG
+.9 w
+n
+101 492 m
+279 492 l
+282.3168 492 285 494.6832 285 498 c
+285 512 l
+285 515.3168 282.3168 518 279 518 c
+101 518 l
+97.6832 518 95 515.3168 95 512 c
+95 498 l
+95 494.6832 97.6832 492 101 492 c
+h
+B*
+0 0 0 rg
+BT /F2 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 153.875 502.195 Tm (START \(Dispatch\)) Tj T* ET
+.184314 .294118 .486275 RG
+.9 w
+n 190 492 m 190 471 l
+S
+.184314 .294118 .486275 rg
+n 190 471 m 186 479 l 194 479 l h
+f*
+.862745 .901961 .960784 rg
+.184314 .294118 .486275 RG
+.9 w
+n
+42.5 443 m
+337.5 443 l
+338.882 443 340 444.118 340 445.5 c
+340 468.5 l
+340 469.882 338.882 471 337.5 471 c
+42.5 471 l
+41.118 471 40 469.882 40 468.5 c
+40 445.5 l
+40 444.118 41.118 443 42.5 443 c
+h
+B*
+0 0 0 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 121.972 454.36 Tm (Read emergency location and severity) Tj T* ET
+.184314 .294118 .486275 RG
+.9 w
+n 190 443 m 190 423 l
+S
+.184314 .294118 .486275 rg
+n 190 423 m 186 431 l 194 431 l h
+f*
+.909804 .933333 .972549 rg
+.184314 .294118 .486275 RG
+.9 w
+n 105 398 m 190 424 l 275 398 l 190 372 l h
+B*
+0 0 0 rg
+BT /F1 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 155.0352 395.195 Tm (Location in graph?) Tj T* ET
+.184314 .294118 .486275 RG
+.9 w
+n 190 372 m 190 350 l
+S
+.184314 .294118 .486275 rg
+n 190 350 m 186 358 l 194 358 l h
+f*
+.180392 .360784 .541176 rg
+BT /F2 7.5 Tf 9 TL ET
+BT 1 0 0 1 195 357 Tm (YES) Tj T* ET
+.184314 .294118 .486275 RG
+.9 w
+n 275 398 m 320 398 l
+S
+.184314 .294118 .486275 rg
+n 320 398 m 312 394 l 312 402 l h
+f*
+.180392 .360784 .541176 rg
+BT /F2 7.5 Tf 9 TL ET
+BT 1 0 0 1 282 403 Tm (NO) Tj T* ET
+.862745 .901961 .960784 rg
+.184314 .294118 .486275 RG
+.9 w
+n
+337.5 382 m
+452.5 382 l
+453.882 382 455 383.118 455 384.5 c
+455 411.5 l
+455 412.882 453.882 414 452.5 414 c
+337.5 414 l
+336.118 414 335 412.882 335 411.5 c
+335 384.5 l
+335 383.118 336.118 382 337.5 382 c
+h
+B*
+0 0 0 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 385.8974 400.326 Tm (Print:) Tj T* ET
+BT 1 0 0 1 362.9108 390.526 Tm (Location not found) Tj T* ET
+.909804 .933333 .972549 rg
+.184314 .294118 .486275 RG
+.9 w
+n 95 322 m 190 350 l 285 322 l 190 294 l h
+B*
+0 0 0 rg
+BT /F1 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 159.2937 324.445 Tm (Free ambulance) Tj T* ET
+BT 1 0 0 1 170.8665 313.945 Tm (available?) Tj T* ET
+.184314 .294118 .486275 RG
+.9 w
+n 190 294 m 190 272 l
+S
+.184314 .294118 .486275 rg
+n 190 272 m 186 280 l 194 280 l h
+f*
+.180392 .360784 .541176 rg
+BT /F2 7.5 Tf 9 TL ET
+BT 1 0 0 1 195 279 Tm (YES) Tj T* ET
+.184314 .294118 .486275 RG
+.9 w
+n 285 322 m 325 322 l
+S
+.184314 .294118 .486275 rg
+n 325 322 m 317 318 l 317 326 l h
+f*
+.180392 .360784 .541176 rg
+BT /F2 7.5 Tf 9 TL ET
+BT 1 0 0 1 290 327 Tm (NO) Tj T* ET
+.862745 .901961 .960784 rg
+.184314 .294118 .486275 RG
+.9 w
+n
+337.5 297 m
+462.5 297 l
+463.882 297 465 298.118 465 299.5 c
+465 344.5 l
+465 345.882 463.882 347 462.5 347 c
+337.5 347 l
+336.118 347 335 345.882 335 344.5 c
+335 299.5 l
+335 298.118 336.118 297 337.5 297 c
+h
+B*
+0 0 0 rg
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 362.4028 329.092 Tm (Add request to waiting) Tj T* ET
+BT 1 0 0 1 367.2668 319.492 Tm (PriorityQueue; print) Tj T* ET
+BT 1 0 0 1 369.4176 309.892 Tm ("Request queued") Tj T* ET
+.862745 .901961 .960784 rg
+.184314 .294118 .486275 RG
+.9 w
+n
+27.5 244 m
+352.5 244 l
+353.882 244 355 245.118 355 246.5 c
+355 269.5 l
+355 270.882 353.882 272 352.5 272 c
+27.5 272 l
+26.118 272 25 270.882 25 269.5 c
+25 246.5 l
+25 245.118 26.118 244 27.5 244 c
+h
+B*
+0 0 0 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 91.308 255.36 Tm (Run Dijkstra \(PriorityQueue\) from every free ambulance) Tj T* ET
+.184314 .294118 .486275 RG
+.9 w
+n 190 244 m 190 226 l
+S
+.184314 .294118 .486275 rg
+n 190 226 m 186 234 l 194 234 l h
+f*
+.862745 .901961 .960784 rg
+.184314 .294118 .486275 RG
+.9 w
+n
+27.5 198 m
+352.5 198 l
+353.882 198 355 199.118 355 200.5 c
+355 223.5 l
+355 224.882 353.882 226 352.5 226 c
+27.5 226 l
+26.118 226 25 224.882 25 223.5 c
+25 200.5 l
+25 199.118 26.118 198 27.5 198 c
+h
+B*
+0 0 0 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 118.196 209.36 Tm (Select ambulance with smallest distance) Tj T* ET
+.184314 .294118 .486275 RG
+.9 w
+n 190 198 m 190 180 l
+S
+.184314 .294118 .486275 rg
+n 190 180 m 186 188 l 194 188 l h
+f*
+.862745 .901961 .960784 rg
+.184314 .294118 .486275 RG
+.9 w
+n
+27.5 152 m
+352.5 152 l
+353.882 152 355 153.118 355 154.5 c
+355 177.5 l
+355 178.882 353.882 180 352.5 180 c
+27.5 180 l
+26.118 180 25 178.882 25 177.5 c
+25 154.5 l
+25 153.118 26.118 152 27.5 152 c
+h
+B*
+0 0 0 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 112.636 163.36 Tm (Mark Busy; set location to emergency place) Tj T* ET
+.184314 .294118 .486275 RG
+.9 w
+n 190 152 m 190 134 l
+S
+.184314 .294118 .486275 rg
+n 190 134 m 186 142 l 194 142 l h
+f*
+.862745 .901961 .960784 rg
+.184314 .294118 .486275 RG
+.9 w
+n
+27.5 106 m
+352.5 106 l
+353.882 106 355 107.118 355 108.5 c
+355 131.5 l
+355 132.882 353.882 134 352.5 134 c
+27.5 134 l
+26.118 134 25 132.882 25 131.5 c
+25 108.5 l
+25 107.118 26.118 106 27.5 106 c
+h
+B*
+0 0 0 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 127.3 117.36 Tm (Print ambulance, path and distance) Tj T* ET
+.184314 .294118 .486275 RG
+.9 w
+n 190 106 m 190 82 l
+S
+.184314 .294118 .486275 rg
+n 190 82 m 186 90 l 194 90 l h
+f*
+.772549 .854902 .941176 rg
+.184314 .294118 .486275 RG
+.9 w
+n
+136 55 m
+244 55 l
+247.3168 55 250 57.6832 250 61 c
+250 75 l
+250 78.3168 247.3168 81 244 81 c
+136 81 l
+132.6832 81 130 78.3168 130 75 c
+130 61 l
+130 57.6832 132.6832 55 136 55 c
+h
+B*
+0 0 0 rg
+BT /F2 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 181.0283 65.195 Tm (END) Tj T* ET
+.184314 .294118 .486275 RG
+.9 w
+n 455 398 m 478 398 l 478 68 l
+S
+.184314 .294118 .486275 RG
+.9 w
+n 465 322 m 478 322 l
+S
+.184314 .294118 .486275 RG
+.9 w
+n 478 68 m 250 68 l
+S
+.184314 .294118 .486275 rg
+n 250 68 m 258 64 l 258 72 l h
+f*
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.105882 0.164706 0.360784 RG
+1.6 w
+n
+42 12.8898 511 809 re
+S
+0.560784 0.639216 0.8 RG
+0.5 w
+n
+46 16.8898 503 801 re
+S
+0.105882 0.164706 0.360784 rg
+n
+38.5 818.3898 7 7 re
+f*
+1 1 1 rg
+n
+40.5 820.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+549.5 818.3898 7 7 re
+f*
+1 1 1 rg
+n
+551.5 820.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+38.5 9.3898 7 7 re
+f*
+1 1 1 rg
+n
+40.5 11.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+549.5 9.3898 7 7 re
+f*
+1 1 1 rg
+n
+551.5 11.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+Q
+
+endstream
+endobj
+23 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+24 0 obj
+<<
+/Contents 25 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 7 0 R
+/F1-0 26 0 R
+/F2 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+25 0 obj
+<<
+/Length 7656
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7.8 Tf 9.36 TL ET
+.180392 .360784 .541176 rg
+BT 1 0 0 1 60 801.8898 Tm (Ambulance Dispatch Simulator | DSA Project Interim Report) Tj T* ET
+.615686 .717647 .835294 RG
+.6 w
+n 60 795.8898 m 535.2756 795.8898 l S
+n 60 40 m 535.2756 40 l S
+.372549 .419608 .478431 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 60 28 Tm (Java | Data Structures and Algorithms) Tj T* ET
+BT 1 0 0 1 510.5574 28 Tm (Page 6) Tj T* ET
+Q
+q
+1 0 0 1 66 753.8898 cm
+q
+.121569 .219608 .392157 rg
+BT 1 0 0 1 0 3.5 Tm /F2 16.5 Tf 20 TL (Class Diagram) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 721.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.2 Tm /F1 9.4 Tf 12.8 TL .585079 Tw (The class diagram summarizes the classes and their key fields and methods in the single-file implementation.) Tj T* 0 Tw (The relationships are:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 702.4898 cm
+q
+BT 1 0 0 1 3 3.4 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 14 3.4 Tm /F1 9.4 Tf 12.8 TL (AmbulanceDispatchSimulator owns one Graph \(composition\) and uses a list of Ambulance objects.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 686.4898 cm
+q
+BT 1 0 0 1 3 3.4 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 14 3.4 Tm /F1 9.4 Tf 12.8 TL (The waiting PriorityQueue in the simulator holds zero or more Emergency objects.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 644.8898 cm
+q
+BT 1 0 0 1 3 29 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 14 29 Tm /F1 9.4 Tf 12.8 TL (Graph stores the map as an adjacency list of edges \(neighbour, distance in km\) and provides Dijkstra's) Tj T* -0.013938 Tw (algorithm. Edge \(one road\) and Node \(an item of Dijkstra's PriorityQueue\) are two small helper classes used) Tj T* 0 Tw (inside Graph.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 633.6898 cm
+Q
+q
+1 0 0 1 60 213.6898 cm
+.917647 .941176 .980392 rg
+.184314 .294118 .486275 RG
+.9 w
+n 60 280 360 109.6 re B*
+.811765 .866667 .94902 rg
+n 60 372.6 360 17 re B*
+0 0 0 rg
+BT /F2 8.6 Tf 10.32 TL ET
+BT 1 0 0 1 178.8325 378.262 Tm (AmbulanceDispatchSimulator) Tj T* ET
+0 0 0 rg
+BT /F1 6.8 Tf 8.16 TL ET
+BT 1 0 0 1 64 361.6 Tm (- graph : Graph) Tj T* ET
+BT 1 0 0 1 64 351.4 Tm (- ambulances : ArrayList<Ambulance>) Tj T* ET
+BT 1 0 0 1 64 341.2 Tm (- waiting : PriorityQueue<Emergency>) Tj T* ET
+BT 1 0 0 1 64 331 Tm (- arrivalCounter : int) Tj T* ET
+.184314 .294118 .486275 RG
+n 60 327 m 420 327 l S
+0 0 0 rg
+BT /F1 6.8 Tf 8.16 TL ET
+BT 1 0 0 1 64 317 Tm (+ main\(args : String[]\) : void) Tj T* ET
+0 0 0 rg
+BT /F1 6.8 Tf 8.16 TL ET
+BT 1 0 0 1 64 306.8 Tm (+ dispatch\(loc : String, sev : int\) : void) Tj T* ET
+0 0 0 rg
+BT /F1 6.8 Tf 8.16 TL ET
+BT 1 0 0 1 64 296.6 Tm (+ completeTrip\(id : String\) : void) Tj T* ET
+0 0 0 rg
+BT /F1 6.8 Tf 8.16 TL ET
+BT 1 0 0 1 64 286.4 Tm (+ showStatus\(\) : void) Tj T* ET
+.917647 .941176 .980392 rg
+.184314 .294118 .486275 RG
+.9 w
+n 0 120 196 109.6 re B*
+.811765 .866667 .94902 rg
+n 0 212.6 196 17 re B*
+0 0 0 rg
+BT /F2 8.6 Tf 10.32 TL ET
+BT 1 0 0 1 85.3365 218.262 Tm (Graph) Tj T* ET
+0 0 0 rg
+BT /F1 6.8 Tf 8.16 TL ET
+BT 1 0 0 1 4 201.6 Tm (- adj : HashMap<String, ArrayList<Edge>>) Tj T* ET
+BT 1 0 0 1 4 191.4 Tm (- dist : HashMap<String, Integer>) Tj T* ET
+BT 1 0 0 1 4 181.2 Tm (- parent : HashMap<String, String>) Tj T* ET
+.184314 .294118 .486275 RG
+n 0 177.2 m 196 177.2 l S
+0 0 0 rg
+BT /F1 6.8 Tf 8.16 TL ET
+BT 1 0 0 1 4 167.2 Tm (+ addRoad\(a, b : String, km : int\) : void) Tj T* ET
+0 0 0 rg
+BT /F1 6.8 Tf 8.16 TL ET
+BT 1 0 0 1 4 157 Tm (+ hasLocation\(name : String\) : boolean) Tj T* ET
+0 0 0 rg
+BT /F1 6.8 Tf 8.16 TL ET
+BT 1 0 0 1 4 146.8 Tm (+ dijkstra\(src : String\) : void) Tj T* ET
+0 0 0 rg
+BT /F1 6.8 Tf 8.16 TL ET
+BT 1 0 0 1 4 136.6 Tm (+ getDistance\(dest : String\) : int) Tj T* ET
+0 0 0 rg
+BT /F1 6.8 Tf 8.16 TL ET
+BT 1 0 0 1 4 126.4 Tm (+ getPath\(dest : String\) : String) Tj T* ET
+.917647 .941176 .980392 rg
+.184314 .294118 .486275 RG
+.9 w
+n 212 140 118 58.6 re B*
+.811765 .866667 .94902 rg
+n 212 181.6 118 17 re B*
+0 0 0 rg
+BT /F2 8.6 Tf 10.32 TL ET
+BT 1 0 0 1 247.823 187.262 Tm (Ambulance) Tj T* ET
+0 0 0 rg
+BT /F1 6.8 Tf 8.16 TL ET
+BT 1 0 0 1 216 170.6 Tm (+ id, location : String) Tj T* ET
+BT 1 0 0 1 216 160.4 Tm (+ available : boolean) Tj T* ET
+.184314 .294118 .486275 RG
+n 212 156.4 m 330 156.4 l S
+0 0 0 rg
+BT /F1 6.8 Tf 8.16 TL ET
+BT 1 0 0 1 216 146.4 Tm (+ Ambulance\(id, location\)) Tj T* ET
+.917647 .941176 .980392 rg
+.184314 .294118 .486275 RG
+.9 w
+n 346 140 134 68.8 re B*
+.811765 .866667 .94902 rg
+n 346 191.8 134 17 re B*
+0 0 0 rg
+BT /F2 8.6 Tf 10.32 TL ET
+BT 1 0 0 1 389.8187 197.462 Tm (Emergency) Tj T* ET
+0 0 0 rg
+BT /F1 6.8 Tf 8.16 TL ET
+BT 1 0 0 1 350 180.8 Tm (+ location : String) Tj T* ET
+BT 1 0 0 1 350 170.6 Tm (+ severity, seq : int) Tj T* ET
+.184314 .294118 .486275 RG
+n 346 166.6 m 480 166.6 l S
+0 0 0 rg
+BT /F1 6.8 Tf 8.16 TL ET
+BT 1 0 0 1 350 156.6 Tm (+ compareTo: severity,) Tj T* ET
+0 0 0 rg
+BT /F1 6.8 Tf 8.16 TL ET
+BT 1 0 0 1 350 146.4 Tm (   then seq) Tj T* ET
+.184314 .294118 .486275 RG
+.9 w
+n 100 280 m 100 230 l
+S
+.184314 .294118 .486275 rg
+n 100 230 m 96 238 l 104 238 l h
+f*
+.180392 .360784 .541176 rg
+BT /F2 7 Tf 8.4 TL ET
+BT 1 0 0 1 104 252 Tm (has-a) Tj T* ET
+.184314 .294118 .486275 RG
+.9 w
+n 271 280 m 271 199 l
+S
+.184314 .294118 .486275 rg
+n 271 199 m 267 207 l 275 207 l h
+f*
+.180392 .360784 .541176 rg
+BT /F2 7 Tf 8.4 TL ET
+BT 1 0 0 1 275 262 Tm (uses 1..*) Tj T* ET
+.184314 .294118 .486275 RG
+.9 w
+n 413 280 m 413 209 l
+S
+.184314 .294118 .486275 rg
+n 413 209 m 409 217 l 417 217 l h
+f*
+.180392 .360784 .541176 rg
+BT /F2 7 Tf 8.4 TL ET
+BT 1 0 0 1 417 262 Tm (queues 0..*) Tj T* ET
+Q
+q
+1 0 0 1 66 191.6898 cm
+q
+.180392 .360784 .541176 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Main Components) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 162.0898 cm
+q
+BT 1 0 0 1 3 16.2 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 14 16.2 Tm 12.8 TL /F2 9.4 Tf 0 0 0 rg (Graph:) Tj /F1 9.4 Tf ( HashMap from a location name to a list of Edge objects; addRoad\(\) adds both directions; dijkstra\(\)) Tj T* (runs the algorithm with a PriorityQueue and fills the dist and parent maps.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 146.0898 cm
+q
+BT 1 0 0 1 3 3.4 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 14 3.4 Tm 12.8 TL /F2 9.4 Tf 0 0 0 rg (Node:) Tj /F1 9.4 Tf ( a location name with its distance; the PriorityQueue gives the smallest distance first.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 130.0898 cm
+q
+BT 1 0 0 1 3 3.4 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 14 3.4 Tm 12.8 TL /F2 9.4 Tf 0 0 0 rg (Ambulance:) Tj /F1 9.4 Tf ( stores ID, current location and Available/Busy status.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 101.2898 cm
+q
+BT 1 0 0 1 3 16.2 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 14 16.2 Tm 12.8 TL /F2 9.4 Tf 0 0 0 rg (Emergency:) Tj /F1 9.4 Tf ( stores location, severity and arrival number; compareTo\(\) orders by severity, then arrival) Tj T* (number.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 85.28976 cm
+q
+BT 1 0 0 1 3 3.4 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 14 3.4 Tm 12.8 TL /F2 9.4 Tf 0 0 0 rg (AmbulanceDispatchSimulator:) Tj /F1 9.4 Tf ( contains main\(\), the menu, dispatch\(\), completeTrip\(\) and showStatus\(\).) Tj T* ET
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.105882 0.164706 0.360784 RG
+1.6 w
+n
+42 12.8898 511 809 re
+S
+0.560784 0.639216 0.8 RG
+0.5 w
+n
+46 16.8898 503 801 re
+S
+0.105882 0.164706 0.360784 rg
+n
+38.5 818.3898 7 7 re
+f*
+1 1 1 rg
+n
+40.5 820.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+549.5 818.3898 7 7 re
+f*
+1 1 1 rg
+n
+551.5 820.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+38.5 9.3898 7 7 re
+f*
+1 1 1 rg
+n
+40.5 11.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+549.5 9.3898 7 7 re
+f*
+1 1 1 rg
+n
+551.5 11.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+Q
+
+endstream
+endobj
+26 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+27 0 obj
+<<
+/Contents 28 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 7 0 R
+/F1-0 29 0 R
+/F2 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+28 0 obj
+<<
+/Length 7720
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7.8 Tf 9.36 TL ET
+.180392 .360784 .541176 rg
+BT 1 0 0 1 60 801.8898 Tm (Ambulance Dispatch Simulator | DSA Project Interim Report) Tj T* ET
+.615686 .717647 .835294 RG
+.6 w
+n 60 795.8898 m 535.2756 795.8898 l S
+n 60 40 m 535.2756 40 l S
+.372549 .419608 .478431 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 60 28 Tm (Java | Data Structures and Algorithms) Tj T* ET
+BT 1 0 0 1 510.5574 28 Tm (Page 7) Tj T* ET
+Q
+q
+1 0 0 1 66 753.8898 cm
+q
+.121569 .219608 .392157 rg
+BT 1 0 0 1 0 3.5 Tm /F2 16.5 Tf 20 TL (Implementation and Algorithm Details) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 731.8898 cm
+q
+.180392 .360784 .541176 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (1. Graph Class) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 676.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 41.8 Tm /F1 9.4 Tf 12.8 TL 1.366284 Tw (Stores the map as a weighted, undirected graph using a HashMap from a location name to a list of edges) Tj T* 0 Tw .548314 Tw (\(neighbour, distance\). addRoad\(\) adds an edge in both directions. hasLocation\(\) checks that a location exists.) Tj T* 0 Tw .924314 Tw (dijkstra\(source\) finds the shortest distance to every location and remembers the parent \(previous location\) of) Tj T* 0 Tw (each one. getDistance\(\) reads a distance and getPath\(\) builds the path text by going back through the parents.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 654.6898 cm
+q
+.180392 .360784 .541176 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (2. Dijkstra's Algorithm with PriorityQueue) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 586.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 54.6 Tm /F1 9.4 Tf 12.8 TL 1.586936 Tw (The distance of the source is set to 0 and all other distances to infinity. A PriorityQueue always gives the) Tj T* 0 Tw .970337 Tw (location with the smallest known distance. Each neighbour is relaxed: if going through the current location is) Tj T* 0 Tw .562047 Tw (shorter, its distance and parent are updated and it is added to the queue. A queue entry that is already out of) Tj T* 0 Tw 1.560211 Tw (date is skipped. The algorithm is run from the location of every free ambulance, and the smallest result is) Tj T* 0 Tw (chosen; a strict less-than comparison keeps the first ambulance when two distances are equal.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 564.6898 cm
+q
+.180392 .360784 .541176 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (3. Ambulance Class and Status) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 535.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.2 Tm /F1 9.4 Tf 12.8 TL .225933 Tw (Each ambulance keeps its ID \(AMB1, AMB2\), its current location and its status \(Available or Busy\). After a trip,) Tj T* 0 Tw (its location becomes the emergency location.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 513.0898 cm
+q
+.180392 .360784 .541176 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (4. Emergency Class and Waiting Queue) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 470.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29 Tm /F1 9.4 Tf 12.8 TL 1.120894 Tw (An Emergency holds the location, the severity \(1 = critical to 3 = minor\) and an arrival number. The waiting) Tj T* 0 Tw .202813 Tw (PriorityQueue compares severity first \(lowest number first\) and the arrival number second, so requests with the) Tj T* 0 Tw (same severity are served first come, first served.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 448.6898 cm
+q
+.180392 .360784 .541176 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (5. Main Methods) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 419.0898 cm
+q
+BT 1 0 0 1 3 16.2 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 14 16.2 Tm 12.8 TL /F2 9.4 Tf 0 0 0 rg (dispatch\(location, severity\)) Tj /F1 9.4 Tf ( \226 validates the location, finds the nearest free ambulance or queues the) Tj T* (request.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 403.0898 cm
+q
+BT 1 0 0 1 3 3.4 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 14 3.4 Tm 12.8 TL /F2 9.4 Tf 0 0 0 rg (completeTrip\(id\)) Tj /F1 9.4 Tf ( \226 frees the ambulance and serves the most severe queued request.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 387.0898 cm
+q
+BT 1 0 0 1 3 3.4 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 14 3.4 Tm 12.8 TL /F2 9.4 Tf 0 0 0 rg (showStatus\(\)) Tj /F1 9.4 Tf ( \226 prints the status and location of every ambulance and the number of waiting requests.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 365.0898 cm
+q
+.180392 .360784 .541176 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (6. Validation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 309.8898 cm
+q
+BT 1 0 0 1 0 41.8 Tm .099413 Tw 12.8 TL /F1 9.4 Tf 0 0 0 rg (An unknown location prints "Location <) Tj (name) Tj (> not found." and nothing else changes. Severity and menu choice) Tj T* 0 Tw -0.038906 Tw (must be whole numbers in the allowed range; otherwise the program asks again. An unknown ambulance ID, or) Tj T* 0 Tw 2.542223 Tw (an ambulance that is not on a trip, is reported by completeTrip\(\) without changing any state. When all) Tj T* 0 Tw (ambulances are busy the request is queued instead of being lost.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 287.8898 cm
+q
+.180392 .360784 .541176 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Requirement check) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 135.0898 cm
+q
+.811765 .866667 .94902 rg
+n 0 148.8 475.2756 -19.2 re f*
+.956863 .964706 .984314 rg
+n 0 110.4 475.2756 -30.4 re f*
+.956863 .964706 .984314 rg
+n 0 49.6 475.2756 -30.4 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 133.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F2 8.8 Tf 11.2 TL (Bare minimum requirement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256 133.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F2 8.8 Tf 11.2 TL (Where it is met) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 114.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Single Java file run from the console) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256 114.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (AmbulanceDispatchSimulator.java \(Appendix A\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 84 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.8 Tm /F1 8.6 Tf 11.2 TL (Weighted graph + Dijkstra with PriorityQueue from every free) Tj T* (ambulance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256 84 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.8 Tm /F1 8.6 Tf 11.2 TL (Graph.dijkstra\(\),) Tj T* (AmbulanceDispatchSimulator.sendNearest\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 53.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.8 Tm /F1 8.6 Tf 11.2 TL (Waiting requests in a priority queue \(severity, then first come) Tj T* (first served\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256 59.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Emergency.compareTo\(\), waiting PriorityQueue) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 23.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.8 Tm /F1 8.6 Tf 11.2 TL (Status \(Available/Busy\) and current location for every) Tj T* (ambulance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256 28.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Ambulance class, showStatus\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Dispatch, complete-trip and show-status as methods) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (dispatch\(\), completeTrip\(\), showStatus\(\)) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.556863 .607843 .690196 RG
+.5 w
+n 0 148.8 m 475.2756 148.8 l S
+n 0 0 m 475.2756 0 l S
+n 0 0 m 0 148.8 l S
+n 475.2756 0 m 475.2756 148.8 l S
+n 0 129.6 m 475.2756 129.6 l S
+n 0 110.4 m 475.2756 110.4 l S
+n 0 80 m 475.2756 80 l S
+n 0 49.6 m 475.2756 49.6 l S
+n 0 19.2 m 475.2756 19.2 l S
+n 250 0 m 250 148.8 l S
+Q
+Q
+Q
+q
+1 0 0 1 66 135.0898 cm
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.105882 0.164706 0.360784 RG
+1.6 w
+n
+42 12.8898 511 809 re
+S
+0.560784 0.639216 0.8 RG
+0.5 w
+n
+46 16.8898 503 801 re
+S
+0.105882 0.164706 0.360784 rg
+n
+38.5 818.3898 7 7 re
+f*
+1 1 1 rg
+n
+40.5 820.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+549.5 818.3898 7 7 re
+f*
+1 1 1 rg
+n
+551.5 820.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+38.5 9.3898 7 7 re
+f*
+1 1 1 rg
+n
+40.5 11.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+549.5 9.3898 7 7 re
+f*
+1 1 1 rg
+n
+551.5 11.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+Q
+
+endstream
+endobj
+29 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+30 0 obj
+<<
+/Contents 31 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 7 0 R
+/F1-0 32 0 R
+/F2 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+31 0 obj
+<<
+/Length 4733
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7.8 Tf 9.36 TL ET
+.180392 .360784 .541176 rg
+BT 1 0 0 1 60 801.8898 Tm (Ambulance Dispatch Simulator | DSA Project Interim Report) Tj T* ET
+.615686 .717647 .835294 RG
+.6 w
+n 60 795.8898 m 535.2756 795.8898 l S
+n 60 40 m 535.2756 40 l S
+.372549 .419608 .478431 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 60 28 Tm (Java | Data Structures and Algorithms) Tj T* ET
+BT 1 0 0 1 510.5574 28 Tm (Page 8) Tj T* ET
+Q
+q
+1 0 0 1 66 753.8898 cm
+q
+.121569 .219608 .392157 rg
+BT 1 0 0 1 0 3.5 Tm /F2 16.5 Tf 20 TL (Time Complexity) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 593.2898 cm
+q
+.811765 .866667 .94902 rg
+n 0 153.6 475.2756 -19.2 re f*
+.956863 .964706 .984314 rg
+n 0 115.2 475.2756 -19.2 re f*
+.956863 .964706 .984314 rg
+n 0 76.8 475.2756 -19.2 re f*
+.956863 .964706 .984314 rg
+n 0 38.4 475.2756 -19.2 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 138.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F2 8.8 Tf 11.2 TL (Operation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176 138.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F2 8.8 Tf 11.2 TL (Time Complexity) Tj T* ET
+Q
+Q
+q
+1 0 0 1 286 138.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F2 8.8 Tf 11.2 TL (Explanation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 119.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Add one road to the graph) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176 119.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (O\(1\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 286 119.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Append an edge to two adjacency lists) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 100 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Dijkstra from one source) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176 100 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (O\(\(V + E\) log V\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 286 100 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (PriorityQueue insert/remove for each relaxation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 80.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Dijkstra from every free ambulance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176 80.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (O\(k \(V + E\) log V\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 286 80.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (One Dijkstra run per free ambulance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 61.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Rebuild the path) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176 61.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (O\(V\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 286 61.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Walk the parent links back to the source) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 42.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Add a request to the waiting queue) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176 42.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (O\(log n\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 286 42.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Heap insertion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 23.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Remove the most severe request) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176 23.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (O\(log n\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 286 23.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Heap removal of the smallest element) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Ambulance status or location lookup) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (O\(1\) per ambulance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 286 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (k is very small \(2 ambulances\)) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.556863 .607843 .690196 RG
+.5 w
+n 0 153.6 m 475.2756 153.6 l S
+n 0 0 m 475.2756 0 l S
+n 0 0 m 0 153.6 l S
+n 475.2756 0 m 475.2756 153.6 l S
+n 0 134.4 m 475.2756 134.4 l S
+n 0 115.2 m 475.2756 115.2 l S
+n 0 96 m 475.2756 96 l S
+n 0 76.8 m 475.2756 76.8 l S
+n 0 57.6 m 475.2756 57.6 l S
+n 0 38.4 m 475.2756 38.4 l S
+n 0 19.2 m 475.2756 19.2 l S
+n 170 0 m 170 153.6 l S
+n 280 0 m 280 153.6 l S
+Q
+Q
+Q
+q
+1 0 0 1 66 589.2898 cm
+Q
+q
+1 0 0 1 66 578.2898 cm
+q
+.372549 .419608 .478431 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (Here V = locations, E = roads, k = free ambulances and n = waiting requests.) Tj T* ET
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.105882 0.164706 0.360784 RG
+1.6 w
+n
+42 12.8898 511 809 re
+S
+0.560784 0.639216 0.8 RG
+0.5 w
+n
+46 16.8898 503 801 re
+S
+0.105882 0.164706 0.360784 rg
+n
+38.5 818.3898 7 7 re
+f*
+1 1 1 rg
+n
+40.5 820.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+549.5 818.3898 7 7 re
+f*
+1 1 1 rg
+n
+551.5 820.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+38.5 9.3898 7 7 re
+f*
+1 1 1 rg
+n
+40.5 11.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+549.5 9.3898 7 7 re
+f*
+1 1 1 rg
+n
+551.5 11.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+Q
+
+endstream
+endobj
+32 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+33 0 obj
+<<
+/Contents 34 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 7 0 R
+/F1-0 35 0 R
+/F2 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+34 0 obj
+<<
+/Length 6355
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7.8 Tf 9.36 TL ET
+.180392 .360784 .541176 rg
+BT 1 0 0 1 60 801.8898 Tm (Ambulance Dispatch Simulator | DSA Project Interim Report) Tj T* ET
+.615686 .717647 .835294 RG
+.6 w
+n 60 795.8898 m 535.2756 795.8898 l S
+n 60 40 m 535.2756 40 l S
+.372549 .419608 .478431 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 60 28 Tm (Java | Data Structures and Algorithms) Tj T* ET
+BT 1 0 0 1 510.5574 28 Tm (Page 9) Tj T* ET
+Q
+q
+1 0 0 1 66 753.8898 cm
+q
+.121569 .219608 .392157 rg
+BT 1 0 0 1 0 3.5 Tm /F2 16.5 Tf 20 TL (Sample Input / Output) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 708.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29 Tm /F1 9.4 Tf 12.8 TL .098159 Tw (Map: Hospital-Sector1 4 km, Sector1-Sector2 3 km, Sector2-Sector3 5 km, Hospital-Sector3 10 km. AMB1 is at) Tj T* 0 Tw .356987 Tw (Hospital and AMB2 is at Sector3, both available. The "Program output" boxes below were captured by running) Tj T* 0 Tw (the program in Appendix A on each test case.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 686.4898 cm
+q
+.180392 .360784 .541176 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Test Case 1: Normal Input) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 644.0898 cm
+q
+.811765 .866667 .94902 rg
+n 0 38.4 475.2756 -19.2 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 23.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F2 8.8 Tf 11.2 TL (Input) Tj T* ET
+Q
+Q
+q
+1 0 0 1 156 23.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F2 8.8 Tf 11.2 TL (Value) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Emergency) Tj T* ET
+Q
+Q
+q
+1 0 0 1 156 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Sector2, Severity 2) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.556863 .607843 .690196 RG
+.5 w
+n 0 38.4 m 475.2756 38.4 l S
+n 0 0 m 475.2756 0 l S
+n 0 0 m 0 38.4 l S
+n 475.2756 0 m 475.2756 38.4 l S
+n 0 19.2 m 475.2756 19.2 l S
+n 150 0 m 150 38.4 l S
+Q
+Q
+Q
+q
+1 0 0 1 66 640.0898 cm
+Q
+q
+1 0 0 1 66 627.2898 cm
+q
+BT 1 0 0 1 0 3.4 Tm 12.8 TL /F2 9.4 Tf 0 0 0 rg (Expected:) Tj /F1 9.4 Tf ( Nearest ambulance AMB2; Path: Sector3 -> Sector2 | Distance: 5 km; AMB2 status: Busy.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 608.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.4 Tm /F2 9.4 Tf 12.8 TL (Program output:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 567.6898 cm
+q
+.952941 .956863 .964706 rg
+n 0 38.8 475.2756 -38.8 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 5 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 21 Tm /F3 7.8 Tf 9.6 TL (Nearest ambulance: AMB2) Tj T* (Path: Sector3 -> Sector2 | Distance: 5 km) Tj T* (AMB2 status: Busy) Tj T* ET
+Q
+q
+1 J
+1 j
+.556863 .607843 .690196 RG
+.5 w
+n 0 38.8 m 475.2756 38.8 l S
+n 0 0 m 475.2756 0 l S
+n 0 0 m 0 38.8 l S
+n 475.2756 0 m 475.2756 38.8 l S
+Q
+Q
+Q
+q
+1 0 0 1 66 561.6898 cm
+Q
+q
+1 0 0 1 66 539.6898 cm
+q
+.180392 .360784 .541176 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Test Case 2: Boundary / Minimum Input) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 497.2898 cm
+q
+.811765 .866667 .94902 rg
+n 0 38.4 475.2756 -19.2 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 23.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F2 8.8 Tf 11.2 TL (Input) Tj T* ET
+Q
+Q
+q
+1 0 0 1 156 23.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F2 8.8 Tf 11.2 TL (Value) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Emergency) Tj T* ET
+Q
+Q
+q
+1 0 0 1 156 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Hospital, Severity 1) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.556863 .607843 .690196 RG
+.5 w
+n 0 38.4 m 475.2756 38.4 l S
+n 0 0 m 475.2756 0 l S
+n 0 0 m 0 38.4 l S
+n 475.2756 0 m 475.2756 38.4 l S
+n 0 19.2 m 475.2756 19.2 l S
+n 150 0 m 150 38.4 l S
+Q
+Q
+Q
+q
+1 0 0 1 66 493.2898 cm
+Q
+q
+1 0 0 1 66 480.4898 cm
+q
+BT 1 0 0 1 0 3.4 Tm 12.8 TL /F2 9.4 Tf 0 0 0 rg (Expected:) Tj /F1 9.4 Tf ( Nearest ambulance AMB1; Distance: 0 km.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 461.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.4 Tm /F2 9.4 Tf 12.8 TL (Program output:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 420.8898 cm
+q
+.952941 .956863 .964706 rg
+n 0 38.8 475.2756 -38.8 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 5 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 21 Tm /F3 7.8 Tf 9.6 TL (Nearest ambulance: AMB1) Tj T* (Path: Hospital | Distance: 0 km) Tj T* (AMB1 status: Busy) Tj T* ET
+Q
+q
+1 J
+1 j
+.556863 .607843 .690196 RG
+.5 w
+n 0 38.8 m 475.2756 38.8 l S
+n 0 0 m 475.2756 0 l S
+n 0 0 m 0 38.8 l S
+n 475.2756 0 m 475.2756 38.8 l S
+Q
+Q
+Q
+q
+1 0 0 1 66 414.8898 cm
+Q
+q
+1 0 0 1 66 392.8898 cm
+q
+.180392 .360784 .541176 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Test Case 3: Invalid Input) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 350.4898 cm
+q
+.811765 .866667 .94902 rg
+n 0 38.4 475.2756 -19.2 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 23.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F2 8.8 Tf 11.2 TL (Input) Tj T* ET
+Q
+Q
+q
+1 0 0 1 156 23.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F2 8.8 Tf 11.2 TL (Value) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Emergency) Tj T* ET
+Q
+Q
+q
+1 0 0 1 156 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Sector9, Severity 1) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.556863 .607843 .690196 RG
+.5 w
+n 0 38.4 m 475.2756 38.4 l S
+n 0 0 m 475.2756 0 l S
+n 0 0 m 0 38.4 l S
+n 475.2756 0 m 475.2756 38.4 l S
+n 0 19.2 m 475.2756 19.2 l S
+n 150 0 m 150 38.4 l S
+Q
+Q
+Q
+q
+1 0 0 1 66 346.4898 cm
+Q
+q
+1 0 0 1 66 333.6898 cm
+q
+BT 1 0 0 1 0 3.4 Tm 12.8 TL /F2 9.4 Tf 0 0 0 rg (Expected:) Tj /F1 9.4 Tf ( Location Sector9 not found.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 314.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.4 Tm /F2 9.4 Tf 12.8 TL (Program output:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 293.2898 cm
+q
+.952941 .956863 .964706 rg
+n 0 19.6 475.2756 -19.6 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 5 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F3 7.8 Tf 9.6 TL (Location Sector9 not found.) Tj T* ET
+Q
+q
+1 J
+1 j
+.556863 .607843 .690196 RG
+.5 w
+n 0 19.6 m 475.2756 19.6 l S
+n 0 0 m 475.2756 0 l S
+n 0 0 m 0 19.6 l S
+n 475.2756 0 m 475.2756 19.6 l S
+Q
+Q
+Q
+q
+1 0 0 1 66 287.2898 cm
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.105882 0.164706 0.360784 RG
+1.6 w
+n
+42 12.8898 511 809 re
+S
+0.560784 0.639216 0.8 RG
+0.5 w
+n
+46 16.8898 503 801 re
+S
+0.105882 0.164706 0.360784 rg
+n
+38.5 818.3898 7 7 re
+f*
+1 1 1 rg
+n
+40.5 820.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+549.5 818.3898 7 7 re
+f*
+1 1 1 rg
+n
+551.5 820.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+38.5 9.3898 7 7 re
+f*
+1 1 1 rg
+n
+40.5 11.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+549.5 9.3898 7 7 re
+f*
+1 1 1 rg
+n
+551.5 11.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+Q
+
+endstream
+endobj
+35 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+36 0 obj
+<<
+/Contents 37 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 7 0 R
+/F1-0 38 0 R
+/F2 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+37 0 obj
+<<
+/Length 5130
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7.8 Tf 9.36 TL ET
+.180392 .360784 .541176 rg
+BT 1 0 0 1 60 801.8898 Tm (Ambulance Dispatch Simulator | DSA Project Interim Report) Tj T* ET
+.615686 .717647 .835294 RG
+.6 w
+n 60 795.8898 m 535.2756 795.8898 l S
+n 60 40 m 535.2756 40 l S
+.372549 .419608 .478431 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 60 28 Tm (Java | Data Structures and Algorithms) Tj T* ET
+BT 1 0 0 1 506.2206 28 Tm (Page 10) Tj T* ET
+Q
+q
+1 0 0 1 66 759.8898 cm
+q
+.180392 .360784 .541176 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Test Case 4: Different Valid Scenario) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 640.6898 cm
+q
+.811765 .866667 .94902 rg
+n 0 115.2 475.2756 -19.2 re f*
+.956863 .964706 .984314 rg
+n 0 76.8 475.2756 -19.2 re f*
+.956863 .964706 .984314 rg
+n 0 38.4 475.2756 -19.2 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 100 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F2 8.8 Tf 11.2 TL (Input) Tj T* ET
+Q
+Q
+q
+1 0 0 1 156 100 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F2 8.8 Tf 11.2 TL (Value) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 80.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Starting state) Tj T* ET
+Q
+Q
+q
+1 0 0 1 156 80.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (AMB2 is busy \(from Test Case 1\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 61.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (\(a\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 156 61.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Emergency: Sector3, Severity 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 42.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (\(b\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 156 42.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Emergency: Sector1, Severity 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 23.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (\(c\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 156 23.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Emergency: Sector2, Severity 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (\(d\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 156 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (AMB1 completes its trip) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.556863 .607843 .690196 RG
+.5 w
+n 0 115.2 m 475.2756 115.2 l S
+n 0 0 m 475.2756 0 l S
+n 0 0 m 0 115.2 l S
+n 475.2756 0 m 475.2756 115.2 l S
+n 0 96 m 475.2756 96 l S
+n 0 76.8 m 475.2756 76.8 l S
+n 0 57.6 m 475.2756 57.6 l S
+n 0 38.4 m 475.2756 38.4 l S
+n 0 19.2 m 475.2756 19.2 l S
+n 150 0 m 150 115.2 l S
+Q
+Q
+Q
+q
+1 0 0 1 66 636.6898 cm
+Q
+q
+1 0 0 1 66 598.2898 cm
+q
+BT 1 0 0 1 0 29 Tm 1.913274 Tw 12.8 TL /F2 9.4 Tf 0 0 0 rg (Expected:) Tj /F1 9.4 Tf ( \(a\) AMB1 dispatched, Path: Hospital -> Sector3 | 10 km. \(b\) and \(c\) No ambulance available,) Tj T* 0 Tw .65227 Tw (request queued. \(d\) AMB1 is free and serves the most severe request: Sector2 \(Severity 1\), Path: Sector3 ->) Tj T* 0 Tw (Sector2 | 5 km.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 579.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.4 Tm /F2 9.4 Tf 12.8 TL (Program output:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 404.2898 cm
+q
+.952941 .956863 .964706 rg
+n 0 173.2 475.2756 -173.2 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 5 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 155.4 Tm /F3 7.8 Tf 9.6 TL (# Test Case 1 \(AMB2 becomes busy\)) Tj T* (Nearest ambulance: AMB2) Tj T* (Path: Sector3 -> Sector2 | Distance: 5 km) Tj T* (AMB2 status: Busy) Tj T* (# \(a\)) Tj T* (Nearest ambulance: AMB1) Tj T* (Path: Hospital -> Sector3 | Distance: 10 km) Tj T* (AMB1 status: Busy) Tj T* (# \(b\)) Tj T* (No ambulance available. Request queued.) Tj T* (# \(c\)) Tj T* (No ambulance available. Request queued.) Tj T* (# \(d\)) Tj T* (AMB1 is free. Serving most severe request: Sector2 \(Severity 1\).) Tj T* (Nearest ambulance: AMB1) Tj T* (Path: Sector3 -> Sector2 | Distance: 5 km) Tj T* (AMB1 status: Busy) Tj T* ET
+Q
+q
+1 J
+1 j
+.556863 .607843 .690196 RG
+.5 w
+n 0 173.2 m 475.2756 173.2 l S
+n 0 0 m 475.2756 0 l S
+n 0 0 m 0 173.2 l S
+n 475.2756 0 m 475.2756 173.2 l S
+Q
+Q
+Q
+q
+1 0 0 1 66 398.2898 cm
+Q
+q
+1 0 0 1 66 376.2898 cm
+q
+.180392 .360784 .541176 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Why these results) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 321.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 41.8 Tm /F1 9.4 Tf 12.8 TL .727219 Tw (In Test Case 1, AMB1 needs Hospital-Sector1-Sector2 = 4 + 3 = 7 km while AMB2 needs only 5 km. In Test) Tj T* 0 Tw .130431 Tw (Case 4\(a\), AMB1 reaches Sector3 directly in 10 km, which is shorter than the 12 km route through Sector1 and) Tj T* 0 Tw .513155 Tw (Sector2. In 4\(d\), the Severity 1 request at Sector2 is served before the Severity 2 request at Sector1 because) Tj T* 0 Tw (lower numbers have higher priority.) Tj T* ET
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.105882 0.164706 0.360784 RG
+1.6 w
+n
+42 12.8898 511 809 re
+S
+0.560784 0.639216 0.8 RG
+0.5 w
+n
+46 16.8898 503 801 re
+S
+0.105882 0.164706 0.360784 rg
+n
+38.5 818.3898 7 7 re
+f*
+1 1 1 rg
+n
+40.5 820.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+549.5 818.3898 7 7 re
+f*
+1 1 1 rg
+n
+551.5 820.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+38.5 9.3898 7 7 re
+f*
+1 1 1 rg
+n
+40.5 11.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+549.5 9.3898 7 7 re
+f*
+1 1 1 rg
+n
+551.5 11.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+Q
+
+endstream
+endobj
+38 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+39 0 obj
+<<
+/Contents 40 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 7 0 R
+/F1-0 41 0 R
+/F2 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+40 0 obj
+<<
+/Length 10159
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7.8 Tf 9.36 TL ET
+.180392 .360784 .541176 rg
+BT 1 0 0 1 60 801.8898 Tm (Ambulance Dispatch Simulator | DSA Project Interim Report) Tj T* ET
+.615686 .717647 .835294 RG
+.6 w
+n 60 795.8898 m 535.2756 795.8898 l S
+n 60 40 m 535.2756 40 l S
+.372549 .419608 .478431 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 60 28 Tm (Java | Data Structures and Algorithms) Tj T* ET
+BT 1 0 0 1 506.2206 28 Tm (Page 11) Tj T* ET
+Q
+q
+1 0 0 1 66 753.8898 cm
+q
+.121569 .219608 .392157 rg
+BT 1 0 0 1 0 3.5 Tm /F2 16.5 Tf 20 TL (Gantt Chart and Time Management) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 721.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.2 Tm /F1 9.4 Tf 12.8 TL -0.069318 Tw (The following chart shows the seven-day project schedule. A shaded cell means the activity is worked on during) Tj T* 0 Tw (that day.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 600.0898 cm
+q
+.811765 .866667 .94902 rg
+n 0 115.2 475.2756 -19.2 re f*
+.956863 .964706 .984314 rg
+n 0 76.8 475.2756 -19.2 re f*
+.956863 .964706 .984314 rg
+n 0 38.4 475.2756 -19.2 re f*
+.623529 .752941 .909804 rg
+n 190 96 40.75366 -19.2 re f*
+.623529 .752941 .909804 rg
+n 230.7537 76.8 40.75366 -19.2 re f*
+.623529 .752941 .909804 rg
+n 271.5073 76.8 40.75366 -19.2 re f*
+.623529 .752941 .909804 rg
+n 271.5073 57.6 40.75366 -19.2 re f*
+.623529 .752941 .909804 rg
+n 312.261 57.6 40.75366 -19.2 re f*
+.623529 .752941 .909804 rg
+n 353.0146 57.6 40.75366 -19.2 re f*
+.623529 .752941 .909804 rg
+n 353.0146 38.4 40.75366 -19.2 re f*
+.623529 .752941 .909804 rg
+n 393.7683 38.4 40.75366 -19.2 re f*
+.623529 .752941 .909804 rg
+n 393.7683 19.2 40.75366 -19.2 re f*
+.623529 .752941 .909804 rg
+n 434.5219 19.2 40.75366 -19.2 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 100 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F2 8.8 Tf 11.2 TL (Activity) Tj T* ET
+Q
+Q
+q
+1 0 0 1 196 100 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F2 8.8 Tf 11.2 TL (Day 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 236.7537 100 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F2 8.8 Tf 11.2 TL (Day 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 277.5073 100 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F2 8.8 Tf 11.2 TL (Day 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 318.261 100 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F2 8.8 Tf 11.2 TL (Day 4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 359.0146 100 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F2 8.8 Tf 11.2 TL (Day 5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 399.7683 100 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F2 8.8 Tf 11.2 TL (Day 6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 440.5219 100 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F2 8.8 Tf 11.2 TL (Day 7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 80.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Planning and design) Tj T* ET
+Q
+Q
+q
+1 0 0 1 196 80.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL 12.87183 0 Td (\177) Tj T* -12.87183 0 Td ET
+Q
+Q
+q
+1 0 0 1 236.7537 86.4 cm
+Q
+q
+1 0 0 1 277.5073 86.4 cm
+Q
+q
+1 0 0 1 318.261 86.4 cm
+Q
+q
+1 0 0 1 359.0146 86.4 cm
+Q
+q
+1 0 0 1 399.7683 86.4 cm
+Q
+q
+1 0 0 1 440.5219 86.4 cm
+Q
+q
+1 0 0 1 6 61.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Graph and Dijkstra implementation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 196 67.2 cm
+Q
+q
+1 0 0 1 236.7537 61.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL 12.87183 0 Td (\177) Tj T* -12.87183 0 Td ET
+Q
+Q
+q
+1 0 0 1 277.5073 61.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL 12.87183 0 Td (\177) Tj T* -12.87183 0 Td ET
+Q
+Q
+q
+1 0 0 1 318.261 67.2 cm
+Q
+q
+1 0 0 1 359.0146 67.2 cm
+Q
+q
+1 0 0 1 399.7683 67.2 cm
+Q
+q
+1 0 0 1 440.5219 67.2 cm
+Q
+q
+1 0 0 1 6 42.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Priority queue and dispatch logic) Tj T* ET
+Q
+Q
+q
+1 0 0 1 196 48 cm
+Q
+q
+1 0 0 1 236.7537 48 cm
+Q
+q
+1 0 0 1 277.5073 42.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL 12.87183 0 Td (\177) Tj T* -12.87183 0 Td ET
+Q
+Q
+q
+1 0 0 1 318.261 42.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL 12.87183 0 Td (\177) Tj T* -12.87183 0 Td ET
+Q
+Q
+q
+1 0 0 1 359.0146 42.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL 12.87183 0 Td (\177) Tj T* -12.87183 0 Td ET
+Q
+Q
+q
+1 0 0 1 399.7683 48 cm
+Q
+q
+1 0 0 1 440.5219 48 cm
+Q
+q
+1 0 0 1 6 23.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Testing with the 4 test cases) Tj T* ET
+Q
+Q
+q
+1 0 0 1 196 28.8 cm
+Q
+q
+1 0 0 1 236.7537 28.8 cm
+Q
+q
+1 0 0 1 277.5073 28.8 cm
+Q
+q
+1 0 0 1 318.261 28.8 cm
+Q
+q
+1 0 0 1 359.0146 23.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL 12.87183 0 Td (\177) Tj T* -12.87183 0 Td ET
+Q
+Q
+q
+1 0 0 1 399.7683 23.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL 12.87183 0 Td (\177) Tj T* -12.87183 0 Td ET
+Q
+Q
+q
+1 0 0 1 440.5219 28.8 cm
+Q
+q
+1 0 0 1 6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Documentation and GitHub upload) Tj T* ET
+Q
+Q
+q
+1 0 0 1 196 9.6 cm
+Q
+q
+1 0 0 1 236.7537 9.6 cm
+Q
+q
+1 0 0 1 277.5073 9.6 cm
+Q
+q
+1 0 0 1 318.261 9.6 cm
+Q
+q
+1 0 0 1 359.0146 9.6 cm
+Q
+q
+1 0 0 1 399.7683 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL 12.87183 0 Td (\177) Tj T* -12.87183 0 Td ET
+Q
+Q
+q
+1 0 0 1 440.5219 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL 12.87183 0 Td (\177) Tj T* -12.87183 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.556863 .607843 .690196 RG
+.5 w
+n 0 115.2 m 475.2756 115.2 l S
+n 0 0 m 475.2756 0 l S
+n 0 0 m 0 115.2 l S
+n 475.2756 0 m 475.2756 115.2 l S
+n 0 96 m 475.2756 96 l S
+n 0 76.8 m 475.2756 76.8 l S
+n 0 57.6 m 475.2756 57.6 l S
+n 0 38.4 m 475.2756 38.4 l S
+n 0 19.2 m 475.2756 19.2 l S
+n 190 0 m 190 115.2 l S
+n 230.7537 0 m 230.7537 115.2 l S
+n 271.5073 0 m 271.5073 115.2 l S
+n 312.261 0 m 312.261 115.2 l S
+n 353.0146 0 m 353.0146 115.2 l S
+n 393.7683 0 m 393.7683 115.2 l S
+n 434.5219 0 m 434.5219 115.2 l S
+Q
+Q
+Q
+q
+1 0 0 1 66 578.0898 cm
+q
+.180392 .360784 .541176 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Time Management) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 561.2898 cm
+q
+BT 1 0 0 1 3 3.4 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 14 3.4 Tm /F1 9.4 Tf 12.8 TL (Day 1: Planning and design.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 545.2898 cm
+q
+BT 1 0 0 1 3 3.4 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 14 3.4 Tm /F1 9.4 Tf 12.8 TL (Days 2\2263: Graph and Dijkstra implementation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 529.2898 cm
+q
+BT 1 0 0 1 3 3.4 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 14 3.4 Tm /F1 9.4 Tf 12.8 TL (Days 3\2265: Priority queue and dispatch logic.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 513.2898 cm
+q
+BT 1 0 0 1 3 3.4 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 14 3.4 Tm /F1 9.4 Tf 12.8 TL (Days 5\2266: Testing with the four test cases.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 497.2898 cm
+q
+BT 1 0 0 1 3 3.4 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 14 3.4 Tm /F1 9.4 Tf 12.8 TL (Days 6\2267: Documentation and GitHub upload.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 465.2898 cm
+q
+.121569 .219608 .392157 rg
+BT 1 0 0 1 0 3.5 Tm /F2 16.5 Tf 20 TL (Future Scope) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 445.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.4 Tm /F1 9.4 Tf 12.8 TL (The following are possible later extensions. They are future work and are not part of the current version:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 426.6898 cm
+q
+BT 1 0 0 1 3 3.4 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 14 3.4 Tm /F1 9.4 Tf 12.8 TL (Use a larger map with more locations and hospitals.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 410.6898 cm
+q
+BT 1 0 0 1 3 3.4 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 14 3.4 Tm /F1 9.4 Tf 12.8 TL (Add traffic-based or time-based edge weights.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 394.6898 cm
+q
+BT 1 0 0 1 3 3.4 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 14 3.4 Tm /F1 9.4 Tf 12.8 TL (Add and remove ambulances.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 378.6898 cm
+q
+BT 1 0 0 1 3 3.4 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 14 3.4 Tm /F1 9.4 Tf 12.8 TL (Add GPS location and map display.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 362.6898 cm
+q
+BT 1 0 0 1 3 3.4 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 14 3.4 Tm /F1 9.4 Tf 12.8 TL (Add a graphical user interface \(GUI\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 330.6898 cm
+q
+.121569 .219608 .392157 rg
+BT 1 0 0 1 0 3.5 Tm /F2 16.5 Tf 20 TL (Conclusion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 259.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 54.6 Tm /F1 9.4 Tf 12.8 TL .535556 Tw (The Ambulance Dispatch Simulator shows how a weighted graph, Dijkstra's algorithm and priority queues can) Tj T* 0 Tw .206047 Tw (be combined to dispatch the nearest ambulance and to serve the most severe waiting request first. The project) Tj T* 0 Tw .918922 Tw (is simple and easy to demonstrate, passes the four given test cases, and can be extended with the features) Tj T* 0 Tw 1.618258 Tw (listed under Future Scope. It is only an educational prototype and must not be used for actual ambulance) Tj T* 0 Tw (dispatch.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 227.6898 cm
+q
+.121569 .219608 .392157 rg
+BT 1 0 0 1 0 3.5 Tm /F2 16.5 Tf 20 TL (References) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 195.0898 cm
+q
+BT 1 0 0 1 0 16.2 Tm -0.006611 Tw 12.8 TL /F1 9.4 Tf 0 0 0 rg ([1] T. H. Cormen, C. E. Leiserson, R. L. Rivest and C. Stein, ) Tj /F4 9.4 Tf (Introduction to Algorithms) Tj /F1 9.4 Tf (, 4th ed. Cambridge, MA,) Tj T* 0 Tw (USA: MIT Press, 2022.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 179.2898 cm
+q
+BT 1 0 0 1 0 3.4 Tm 12.8 TL /F1 9.4 Tf 0 0 0 rg ([2] R. Sedgewick and K. Wayne, ) Tj /F4 9.4 Tf (Algorithms) Tj /F1 9.4 Tf (, 4th ed. Boston, MA, USA: Addison-Wesley, 2011.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 163.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.4 Tm /F1 9.4 Tf 12.8 TL ([3] Oracle, "Java Documentation," Oracle. [Online]. Available: https://docs.oracle.com/en/java/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 147.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.4 Tm /F1 9.4 Tf 12.8 TL ([4] Oracle, "Java Collections Framework." [Online]. Available: https://docs.oracle.com/javase/) Tj T* ET
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.105882 0.164706 0.360784 RG
+1.6 w
+n
+42 12.8898 511 809 re
+S
+0.560784 0.639216 0.8 RG
+0.5 w
+n
+46 16.8898 503 801 re
+S
+0.105882 0.164706 0.360784 rg
+n
+38.5 818.3898 7 7 re
+f*
+1 1 1 rg
+n
+40.5 820.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+549.5 818.3898 7 7 re
+f*
+1 1 1 rg
+n
+551.5 820.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+38.5 9.3898 7 7 re
+f*
+1 1 1 rg
+n
+40.5 11.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+549.5 9.3898 7 7 re
+f*
+1 1 1 rg
+n
+551.5 11.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+Q
+
+endstream
+endobj
+41 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+42 0 obj
+<<
+/Contents 43 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 7 0 R
+/F1-0 44 0 R
+/F2 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+43 0 obj
+<<
+/Length 5577
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7.8 Tf 9.36 TL ET
+.180392 .360784 .541176 rg
+BT 1 0 0 1 60 801.8898 Tm (Ambulance Dispatch Simulator | DSA Project Interim Report) Tj T* ET
+.615686 .717647 .835294 RG
+.6 w
+n 60 795.8898 m 535.2756 795.8898 l S
+n 60 40 m 535.2756 40 l S
+.372549 .419608 .478431 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 60 28 Tm (Java | Data Structures and Algorithms) Tj T* ET
+BT 1 0 0 1 506.2206 28 Tm (Page 12) Tj T* ET
+Q
+q
+1 0 0 1 66 753.8898 cm
+q
+.121569 .219608 .392157 rg
+BT 1 0 0 1 0 3.5 Tm /F2 16.5 Tf 20 TL (Appendix A \227 Complete Java Source Code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 721.2898 cm
+q
+BT 1 0 0 1 0 16.2 Tm 13.63427 Tw 12.8 TL /F1 9.4 Tf 0 0 0 rg (Save the following code as ) Tj /F2 9.4 Tf (AmbulanceDispatchSimulator.java) Tj /F1 9.4 Tf (. Compile with ) Tj /F2 9.4 Tf (javac) Tj T* 0 Tw (AmbulanceDispatchSimulator.java) Tj /F1 9.4 Tf ( and run with ) Tj /F2 9.4 Tf (java AmbulanceDispatchSimulator) Tj /F1 9.4 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66 199.2898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 508.9 Tm /F3 7.1 Tf 8.6 TL (001  import java.util.*;) Tj T* (002  ) Tj T* (003  public class AmbulanceDispatchSimulator {) Tj T* (004  ) Tj T* (005      // ---------- Edge: one road to a neighbour location ----------) Tj T* (006      static class Edge {) Tj T* (007          String to;   // neighbour location) Tj T* (008          int km;      // distance in km) Tj T* (009  ) Tj T* (010          Edge\(String to, int km\) {) Tj T* (011              this.to = to;) Tj T* (012              this.km = km;) Tj T* (013          }) Tj T* (014      }) Tj T* (015  ) Tj T* (016      // ---------- Node: item stored in Dijkstra's PriorityQueue ----------) Tj T* (017      // The node with the smallest distance comes out first.) Tj T* (018      static class Node implements Comparable<Node> {) Tj T* (019          String name;) Tj T* (020          int dist;) Tj T* (021  ) Tj T* (022          Node\(String name, int dist\) {) Tj T* (023              this.name = name;) Tj T* (024              this.dist = dist;) Tj T* (025          }) Tj T* (026  ) Tj T* (027          public int compareTo\(Node other\) {) Tj T* (028              return this.dist - other.dist;) Tj T* (029          }) Tj T* (030      }) Tj T* (031  ) Tj T* (032      // ---------- Graph: the city map \(adjacency list\) ----------) Tj T* (033      static class Graph {) Tj T* (034          HashMap<String, ArrayList<Edge>> adj = new HashMap<>\(\);) Tj T* (035          HashMap<String, Integer> dist = new HashMap<>\(\);   // shortest distance found) Tj T* (036          HashMap<String, String> parent = new HashMap<>\(\);  // previous location on the path) Tj T* (037  ) Tj T* (038          // A road works in both directions, so add it twice.) Tj T* (039          void addRoad\(String a, String b, int km\) {) Tj T* (040              if \(!adj.containsKey\(a\)\) adj.put\(a, new ArrayList<Edge>\(\)\);) Tj T* (041              if \(!adj.containsKey\(b\)\) adj.put\(b, new ArrayList<Edge>\(\)\);) Tj T* (042              adj.get\(a\).add\(new Edge\(b, km\)\);) Tj T* (043              adj.get\(b\).add\(new Edge\(a, km\)\);) Tj T* (044          }) Tj T* (045  ) Tj T* (046          boolean hasLocation\(String name\) {) Tj T* (047              return adj.containsKey\(name\);) Tj T* (048          }) Tj T* (049  ) Tj T* (050          // Dijkstra's algorithm: finds the shortest distance from src to every location.) Tj T* (051          void dijkstra\(String src\) {) Tj T* (052              dist.clear\(\);) Tj T* (053              parent.clear\(\);) Tj T* (054              for \(String loc : adj.keySet\(\)\) {) Tj T* (055                  dist.put\(loc, 999999\);          // 999999 means "not reached yet") Tj T* (056              }) Tj T* (057              dist.put\(src, 0\);) Tj T* (058  ) Tj T* (059              PriorityQueue<Node> pq = new PriorityQueue<>\(\);) Tj T* (060              pq.add\(new Node\(src, 0\)\);) Tj T* ET
+Q
+q
+1 0 0 1 66 61.68976 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 130.5 Tm /F3 7.1 Tf 8.6 TL (061  ) Tj T* (062              while \(!pq.isEmpty\(\)\) {) Tj T* (063                  Node current = pq.poll\(\);       // closest location not yet processed) Tj T* (064                  if \(current.dist > dist.get\(current.name\)\) {) Tj T* (065                      continue;                   // old entry, a shorter way was already found) Tj T* (066                  }) Tj T* (067                  for \(Edge e : adj.get\(current.name\)\) {) Tj T* (068                      int newDist = current.dist + e.km;) Tj T* (069                      if \(newDist < dist.get\(e.to\)\) {      // shorter way found) Tj T* (070                          dist.put\(e.to, newDist\);) Tj T* (071                          parent.put\(e.to, current.name\);) Tj T* (072                          pq.add\(new Node\(e.to, newDist\)\);) Tj T* (073                      }) Tj T* (074                  }) Tj T* (075              }) Tj T* (076          }) Tj T* ET
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.105882 0.164706 0.360784 RG
+1.6 w
+n
+42 12.8898 511 809 re
+S
+0.560784 0.639216 0.8 RG
+0.5 w
+n
+46 16.8898 503 801 re
+S
+0.105882 0.164706 0.360784 rg
+n
+38.5 818.3898 7 7 re
+f*
+1 1 1 rg
+n
+40.5 820.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+549.5 818.3898 7 7 re
+f*
+1 1 1 rg
+n
+551.5 820.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+38.5 9.3898 7 7 re
+f*
+1 1 1 rg
+n
+40.5 11.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+549.5 9.3898 7 7 re
+f*
+1 1 1 rg
+n
+551.5 11.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+Q
+
+endstream
+endobj
+44 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+45 0 obj
+<<
+/Contents 46 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 7 0 R
+/F1-0 47 0 R
+/F2 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+46 0 obj
+<<
+/Length 5176
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7.8 Tf 9.36 TL ET
+.180392 .360784 .541176 rg
+BT 1 0 0 1 60 801.8898 Tm (Ambulance Dispatch Simulator | DSA Project Interim Report) Tj T* ET
+.615686 .717647 .835294 RG
+.6 w
+n 60 795.8898 m 535.2756 795.8898 l S
+n 60 40 m 535.2756 40 l S
+.372549 .419608 .478431 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 60 28 Tm (Java | Data Structures and Algorithms) Tj T* ET
+BT 1 0 0 1 506.2206 28 Tm (Page 13) Tj T* ET
+Q
+q
+1 0 0 1 66 395.4898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 371.3 Tm /F3 7.1 Tf 8.6 TL (077  ) Tj T* (078          int getDistance\(String dest\) {) Tj T* (079              return dist.get\(dest\);) Tj T* (080          }) Tj T* (081  ) Tj T* (082          // Builds the path text by going back from dest to the source using parent.) Tj T* (083          String getPath\(String dest\) {) Tj T* (084              String path = dest;) Tj T* (085              String p = parent.get\(dest\);) Tj T* (086              while \(p != null\) {) Tj T* (087                  path = p + " -> " + path;) Tj T* (088                  p = parent.get\(p\);) Tj T* (089              }) Tj T* (090              return path;) Tj T* (091          }) Tj T* (092      }) Tj T* (093  ) Tj T* (094      // ---------- Ambulance: id, current location and status ----------) Tj T* (095      static class Ambulance {) Tj T* (096          String id;) Tj T* (097          String location;) Tj T* (098          boolean available;) Tj T* (099  ) Tj T* (100          Ambulance\(String id, String location\) {) Tj T* (101              this.id = id;) Tj T* (102              this.location = location;) Tj T* (103              this.available = true;) Tj T* (104          }) Tj T* (105      }) Tj T* (106  ) Tj T* (107      // ---------- Emergency: location, severity and arrival number ----------) Tj T* (108      static class Emergency implements Comparable<Emergency> {) Tj T* (109          String location;) Tj T* (110          int severity;   // 1 = critical, 3 = minor) Tj T* (111          int seq;        // arrival number) Tj T* (112  ) Tj T* (113          Emergency\(String location, int severity, int seq\) {) Tj T* (114              this.location = location;) Tj T* (115              this.severity = severity;) Tj T* (116              this.seq = seq;) Tj T* (117          }) Tj T* (118  ) Tj T* (119          // Lower severity number first; if equal, the earlier request first.) Tj T* (120          public int compareTo\(Emergency other\) {) Tj T* ET
+Q
+q
+1 0 0 1 66 60.08976 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 328.3 Tm /F3 7.1 Tf 8.6 TL (121              if \(this.severity != other.severity\) {) Tj T* (122                  return this.severity - other.severity;) Tj T* (123              }) Tj T* (124              return this.seq - other.seq;) Tj T* (125          }) Tj T* (126      }) Tj T* (127  ) Tj T* (128      // ---------- Simulator data ----------) Tj T* (129      Graph graph = new Graph\(\);) Tj T* (130      ArrayList<Ambulance> ambulances = new ArrayList<>\(\);) Tj T* (131      PriorityQueue<Emergency> waiting = new PriorityQueue<>\(\);) Tj T* (132      int arrivalCounter = 0;) Tj T* (133  ) Tj T* (134      AmbulanceDispatchSimulator\(\) {) Tj T* (135          graph.addRoad\("Hospital", "Sector1", 4\);) Tj T* (136          graph.addRoad\("Sector1", "Sector2", 3\);) Tj T* (137          graph.addRoad\("Sector2", "Sector3", 5\);) Tj T* (138          graph.addRoad\("Hospital", "Sector3", 10\);) Tj T* (139          ambulances.add\(new Ambulance\("AMB1", "Hospital"\)\);) Tj T* (140          ambulances.add\(new Ambulance\("AMB2", "Sector3"\)\);) Tj T* (141      }) Tj T* (142  ) Tj T* (143      // Dispatch: send the nearest free ambulance, or put the request in the queue.) Tj T* (144      void dispatch\(String loc, int sev\) {) Tj T* (145          if \(!graph.hasLocation\(loc\)\) {) Tj T* (146              System.out.println\("Location " + loc + " not found."\);) Tj T* (147              return;) Tj T* (148          }) Tj T* (149          boolean sent = sendNearest\(loc\);) Tj T* (150          if \(!sent\) {) Tj T* (151              arrivalCounter++;) Tj T* (152              waiting.add\(new Emergency\(loc, sev, arrivalCounter\)\);) Tj T* (153              System.out.println\("No ambulance available. Request queued."\);) Tj T* (154          }) Tj T* (155      }) Tj T* (156  ) Tj T* (157      // Runs Dijkstra from every free ambulance and sends the one with the smallest distance.) Tj T* (158      // Returns false if there is no free ambulance.) Tj T* (159      boolean sendNearest\(String loc\) {) Tj T* ET
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.105882 0.164706 0.360784 RG
+1.6 w
+n
+42 12.8898 511 809 re
+S
+0.560784 0.639216 0.8 RG
+0.5 w
+n
+46 16.8898 503 801 re
+S
+0.105882 0.164706 0.360784 rg
+n
+38.5 818.3898 7 7 re
+f*
+1 1 1 rg
+n
+40.5 820.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+549.5 818.3898 7 7 re
+f*
+1 1 1 rg
+n
+551.5 820.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+38.5 9.3898 7 7 re
+f*
+1 1 1 rg
+n
+40.5 11.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+549.5 9.3898 7 7 re
+f*
+1 1 1 rg
+n
+551.5 11.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+Q
+
+endstream
+endobj
+47 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+48 0 obj
+<<
+/Contents 49 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 7 0 R
+/F1-0 50 0 R
+/F2 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+49 0 obj
+<<
+/Length 5418
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7.8 Tf 9.36 TL ET
+.180392 .360784 .541176 rg
+BT 1 0 0 1 60 801.8898 Tm (Ambulance Dispatch Simulator | DSA Project Interim Report) Tj T* ET
+.615686 .717647 .835294 RG
+.6 w
+n 60 795.8898 m 535.2756 795.8898 l S
+n 60 40 m 535.2756 40 l S
+.372549 .419608 .478431 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 60 28 Tm (Java | Data Structures and Algorithms) Tj T* ET
+BT 1 0 0 1 506.2206 28 Tm (Page 14) Tj T* ET
+Q
+q
+1 0 0 1 66 593.2898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 173.5 Tm /F3 7.1 Tf 8.6 TL (160          Ambulance best = null;) Tj T* (161          int bestDist = 999999;) Tj T* (162          String bestPath = "";) Tj T* (163  ) Tj T* (164          for \(Ambulance a : ambulances\) {) Tj T* (165              if \(a.available\) {) Tj T* (166                  graph.dijkstra\(a.location\);) Tj T* (167                  int d = graph.getDistance\(loc\);) Tj T* (168                  if \(d < bestDist\) {              // '<' keeps the first ambulance on a tie) Tj T* (169                      best = a;) Tj T* (170                      bestDist = d;) Tj T* (171                      bestPath = graph.getPath\(loc\);) Tj T* (172                  }) Tj T* (173              }) Tj T* (174          }) Tj T* (175  ) Tj T* (176          if \(best == null\) {) Tj T* (177              return false;) Tj T* (178          }) Tj T* (179  ) Tj T* (180          best.available = false;) Tj T* ET
+Q
+q
+1 0 0 1 66 77.28976 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 508.9 Tm /F3 7.1 Tf 8.6 TL (181          best.location = loc;) Tj T* (182          System.out.println\("Nearest ambulance: " + best.id\);) Tj T* (183          System.out.println\("Path: " + bestPath + " | Distance: " + bestDist + " km"\);) Tj T* (184          System.out.println\(best.id + " status: Busy"\);) Tj T* (185          return true;) Tj T* (186      }) Tj T* (187  ) Tj T* (188      // Complete trip: free the ambulance, then serve the most severe waiting request.) Tj T* (189      void completeTrip\(String id\) {) Tj T* (190          Ambulance amb = null;) Tj T* (191          for \(Ambulance a : ambulances\) {) Tj T* (192              if \(a.id.equals\(id\)\) {) Tj T* (193                  amb = a;) Tj T* (194              }) Tj T* (195          }) Tj T* (196          if \(amb == null\) {) Tj T* (197              System.out.println\("Ambulance " + id + " not found."\);) Tj T* (198              return;) Tj T* (199          }) Tj T* (200          if \(amb.available\) {) Tj T* (201              System.out.println\(amb.id + " is not on a trip."\);) Tj T* (202              return;) Tj T* (203          }) Tj T* (204  ) Tj T* (205          amb.available = true;) Tj T* (206          if \(waiting.isEmpty\(\)\) {) Tj T* (207              System.out.println\(amb.id + " is free at " + amb.location + ". No waiting requests."\);) Tj T* (208          } else {) Tj T* (209              Emergency next = waiting.poll\(\);      // most severe request) Tj T* (210              System.out.println\(amb.id + " is free. Serving most severe request: ") Tj T* (211                      + next.location + " \(Severity " + next.severity + "\)."\);) Tj T* (212              sendNearest\(next.location\);) Tj T* (213          }) Tj T* (214      }) Tj T* (215  ) Tj T* (216      void showStatus\(\) {) Tj T* (217          System.out.println\("ID      Status      Location"\);) Tj T* (218          for \(Ambulance a : ambulances\) {) Tj T* (219              String status = a.available ? "Available" : "Busy";) Tj T* (220              System.out.println\(a.id + "    " + status + "   " + a.location\);) Tj T* (221          }) Tj T* (222          System.out.println\("Waiting requests: " + waiting.size\(\)\);) Tj T* (223      }) Tj T* (224  ) Tj T* (225      // Reads a whole number between min and max; asks again if the input is wrong.) Tj T* (226      static int readNumber\(Scanner sc, String prompt, int min, int max\) {) Tj T* (227          while \(true\) {) Tj T* (228              System.out.print\(prompt\);) Tj T* (229              String text = sc.next\(\);) Tj T* (230              try {) Tj T* (231                  int value = Integer.parseInt\(text\);) Tj T* (232                  if \(value >= min && value <= max\) {) Tj T* (233                      return value;) Tj T* (234                  }) Tj T* (235              } catch \(NumberFormatException e\) {) Tj T* (236                  // not a number, fall through to the message below) Tj T* (237              }) Tj T* (238              System.out.println\("Invalid input. Enter a number from " + min + " to " + max + "."\);) Tj T* (239          }) Tj T* (240      }) Tj T* ET
+Q
+q
+1 0 0 1 66 60.08976 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 10.1 Tm /F3 7.1 Tf 8.6 TL (241  ) Tj T* (242      public static void main\(String[] args\) {) Tj T* ET
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.105882 0.164706 0.360784 RG
+1.6 w
+n
+42 12.8898 511 809 re
+S
+0.560784 0.639216 0.8 RG
+0.5 w
+n
+46 16.8898 503 801 re
+S
+0.105882 0.164706 0.360784 rg
+n
+38.5 818.3898 7 7 re
+f*
+1 1 1 rg
+n
+40.5 820.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+549.5 818.3898 7 7 re
+f*
+1 1 1 rg
+n
+551.5 820.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+38.5 9.3898 7 7 re
+f*
+1 1 1 rg
+n
+40.5 11.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+549.5 9.3898 7 7 re
+f*
+1 1 1 rg
+n
+551.5 11.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+Q
+
+endstream
+endobj
+50 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+51 0 obj
+<<
+/Contents 52 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 7 0 R
+/F1-0 53 0 R
+/F2 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+52 0 obj
+<<
+/Length 2709
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7.8 Tf 9.36 TL ET
+.180392 .360784 .541176 rg
+BT 1 0 0 1 60 801.8898 Tm (Ambulance Dispatch Simulator | DSA Project Interim Report) Tj T* ET
+.615686 .717647 .835294 RG
+.6 w
+n 60 795.8898 m 535.2756 795.8898 l S
+n 60 40 m 535.2756 40 l S
+.372549 .419608 .478431 rg
+BT /F1 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 60 28 Tm (Java | Data Structures and Algorithms) Tj T* ET
+BT 1 0 0 1 506.2206 28 Tm (Page 15) Tj T* ET
+Q
+q
+1 0 0 1 66 524.4898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 242.3 Tm /F3 7.1 Tf 8.6 TL (243          Scanner sc = new Scanner\(System.in\);) Tj T* (244          AmbulanceDispatchSimulator sim = new AmbulanceDispatchSimulator\(\);) Tj T* (245          int choice = 0;) Tj T* (246  ) Tj T* (247          while \(choice != 4\) {) Tj T* (248              System.out.println\("\\n===== AMBULANCE DISPATCH SIMULATOR ====="\);) Tj T* (249              System.out.println\("1. Dispatch Emergency"\);) Tj T* (250              System.out.println\("2. Complete Trip"\);) Tj T* (251              System.out.println\("3. Show Status"\);) Tj T* (252              System.out.println\("4. Exit"\);) Tj T* (253              choice = readNumber\(sc, "Enter choice: ", 1, 4\);) Tj T* (254  ) Tj T* (255              if \(choice == 1\) {) Tj T* (256                  System.out.print\("Emergency location: "\);) Tj T* (257                  String loc = sc.next\(\);) Tj T* (258                  int sev = readNumber\(sc, "Severity \(1 = critical, 3 = minor\): ", 1, 3\);) Tj T* (259                  sim.dispatch\(loc, sev\);) Tj T* (260              } else if \(choice == 2\) {) Tj T* (261                  System.out.print\("Ambulance ID \(AMB1 or AMB2\): "\);) Tj T* (262                  String id = sc.next\(\);) Tj T* (263                  sim.completeTrip\(id\);) Tj T* (264              } else if \(choice == 3\) {) Tj T* (265                  sim.showStatus\(\);) Tj T* (266              }) Tj T* (267          }) Tj T* (268          System.out.println\("Thank you. Program ended."\);) Tj T* (269          sc.close\(\);) Tj T* (270      }) Tj T* (271  }) Tj T* ET
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.105882 0.164706 0.360784 RG
+1.6 w
+n
+42 12.8898 511 809 re
+S
+0.560784 0.639216 0.8 RG
+0.5 w
+n
+46 16.8898 503 801 re
+S
+0.105882 0.164706 0.360784 rg
+n
+38.5 818.3898 7 7 re
+f*
+1 1 1 rg
+n
+40.5 820.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+549.5 818.3898 7 7 re
+f*
+1 1 1 rg
+n
+551.5 820.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+38.5 9.3898 7 7 re
+f*
+1 1 1 rg
+n
+40.5 11.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+n
+549.5 9.3898 7 7 re
+f*
+1 1 1 rg
+n
+551.5 11.3898 3 3 re
+f*
+0.105882 0.164706 0.360784 rg
+Q
+
+endstream
+endobj
+53 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 54
+0000000000 65535 f 
+0000000015 00000 n 
+0000000140 00000 n 
+0000000298 00000 n 
+0000000347 00000 n 
+0000000675 00000 n 
+0000004412 00000 n 
+0000053170 00000 n 
+0000053277 00000 n 
+0000053384 00000 n 
+0000053496 00000 n 
+0000053602 00000 n 
+0000053718 00000 n 
+0000053986 00000 n 
+0000062681 00000 n 
+0000062789 00000 n 
+0000063057 00000 n 
+0000071940 00000 n 
+0000072048 00000 n 
+0000072316 00000 n 
+0000080275 00000 n 
+0000080383 00000 n 
+0000080651 00000 n 
+0000087758 00000 n 
+0000087866 00000 n 
+0000088134 00000 n 
+0000095843 00000 n 
+0000095951 00000 n 
+0000096219 00000 n 
+0000103992 00000 n 
+0000104100 00000 n 
+0000104368 00000 n 
+0000109154 00000 n 
+0000109262 00000 n 
+0000109530 00000 n 
+0000115938 00000 n 
+0000116046 00000 n 
+0000116314 00000 n 
+0000121497 00000 n 
+0000121605 00000 n 
+0000121873 00000 n 
+0000132086 00000 n 
+0000132194 00000 n 
+0000132462 00000 n 
+0000138092 00000 n 
+0000138200 00000 n 
+0000138468 00000 n 
+0000143697 00000 n 
+0000143805 00000 n 
+0000144073 00000 n 
+0000149544 00000 n 
+0000149652 00000 n 
+0000149920 00000 n 
+0000152682 00000 n 
+trailer
+<<
+/Size 54
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+152790
+%%EOF
